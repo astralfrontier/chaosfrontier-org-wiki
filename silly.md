@@ -1,6 +1,11 @@
 <!-- TITLE: Silly Ideas -->
 <!-- SUBTITLE: Goofball RPG ideas, dumb mashups, and other shenanigans -->
 
+# Weird character ideas
+* Ninja Culinarian
+
+# Strange fanfics
+* I know there is Nightmare Before Christmas fanfic where Jack takes over another holiday. [My favorite](https://twitter.com/opensorcerer/status/865181951266660352) would be Valentine's day.
 # Left field game ideas
 * **Maid: the Ascension** - a mashup of [Mage](https://whitewolf.fandom.com/wiki/Mage:_The_Ascension) and [Maid](http://www.maidrpg.com/)
 

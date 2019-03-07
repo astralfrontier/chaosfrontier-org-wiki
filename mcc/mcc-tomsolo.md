@@ -1,0 +1,79 @@
+Flight was on the agenda. However, Tom had recieved a call from Chris. She wanted to go walking; she had eaten up her lunch break running errands for Arlene, and wanted to take a nice relaxing stroll. Who better then with Tom? He'd been busy of late, and the more time they got together, the better, right?
+
+Thomas is actually relieved by this message, and he wastes no time answering the summons. He shows, after a few minutes spent in a public restroom combing his hair and making imself presentable, in his usual fashion - unexpectedly. Dropping off the armor at home, he makes best speed (for himself) for High Park, that grassy and relaxing vista atop the Millennium Mall. With shopping below, relaxing above, and walkways and other pedestrian accommodations leading away into the arteries of the city, it's a nexus of entertainment and enjoyment.
+
+Chris is waiting by the walkway that would lead Tom to the top of the mall. She smiles, wearing bright colors for the spring- a yellow vest over a robin's egg blue shirt and white khaki shorts. She jogs a little forward to meet Tom half way, smiling. "Glad you could make it so quick!"
+
+Thomas smiles and waves jauntily, his face a perfect image of delight. Here is what he has been lacking lately - some time to be himself, to withdraw from the cares of the world, despite the fact that he himself shouldered them. "For you, I'd fly here," he promises.
+
+That earns a warm smile in return. "I'm sure that would rack up the frequent flyer minutes." She grins, and turns, walking out into High Park.
+
+As Tom moves to follow, his attention shifts to another walkway, sixty or so feet and to the left. Five men, walking with spaces apart, but their attention is completely drawn to Chris. Atleast, that's what it seems; sure, they may be hiding it behind sunglasses or sideglances, but they don't look right. Too clean cut. Too determined strides. One - the one in the lead - is wearing a dark red shirt.
+
+Thomas frowns a little, as the threads of male possessiveness mix with the suspicions of a vigilante in the tapestry of his thought. He returns his attention to his belle, smiling widely again. "We can go shopping, if you want, or just take a walk. My time is yours."
+
+"Good to know I have it," She offers. Though it doesn't sound passive aggressive, Tom knows that he hasn't had that much time with her. It could be an unintended barb. "I'm good to just walk around. Been going back and forth so much, I want time to stroll." Her hands find her pockets. Turning around to walk backwards, watching him, "So..."
+
+Thomas smiles and spreads his hands. "Been busy. Got a new spate of reading in - artificial intelligence and computing. It's fascinating stuff, you know." His eyes dim a little as he considers his schedule of late. "But, books are infinitely patient, I know. I'm sorry."
+
+Chris draws a hand out of her pocket to tap him on the nose. "Spend too much time with your nose in a book, it's going to get ink stains." She wags her finger in a tisking manner. Turning herself back around, "But, I know. I need to hit the books too, but I havn't had Time because of Arlene." He can Hear her roll her eyes.
+
+Chuckling, the college kid keeps pace. "I'm always here to help, however I can... you know that," he says reassuringly. "Anyway, are you AWOL or something? Or am I your next story?"
+
+A look over her shoulder. "Sure. 'Average college boy with rich dad. Bookworm, hard student. Sense of humor.' Not a lot to interest the reader if it's just a profile. Not excitiing enough." A cool wind sweeps by, kicking at her hair.
+
+Thomas smiles a little. "Well, then, 'ace reporter, college student, photographer with keen artistic sense, involved with dazzlingly brilliant boyfriend'? It's a story worthy of the front page," he grins. "Still, what would you like to write about most, of anything at all?"
+
+Chris smiles over her shoulder, slowing down to walk side by side. "Okay, so maybe you are worth a story," comes the commentary, swinging her arm around to give a light waist-squeeze. She considers. "I don't know. Something that ... would get me noticed. An interview, maybe? Score an interview with someone no one can get. Or maybe uncover something big," She widens her arms, "Or... I'm not sure." She laughs suddenly. "A cat show."
+
+Thomas grins. "Cats I can swing. An interview would be tougher. But... I'll see what I can do, hmmm?" he promises, only half-teasingly. This thought occupies him for several moments, long enough indeed to delay his periodic inspection of the scene for those five strangers from earlier.
+
+Red shirt is in sight. He's hovering in the background, supposedly smoking a cigarette while loitering, but every few second's he's casting glances towards the two. The other four aren't near him, precisely. Chris's words bring him back though. "Yeah. I had a cat when I was younger, named Chairman Meow. He was a showcat, and I had so much fun. He recieved second place, but first place went to a Russian blue hair."
+
+Thomas lets his awareness dim out for a moment, as the sense of perception washes through his brain. At first the impulse is painful, as it always is; but after a moment his mundane senses are augmented by this infinitely more practical mode of vision. ".. Blue hair?" he stumbles, smiling, as he realizes he's only caught the tail end of something. The more generic the response, the better, he judges. "Tell me more?"
+
+Chris shrugs, and tugs him along one of the walking trails. Red is moving closer, though far enough to not be suspicious. "A russian blue hair. Sort've grey along the body, but black? The judges were swapping them back and forth, and took them atleast five minutes to decide the winner. The blue hair had more manicured nails then Chairman Meow."
+
+"Huh," says Tom, noncommittally. "I guess that's driving nails into the coffin of victory?" he grins after a moment. "Sorry, sorry. Anyway..." Another generic question follows, a safe one considering the girl he's with. "You took pictures, right? I'd like to look at them sometime."
+
+She nods. "Sure. They're old, but I have lots of pictures of him." Grinning, "I should show you some of my scrap books... My earlier ones are at my parents house though." Her mother is rather... annoying. But seems to like Tom, unlike his father regarding Chris. The path they've chosen is moving a little deeper into the park, along some trees that grew Very fast during their planting; some tampering with their genetics. It offers great shade... and great shielding. The man who is Red is moving in closer, while the others have fanned out.
+
+Thomas tenses a little, but forces himself to relax. "Hey, Chris...." he asks neutrally, as much as he can, "you been keeping up on the news lately?" Doubts are beginning to form; these men are clearly after something, but is it her, or him? Or her, because of him? Or...? No telling. All he can do is keep walking; to do anything else would be to arouse undue suspicion.
+
+"Hm? No, only what filtered into the office this morning. I left around eleven, so I've been listening to CD all day. Why?" They're getting closer. Red is, atleast. Though Chris turns down another trail, leading back out towards the open area of the Park. Trees grow like walls here, leading out of the path. Tom senses that one of the men has circled around, lurking behind one of the trees near the entrance; others are moving in.
+
+"Well, you know, I've just been busy. So I thought, who better to ask for the news? You could be my own personal anchor-woman, except that I know you're a lot more than a talking head.." These complimentary words roll from Tom's lips without a thought - no effort is needed for him to praise a girl whose intellect is at least near his level, and whose ambition may surpass even his own in some areas. Still, he relies on the greater part of his mind to study this new and apparent threat.
+
+Beyond the treeline is a walkway leading to a gazebo, and further past that a ring of statues. Memorial Park houses the dedications to the Battle of Detroit, and the people - civilian, fireman, policeman, and super alike - who died that day. However, High Park has held a memorial for heros lost in the city's history, not to mention national heros who have fallen in the line of duty. But that is beyond the lurking individual, who's not ten paces to the left, with his comrads closing. Chris walks on, before stopping. "Oh, hey," She says, as Tom's eyes spot the man starting to move from behind the tree. "A squirrel." Chris steps to the opposite side of the trail, clicking her tongue to the squirrel.
+
+Thomas walks forward a few feet behind, hands discreetly rolling themselves into fists, half-concealed in his pockets. "Got anything to feed it?" he asks casually.
+
+Checking her pockets, "Nothing but lent." She does, however, extract a disposable camera from her pocket. She normally is not without one, for occasions like this. "Stay still," She whispers to the squirrel, and kneels, holding the camera up. Now the guy seems ballsy, and steps out from behind the tree.
+
+Thomas steps forward, interposing himself between his girlfriend and the newcomer, fists now out and bared. His eyes are narrow slits, and his feet are light with nervous energy, ready to rise up or dart forward when needed.
+
+Thomas throws a punch suddenly, catching his surprised target somewhat off-guard, and clipping the man across the chin.
+
+The man catches it right under the chin, and sends him rocking back, off of his feet. He hits the dirt, gripping his face. Luckily, Chris didn't hear it as the flash goes off, but the squirrel obviously did, bolting along the branch. Tom's perception pick up the men moving at a quicker pace, closing the distance. In their setup, they'll surround the two if they don't move.
+
+"Hey Chris, let's get some ice cream, right now," says Tom evenly, taking a firm hold of his girlfriend's upper arm and hoisting her to her feet as gently as is consistent with speed. He starts off in a very definite direction - out of the trees, down into the more populated areas around Millennium Mall.
+
+"Huh? Oh, y'know, I am a little hungry. I did skip lunch..." SHe gets up with a start, but falls into place beside him. One of the men - who was coming around - is now moving more diagnial towards the gazebo, while the others are following like a pack of wolves, one loitering beind a tree. The punched one eases to his feet, but now he's lagging behind them. This guy is on Chris's left, on the opposite side from Tom.
+
+Letting go his grip on Chris for a moment, Tom darts behind the tree. He leaps bodily up and over the second stalker, knees locking tight around the man's neck as he passes atop him. Tom descends, using the leverage of his fall to initiate a painful backwards throw. The thug crashes to the ground and Tom rolls acrobatically to his feet, coming back into view with a jaunty 'ta-da' expression on his face, his arms wide as though to receive adulation.
+
+Chris grins a little bit. "Being a kid, aren't you? All hyper all of a sudden. Well, try and catch me!" WIth that, she darts out of the path and towards the Gazebo. As it stands, however, one of the guys breaks for her, running after her from a diagnial. He'll catch her before she reaches the stairs of course.
+
+Thomas grins, rushing forward afterward. His flashing teeth aren't exposed in a show of light and delicate enjoyment, though; right now he's feeling the feral savagery of a fight bubbling into his veins, remembering what it's like to separate the innocent from the guilty like wheat from chaff, and his body now is a sharp and well-honed scythe.
+
+Thomas rushes forward, kicking off the ground. With one arm he performs a repeat of his previous technique, locking his elbow tight around this man's windpipe, bringing him jarringly to ground. As Tom rises, he finishes with a vicious heel-stomp into the man's solar plexus, leaving him unconscious, and of course he's sprinting away after Chris, calling out to her as he moves rapidly off to the other side, drawing her attention away from the downed figure.
+
+Chris holds up a stop and turns to Tom, who's on the opposite side of the unconcious man by the time she turns. A laugh, and she's moving up into the gazebo, looking around. Her brow furrows as she looks up. A tug. "C'mon Tom. There's a wasp's nest up there." She's starting down the steps, where the other guy is crouched along the side of the steps. He could simply reach through and grab her ankle. The others are moving around the gazebo, now with more of a hustle to them.
+
+Thomas follows along quickly, hopping up over the edge and hopping back down beside the stairs, in preference to just trotting down them. Of course his feet come down heavily on the back of another of these strange stalkers, and he follows the muted 'oof' of the man's landing by a brief, but annoyed, kick to the head before rushing forward again, still darting to the other side to distract Chris.
+
+They're fanning out, and following the directions to a T. Chris is headed for the cluster of statues, and the two on the outside are jogging, taking the pace. As the one on the left enters Tom's field of vision, he can see the man reach into his jacket; if he's going for a weapon, the man has a shoulder rig. After a second or two, the stomped on man gets up, and follows with a determined speed. It's about to go down.
+
+Thomas darts to one side, loping quickly and determinedly forward, using the statues as cover when possible. He drops low, sweeping one ankle around hard, knocking the man to the ground, and as he falls, Tom's elbow is already poised above his chest. It comes down, driving hard into the hand that was reaching into his jacket. While it won't knock him out, Tom's aim is not directed purely by practical considerations.
+
+By the time Thomas reached him, the man had made it to the clustering statue garden. However, the others are moving in fast; the man on the right has allready taken position, and the others are filtering in. "You hiding?" Chris calls out, having entered into the center of the cluster.

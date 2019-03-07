@@ -1,0 +1,29 @@
+Chris had called Arlene. Apparently Arlene was fine. She had been hassled twice about it, one in her office, one on her way to lunch. Arlene had left early with her lap top to avoid them a third time. As it turns out, the individuals in question want tapes, notes, reports of the Ghost Knight's powers. Spesificly documented evidence. She did not like giving it to obvious criminals. Having told Chris to go in and talk to the editor about this problem, Chris heads back to work. Tom goes with her, merely for the moral - and on an unspoken level, protective - support.
+
+Thomas says nothing, leaving the matter up to Chris. Some situations are disturbing enough that further disturbance - even a mild question - can cause trouble, and Tom wants his lady to have whatever time and space she needs to sort things out. Truth be told, of course, he isn't sure he wants to bring the subject up either, lest his own involvement become a topic of speculation.
+
+Chris seems to have calmed down since the situation itself. She's now paranoid, but otherwise is handling it well. Though, all through the drive, she's been eyeing him out of the corner of her eye. Eventually, she says it. "Tom... that was dangerous back there, wasn't it?"
+
+"What, guys with guns? Yeah, a little bit," says Tom, smiling a little, as he measures the mood with levity. "But it didn't seem like they wanted to kill anyone.. Just ask questions."
+
+She nods, and stops at a red light. "Right." A heartbeat. "But then you up and attacked them? I mean, you could have gotten us shot. Why'd you do that?"
+
+Thomas stumbles a little bit. "Well.. you know, I wasn't really sure what they intended.... if they were going to do something bad, or what, so.. I acted. I couldn't let them hurt you, and if one of them had tried, I..... I could have stopped him." He doesn't say what he thinks, privately. That he acted without thinking, because an innocent - the girl he's dating, no less - had been put into danger. _Gotta watch that temper.. sometimes.. I'm out of control, I guess._
+
+That gets a nod. It's understandable. "Okay. But..." She looks over at him. "Where did you learn how to Do that?"
+
+"Huh? Oh, wushu?" Tom grins. "That's what my uncle calls it. He went into Asia in '74 and finally came back a few years ago. He's been writing books since then." No sense telling her what the books are about either; Peter Temple never was particularly forthcoming about his time in the East. "But he's ex-Marine and he figured I should learn SOMETHING."
+
+Chris laughs at that, and stops short behind a car in front of her. "Okay. Well, I need to learn something too... Arlene's been urging me to come with her on the shooting range, and defense classes. She's rather adament about a reporter knowing how to protect themselves, especially considering where we go to get stories."
+
+"That's good," says Tom, his voice perhaps betraying the gratitude he feels for having apparently dodged this bullet. "Of course, if you want a bodyguard, you can always call on me, right?"
+
+That earns a grin. "Sure. Speaking of your uncle... I havn't gotten a chance to really get to know your family. Well, there was that dinner... I like your aunt."
+
+"Everybody does," says Tom, smiling. "Well, my uncle is his own man.. he lives by himself, but I visit him when I can, obviously. And we have semi-regular practices.." He considers for a moment how difficult or troublesome it'd be to arrange a meeting. Certainly having more support in the family wouldn't hurt his case.
+
+"Well, if he's kind've hermitish, I hope that talking to him isn't that difficult." Chris often has a little trouble milking conversation from some people, but most of them there isn't a problem.
+
+Thomas nods. "No problem. He... well, there are times he won't STOP talking," he says with a grin. "He's full of stories, full of life. I think you might enjoy meeting him."
+
+After getting back to work, and talking to her editor, the editor decides to keep the police aware, but that no spesific threats have yet to be made past the situation in the park. Checking her own answering machine, "Hey, Chris! You have no idea who called for you. Lydon Yamaguchi." She gives the number. "Call him back! Ooo!"

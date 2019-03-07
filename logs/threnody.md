@@ -3,4 +3,4 @@
 
 # threnody
 
-* [threnody-2009-04-07.md](threnody/threnody-2009-04-07.md)
+* [threnody-2009-04-07](threnody/threnody-2009-04-07)

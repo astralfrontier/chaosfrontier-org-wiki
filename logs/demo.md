@@ -3,4 +3,4 @@
 
 # demo
 
-* [demo-2009-06-20.md](demo/demo-2009-06-20.md)
+* [demo-2009-06-20](demo/demo-2009-06-20)

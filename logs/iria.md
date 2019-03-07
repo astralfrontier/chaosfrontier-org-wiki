@@ -3,7 +3,7 @@
 
 # iria
 
-* [billoneshot.md](iria/billoneshot.md)
-* [iria-2002-08-15.md](iria/iria-2002-08-15.md)
-* [iria-2002-08-22.md](iria/iria-2002-08-22.md)
-* [oneshotparttwo.md](iria/oneshotparttwo.md)
+* [billoneshot](iria/billoneshot)
+* [iria-2002-08-15](iria/iria-2002-08-15)
+* [iria-2002-08-22](iria/iria-2002-08-22)
+* [oneshotparttwo](iria/oneshotparttwo)

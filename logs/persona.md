@@ -3,4 +3,4 @@
 
 # persona
 
-* [persona-2011-08-07.md](persona/persona-2011-08-07.md)
+* [persona-2011-08-07](persona/persona-2011-08-07)

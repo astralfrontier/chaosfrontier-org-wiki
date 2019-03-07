@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-08-18 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-08-18
+
 > (OOC) Log "Untergang-2011-08-18" started by Doc at Thu Aug 18 21:14:40 2011 CDT (OOC)
 
 The refit of the _Alexander Nevsky_ included a fully-functional nanofactory: a chamber yards in diameter, filled with high-density industrial nanomachines. With this, and with the system of arteries and veins already embedded into the ship, other systems can be built. Systems like a quantum farcaster.

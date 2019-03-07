@@ -1,3 +1,8 @@
+<!-- TITLE: Millennium City Chronicles tomdowntime -->
+<!-- SUBTITLE: A game log for Millennium City Chronicles -->
+
+# Millennium City Chronicles tomdowntime
+
 Never one to let a job slide into lassitude, Thomas Temple has draped himself comfortably over one bench at Wayne County Metropolitan Airport, twelve miles away from the city proper, and the closest approach to it by air - at least, by conventional air, he grins to himself, remembering the mutual assistance he and Lydon will render to each other. A psychology textbook is laid open on his lap, and he peruses it only superficially, for the larger part of his mind is spent studying the storage lockers nearby. His sense of perception rifles lightly through them when he can, when a passing body doesn't obstruct his \`view'.
 
 Apparently some of the population has been naughty. There are a handfull of things that can catch the interest. One has a standard duffle bag full of artillery, ranging from a beretta with a silencer to a submachine gun pistol. Another has a laptop, and as the mental evaluation goes, three thousand dollars. A third has... something a little more interesting. Even with the perception combing through, the device's puprose isn't... exactly determinable. Whatever it is, though, it is certainly impressive, or expensive.

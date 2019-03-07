@@ -1,3 +1,8 @@
+<!-- TITLE: oneshotparttwo -->
+<!-- SUBTITLE: A game log for Iria -->
+
+# oneshotparttwo
+
 Crouched behind an overhang of volcanic rock, the Elven stranger listens to the conversation of three men passing by through the tunnels. The three fade, heading apparently from the grated outside entrance toward the "office".
 
 Quarrel, guessing that if they had came from the grate, that it's still locked, he takes up his cloak wrapped lantern in one bracing hand, and mace in the other. Then, simply walks after them... at a definet distance.

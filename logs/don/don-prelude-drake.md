@@ -1,3 +1,8 @@
+<!-- TITLE: Dead of Night prelude-drake -->
+<!-- SUBTITLE: A game log for Dead of Night -->
+
+# Dead of Night prelude-drake
+
 "Quality healthcare" is tough to find for guys in certain lines of work. Still, if one is subtle enough, the muscle-ache from an old trail of gunshot wounds can be passed off as merely one more of the difficulties involved in having a human body. When it develops into a persistent pain, though, enough to leave flashes in front of the eyes, it comes time to see someone with a little professional reliability. Thus, the phone call which has just concluded. Students are cheaper, less prone to notice odd signs, and often available. An appointment has been made for tomorrow; now, all that's left is to wait and ponder this new city and its potential.
 
 Drake reaches into a coat pocket for a packet of Kool Lights he left there. He fishes out one of the menthol cigarettes, screws it to his lips, and lights it with his gold zippo. And then snaps it closed in that fancy way they always do in the movies. He likes the movies, even if he's the kinda guy that always gets killed in them. Taking a puff, he looks up and down the street. Being chased by the Syndicate does make one paranoid, but it's more than that. Wherever he goes, wherever he is, he's always on the lookout for potential marks. His stash of cash money is getting low, and if he's going to keep one step ahead of the Syndicate, he needs money. If he's going to live, he needs money. So, he looks.

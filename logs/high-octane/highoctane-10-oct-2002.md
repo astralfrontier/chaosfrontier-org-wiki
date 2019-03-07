@@ -1,3 +1,8 @@
+<!-- TITLE: highoctane-10-oct-2002 -->
+<!-- SUBTITLE: A game log for High Octane -->
+
+# highoctane-10-oct-2002
+
 It's the day after the show. Johnny Z and his entourage (consisting of Janice Bourne, bodyguard, and Spider Malone, getaway driver) are cooling off in Johnny's studio/office, the second floor of a two-story office building in northern Los Angeles. The loft is littered with bits of electronic junk, pieces of sheet music, reel-to-reel tapes, and music magazines. The only clear spots are a large leather couch, and a relatively paper-free corner where Janice has her desk.
 
 Spider is lounging on one corner of the couch, perched like a gargoyle and idly tinkering with a discarded device's broken connectors.

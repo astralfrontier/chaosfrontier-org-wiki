@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-05-12 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-05-12
+
 > (OOC) Log "Untergang-2011-05-12" started by Doc at Thu May 12 21:25:04 2011 CDT (OOC)
 
 Firewall SITREP: Aboard the _Alexander Nevsky_, a SLOTV in deep space. Four unknowns in hypothermic hibernation, emerging in violation of safety protocols. Five active Firewall agents, four sleeved into biomorphs, one infomorph. Ship has just over a day of life support remaining and is badly damaged; cause unknown. Details to follow.

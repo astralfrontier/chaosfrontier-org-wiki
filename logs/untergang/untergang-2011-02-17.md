@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-02-17 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-02-17
+
 > (OOC) Log "Untergang-2011-02-17" started by UntergangGM at Thu Feb 17 21:10:34 2011 CST (OOC)
 
 _Humanity is dead. Such transitions, historically, take time, but most are not capped by an event so violent, so raw, so misunderstood for decades, and even centuries later as The Fall. Humanity's future was gone. The first question that was to be answered in the decades following was that of Transhumanity's fate. Was this another age? Or was Transhumanity to be humanity's swan song?_ -- Bjorn Friedman. Lectures in History, circa 213 AF

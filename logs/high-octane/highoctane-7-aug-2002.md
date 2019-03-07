@@ -1,3 +1,8 @@
+<!-- TITLE: highoctane-7-aug-2002 -->
+<!-- SUBTITLE: A game log for High Octane -->
+
+# highoctane-7-aug-2002
+
 _Club Penn - although whether it's Pennsylvania or Penecillin is an open question, because this dive combines all the worst aspects of the famous Penn Station railway terminal, and a pile of moldy bread. The decor used to be art deco retro but was not built to last. Many artists in the area have played this venue both on their way up and on the way down the charts._
 
 The famous Johnny Z has arranged a return to 'The Penn', having played here while he was on the way up. He's midway through developing material for a new album and is looking to generate some buzz.

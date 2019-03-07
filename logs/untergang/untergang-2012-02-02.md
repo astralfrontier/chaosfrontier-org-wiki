@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2012-02-02 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2012-02-02
+
 > (OOC) Log "Untergang-2012-02-02" started by Doc at Tue Feb 14 11:28:16 2012 CST (OOC)
 
 Firewall SITREP: Following up on the infected data cubes reveals their destination as a farcasting station on the moon of Rhea. Speculation is that the station's purpose is to transmit stolen human minds to, and ultimately through, the Pandora gate. Firewall team onsite preparing a preliminary reconnaisance mission.

@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-09-01 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-09-01
+
 > (OOC) Log "Untergang-2011-09-01" started by Doc at Thu Sep 1 21:37:56 2011 CDT (OOC)
 
 > (OOC) Doc says, "Last time, you guys had sent betas to talk to Ali Rashid. While those guys have their conversation, you have time to do other preliminary stuff. As mentioned earlier, your options pretty much are (a) go back to Wilhab, (b) investigate the storage cubes or (c) ignore these things and do something else. The suggestion I made for deciding on these was to ignore risk of death (which is basically a loss of time/resources), but to determine /what you could safely ignore/."

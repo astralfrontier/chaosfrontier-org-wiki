@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-10-13 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-10-13
+
 > (OOC) Log "Untergang-2011-10-13" started by Doc at Thu Oct 13 21:15:46 2011 CDT (OOC)
 
 Firewall SITREP: investigation suggests that ID Crew may be actively trying to provoke cargo carriers into opening their storage cubes and releasing infections of some kind.

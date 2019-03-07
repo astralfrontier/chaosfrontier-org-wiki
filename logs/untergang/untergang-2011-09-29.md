@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-09-29 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-09-29
+
 > (OOC) Log "Untergang-2011-09-29" started by Doc at Thu Sep 29 21:37:22 2011 CDT (OOC)
 
 Firewall SITREP: the beta forks sent to Phelan's have returned. The team is getting their tools together for an investigation on Kronos.

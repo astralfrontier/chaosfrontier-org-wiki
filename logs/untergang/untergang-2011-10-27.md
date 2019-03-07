@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-10-27 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-10-27
+
 > (OOC) Log "Untergang-2011-10-27" started by Damon at Thu Oct 27 22:23:52 2011 CDT (OOC)
 
 > (OOC) --- Begin Paste From Damon ---

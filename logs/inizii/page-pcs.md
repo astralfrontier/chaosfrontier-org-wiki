@@ -1,3 +1,8 @@
+<!-- TITLE: page-pcs -->
+<!-- SUBTITLE: A game log for Inizii -->
+
+# page-pcs
+
 This is where we can upload, maintain, or admire any party statistics.
 
 This could include PC stats, NPC stats, random notes, etc etc etc.

@@ -1,3 +1,8 @@
+<!-- TITLE: Fall of Eden 2007-07-07-benfordunity -->
+<!-- SUBTITLE: A game log for Fall of Eden -->
+
+# Fall of Eden 2007-07-07-benfordunity
+
 Benford slumps to the bottom of the manhole. His vision is getting fuzzy, and he can't feel his feet. There's a buzzing in his head, and it's getting louder... a buzzing that sounds like the voices of a crowd...
 
 He's not in the manhole anymore. He's a voice in a crowd in an enormous amphitheater, bigger than the Houses of Parliament, the American Congress, and the UN Assembly combined. The men and women around him are other scientists. There are papers in front of him; treaties for controlling pollution, sharing resources, and curing disease. The proposals are debated; the plans are revised; but the new treaties are always better for everyone. The dark side of politics is absent.

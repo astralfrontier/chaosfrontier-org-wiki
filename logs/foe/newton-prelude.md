@@ -1,3 +1,8 @@
+<!-- TITLE: newton-prelude -->
+<!-- SUBTITLE: A game log for Fall of Eden -->
+
+# newton-prelude
+
 Even fifty feet underground, Geneva is cold in the winter. The elevator platform descends quietly down a steel and concrete shaft through the chill air. A lone figure, seated in a wheelchair, hardly notices. He's planned this night for months, and won't let a little cold stop him. Besides... he can barely feel the world anymore anyway. He's been dying all his life and he knows it. He doesn't know how much longer he has, but it won't be many more years.
 
 This is Newton Benford. Professor Sir Newton Benford, Bachelor of Science from Oxford, PhD from Princeton, Order of the British Empire, winner of the Nobel Prize in Physics, twice. A half a dozen other honors he doesn't bother to think about; he's not an arrogant man by nature, but he's acutely aware of the uniqueness of his talents, and that those talents will very soon be lost to mankind because of an accident of genetics. He strokes the nobel medallion draped over the control panel of his wheelchair as the elevator descends, considering the planning that has led up to tonight, New Year's Eve, 2006.

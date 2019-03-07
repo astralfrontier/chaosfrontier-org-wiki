@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-06-23 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-06-23
+
 > (OOC) Log "Untergang-2011-06-23" started by Doc at Thu Jun 23 21:13:15 2011 CDT (OOC)
 
 > (OOC) Doc says, "just a sec"

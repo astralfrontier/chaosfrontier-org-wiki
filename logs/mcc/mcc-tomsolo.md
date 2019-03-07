@@ -1,3 +1,8 @@
+<!-- TITLE: Millennium City Chronicles tomsolo -->
+<!-- SUBTITLE: A game log for Millennium City Chronicles -->
+
+# Millennium City Chronicles tomsolo
+
 Flight was on the agenda. However, Tom had recieved a call from Chris. She wanted to go walking; she had eaten up her lunch break running errands for Arlene, and wanted to take a nice relaxing stroll. Who better then with Tom? He'd been busy of late, and the more time they got together, the better, right?
 
 Thomas is actually relieved by this message, and he wastes no time answering the summons. He shows, after a few minutes spent in a public restroom combing his hair and making imself presentable, in his usual fashion - unexpectedly. Dropping off the armor at home, he makes best speed (for himself) for High Park, that grassy and relaxing vista atop the Millennium Mall. With shopping below, relaxing above, and walkways and other pedestrian accommodations leading away into the arteries of the city, it's a nexus of entertainment and enjoyment.

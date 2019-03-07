@@ -1,3 +1,8 @@
+<!-- TITLE: Millennium City Chronicles tomconvo -->
+<!-- SUBTITLE: A game log for Millennium City Chronicles -->
+
+# Millennium City Chronicles tomconvo
+
 Chris had called Arlene. Apparently Arlene was fine. She had been hassled twice about it, one in her office, one on her way to lunch. Arlene had left early with her lap top to avoid them a third time. As it turns out, the individuals in question want tapes, notes, reports of the Ghost Knight's powers. Spesificly documented evidence. She did not like giving it to obvious criminals. Having told Chris to go in and talk to the editor about this problem, Chris heads back to work. Tom goes with her, merely for the moral - and on an unspoken level, protective - support.
 
 Thomas says nothing, leaving the matter up to Chris. Some situations are disturbing enough that further disturbance - even a mild question - can cause trouble, and Tom wants his lady to have whatever time and space she needs to sort things out. Truth be told, of course, he isn't sure he wants to bring the subject up either, lest his own involvement become a topic of speculation.

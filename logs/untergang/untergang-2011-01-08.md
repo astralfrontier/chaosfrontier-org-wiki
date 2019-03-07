@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-01-08 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-01-08
+
 > (OOC) Log "Untergang-2011-01-08" started by UntergangGM at Sat Jan 8 19:23:35 2011 CST (OOC)
 
 > (OOC) UntergangGM says, "Okay. To bring everyone up to speed, Welcome. As it stands right now, Phil has said he can't run on Saturday nights. I'm proposing moving the game to Sunday so he can play too, but I need to talk to him about it. "

@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-03-17 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-03-17
+
 > (OOC) Log "Untergang-2011-03-17" started by UntergangGM at Thu Mar 17 20:18:20 2011 CDT (OOC)
 
 Day and Night don't mean anything. At least not in this place. Not only is such an idea only a few nibbles and words in the simulation program; but those datum are sent to another subsystem, to be interpreted as experience over the simulated brains of it's inhabitants. At least, those inhabitants who chose to have such a simulation affect them. In this current time. At this place. In actuality, the computer is simulating dozens of locales, to make interaction of those slave to such cycles seem more natural.

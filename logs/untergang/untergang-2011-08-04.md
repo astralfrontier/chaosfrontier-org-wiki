@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-08-04 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-08-04
+
 > (OOC) Log "Untergang-2011-08-04" started by Doc at Thu Aug 4 21:10:34 2011 CDT (OOC)
 
 Firewall SITREP: Crew has accepted a courier job of dubious legality in trade for ship repairs. The destination is Kronos Cluster. The dock there will have everything needed to repair the _Alexander Nevsky_. However, Kronos is advertised as a high-risk destination. More to follow.

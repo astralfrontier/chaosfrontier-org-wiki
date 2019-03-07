@@ -1,3 +1,8 @@
+<!-- TITLE: Dead of Night prelude-garfield -->
+<!-- SUBTITLE: A game log for Dead of Night -->
+
+# Dead of Night prelude-garfield
+
 Route 15 - the north-south line that travels along 82nd Avenue, all the way down to where it inexplicably turns into 83rd - is a decent one. Why, then, is there such an argument about who'll be assigned to it? "Construction!" roars the supervisor, deep in the bowels of the dispatching office, to the assembled drivers. "You people are afraid of a little CONSTRUCTION? Come on, I'm talking about a gravy route here! Come on, who's gonna take it?"
 
 Garfield looks around at teh distinct lack of hands. "Any bonus pay, or are we doin' it 'cause we're nice, loyal types?"

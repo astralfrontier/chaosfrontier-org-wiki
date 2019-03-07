@@ -1,3 +1,8 @@
+<!-- TITLE: billoneshot -->
+<!-- SUBTITLE: A game log for Iria -->
+
+# billoneshot
+
 Relaxing. Certainly reassuring. And here, Quarrel had been under the impression he was going to be harrassed. Perhaps not all the humans abound are as bad as their reputation, and a very large chunk of them seem to be. An appreciative gesture to the serving girl, a sip to the glass is taken. Brows raise. "Bitter," He comments to the glass, but takes a second swallow. The aches and pains of travels can grow numb, from this.
 
 One glass of the stuff seems to be more than enough, from the dizziness and the spinning...

@@ -1,3 +1,8 @@
+<!-- TITLE: mst3k-wedding -->
+<!-- SUBTITLE: A game log for Inizii -->
+
+# mst3k-wedding
+
 _<CH 3> The man nods. "As a cleric, sir. You see ..." The younger person tugs on his arm and whispers something into his ear. He nods, and continues. "Our families are embroiled in a feud, sir. If we're seen ..."_
 
 _<CH 3> Derleth arches an eyebrow, his interest piqued in spite of his irritation. "Say on..."_

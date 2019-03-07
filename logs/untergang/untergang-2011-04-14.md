@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-04-14 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-04-14
+
 > (OOC) Log "Untergang-2011-04-14" started by Doc at Thu Apr 14 21:06:18 2011 CDT (OOC)
 
 > (OOC) Damon has connected.

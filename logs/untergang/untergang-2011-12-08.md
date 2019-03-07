@@ -1,3 +1,8 @@
+<!-- TITLE: Untergang 2011-12-08 -->
+<!-- SUBTITLE: A game log for Untergang -->
+
+# Untergang 2011-12-08
+
 > (OOC) Log "Untergang-2011-12-08" started by Doc at Thu Dec 8 22:07:26 2011 CST (OOC)
 
 > (OOC) Katja says, "Rocks fall and everyone dies?"

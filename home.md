@@ -6,4 +6,5 @@ This is the dumping ground for all the creative and gaming stuff I've done for t
 
 The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's backed by a Github repository so I can do bulk uploads or scripting operations. For example, that's how I got all the [logs](logs) onto the site.
 # What's interesting?
-Right now, all I have is log files, so feel free to browse those at [logs](logs). Later, I'll be adding pages and sub-pages for some of the worlds I've worked on, including game rules when I have them.
+* [Pandora's Lair RPG Logs](logs)
+* [Silly ideas](silly) like goofy one-shot games or bizarre mashups

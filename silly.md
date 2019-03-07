@@ -4,7 +4,7 @@
 # Left field game ideas
 * **Maid: the Ascension** - a mashup of [Mage](https://whitewolf.fandom.com/wiki/Mage:_The_Ascension) and [Maid](http://www.maidrpg.com/)
 
-### Waifu: the Shipping
+## Waifu: the Shipping
 A game set in the World of Darkness where you play anime waifus. It'll be based on the NWOD five-and-five approach.
 
 Waifus organize into groups called *Harems*, representing everyone romantically targeting a single person or a small group (singularly or collectively referred to as "sempai" here). Waifus have a trait called *Ship*, measuring how relationship-prone they are. Your ship goes up when you have *Tease* with another character.

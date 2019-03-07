@@ -24,7 +24,20 @@ Your *goal* is one of five positions, representing what you want to be as a waif
 * *Victory*: you're here to win, though you won't stoop to actually sabotaging the other Haremettes.
 * I need two more
 
-Waifus have a *Cuteness* meter, replacing Humanity. Doing uncute things lowers your Cuteness. To get it back, engage in your appeal's recommended activities.
+### Cuteness
+
+Waifus have a *Cuteness* meter, replacing Morality. Doing uncute things lowers your Cuteness. To get it back, engage in your appeal's recommended activities.
+
+1. **Shrew**. Persist in boring or selfish actions.
+2. TODO
+3. TODO
+4. TODO
+5. TODO
+6. TODO
+7. **Plucky Girl**. Sin: display selfish or negative emotions openly.
+8. **Genki Girl**. Sin: don't use your verbal tic or cute gesture.
+9. **Comic Relief**. Sin: be useful or contribute to a plot.
+10. **Moeblob**. Sin: showing distinct personality traits or meaningful goals of some kind.
 
 ## Beats
 
@@ -35,7 +48,16 @@ Waifus manifest their power through Beats, or "plot beats", a collection of abil
 Typical beats:
 
 * **Scene Change**: you can "hard cut" yourself, and the people around you, into a new context. This is a combination of teleportation, memory alteration, and glamour. Supernatural individuals who are Scene Changed with you will recognize that something unusual has happened to them.
-* **Moeblob**: you can avert damage to yourself through cutesy behavior, innocence, and naivete. If you seem like you can do no harm, no harm will come to you.
+* **Immunity**: you can avert damage to yourself through cutesy behavior, innocence, and naivete. If you seem like you can do no harm, no harm will come to you.
+
+## Charm Points
+
+Waifus sometimes equip accessories or maintain personal fashion styles that amplify their Ship, maintain their Cuteness, or empower their Beats. These are collectively called "charm points". Examples:
+
+* Thigh-high socks
+* A twin-tail or other unique hairstyle
+* Bells, ribbons, or frills
+* Unusually colored hair
 
 ## Enemies
 

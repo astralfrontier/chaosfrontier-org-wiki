@@ -1,0 +1,138 @@
+Even fifty feet underground, Geneva is cold in the winter. The elevator platform descends quietly down a steel and concrete shaft through the chill air. A lone figure, seated in a wheelchair, hardly notices. He's planned this night for months, and won't let a little cold stop him. Besides... he can barely feel the world anymore anyway. He's been dying all his life and he knows it. He doesn't know how much longer he has, but it won't be many more years.
+
+This is Newton Benford. Professor Sir Newton Benford, Bachelor of Science from Oxford, PhD from Princeton, Order of the British Empire, winner of the Nobel Prize in Physics, twice. A half a dozen other honors he doesn't bother to think about; he's not an arrogant man by nature, but he's acutely aware of the uniqueness of his talents, and that those talents will very soon be lost to mankind because of an accident of genetics. He strokes the nobel medallion draped over the control panel of his wheelchair as the elevator descends, considering the planning that has led up to tonight, New Year's Eve, 2006.
+
+>  [![](/images/s-cern.jpg)](/images/l-cern.jpg)   
+CERN, Geneva, Switzerland
+
+Benford has studied the transformations of energy all of his life. He knows that the real currency of the world is measured in kilowatts, not francs or dollars or yen. Not even, he knows, in millions of barrels, because it's not black sludge that people value, but the life that they can build with it. Ironic, he thinks, since that sludge has its origin in eons-old corpses, the remains of dead primeval plants and animals.
+
+So Benford works to give the world true wealth - more watts. More energy. He knows it won't solve every problem; people are people, and the diseases that twist his body have slowly eroded his faith in human nature. He's seen so many of his colleagues, great men and women all, waste their lives on petty pursuits. Better, he thinks, to do what he can, while he can. Give the power to the people. Give them the chance, at least, to make peace with themselves.
+
+And that leads to his late nights in tunnels just like this one. There's another city hidden city under Geneva, built around the monster particle accelerator. It's the only one of its kind, a fantastically complex machine. He'd normally need a dozen assistants, but tonight Benford has only himself, because the Institute would never authorize the experiment. If he's wrong, the most likely consequence is a billion dollars in damage to the accelerator. For months, Benford has been planting his overrides all over the system.
+
+Now, with the last piece of automation in place, Benford approaches the secure control room at the heart of the accelerator. This is the only room where he can initiate the experiment, and more importantly shut it down if things get out of control. He reflects briefly that the most likely consequence of failure is he'll wreck his billion dollar instrument, but there's a one in a million chance that he could erase Geneva from the map. He shifts in his wheelchair, drumming the fingers of his one good hand. The clock reads 11:59. One way or another, in a few minutes, his old life will be over. _Am I sure,_ he ask himself, _that this is the right thing to do?_
+
+Benford rolls towards the control panel. He touches a control, and the wall of monitors in front of him comes to life. At the same time he dims the lights in the room, leaving only the bright greens and blues of the computers to illuminate his work. He loads the program for his experiment. The computer asks him simply, 'PROCEED? Y/N'; he hasn't wasted a lot of effort on flashy displays or flowery prose. With the same lack of ceremony, he reaches forward and taps 'Y'.
+
+There's little to indicate the scope of what he's just set in motion. Benford knows that for several miles in every direction, a billion joules of energy are flowing into the accelerator. Tons of liquid helium, worth millions of dollars, are draining from holding tanks into superconducting magnets. Control rods are sliding out of reactor cores, unbidden by their operators. Benford is sure that they'd likely die of fright if they knew. The lights might be going out in Geneva right now; he doesn't care. The clock rolls over to 12:00. _Happy New Year, Planet Earth. Here's my gift to you._
+
+Benford is watching one monitor in particular, with a list of checkboxes matching particular observations. This was going to be his project plan for the next 20 years. The first few items alone were measured in months. As he watches the data streaming across the terminal, he notes a particular waveform - the surface tension of the plasma. He's just dropped the cost of confining the reaction by a factor of a thousand. A green check mark appears next to the first item in the list. Benford allows himself a small smile; his attention remains fixed on the data. It's all run by his program; the elevator is locked out; and if all goes well, he just needs to watch the results unfold.
+
+With the confinement energy reduced to a negligible fraction of its previous value, the program shifts to a new mode, pumping the energy instead into igniting the plasma itself. For miles around Newton Benford, the same billions of joules are now flowing into a ring of deuterium plasma four miles in diameter - glowing brighter than a thousand suns, as the old saw goes. Check marks appear next to several more items on the list. The next one is a single, simple word: 'Breakeven'.
+
+The screens begin to glow brighter, as though over-energized. A golden light radiates from them, and the scientist hears a pair of hands clapping from behind him. There is a persistent humming noise that seems to be coming from the machinery.
+
+Benford blinks several times. _Have I gone mad?_ He nudges a control on his wheelchair, spinning it slowly in place. "Who is there?" His voice croaks; he didn't realize how dry his throat was. The last time he spoke to anyone else was six hours ago, and he didn't expect to meet anyone tonight.
+
+Resting with his back against one concrete wall is a man, dark of hair, with a goatee. He is dressed in the uniform of a British Navy officer, but - impossibly - he seems to have four arms, and his uniform is tailored to match. And perched saucily on a table next to him, one leg folded over the other and with knitting needles and thread in hand, is an attractive woman with white hair. "I'm here to tell you a story," the man says. "Then to make you an offer."
+
+Benford closes his eyes for a moment, then opens them; the unearthly vision is still there. He turns his head painfully to glance at the control console; the stream of data is frozen, as if time where suspended. Benford realizes he's not afraid; he's shocked to understand that, but when he started the program, he knew there was nothing left in his life that could frighten him. Not even a four-armed intruder in his mad scientist's lair.
+
+Benford says, "This story," he asks slowly, "Will it involve who you are and how you came to be here?" _He looks like my father,_ Benford thinks, _And that might be my mother, when she was younger._ While he is unafraid, he is confused. _I must be hallucinating._
+
+"In a roundabout way, yes," the man replies. "But first things first. Once upon a time, creatures greater than the gods made the world from their flesh and bone. And they made the gods as guardians. And the gods made man. But the world was filled with the other things the gods and their makers had wrought, and men were afraid. Some fled, for there was another world, a second world."
+
+"In this place, the gods and their works were hidden away. Preserved as distant stories, true, but still with power of their own. And even here, men drew on the power of the five elements, and even here men could be corrupted."
+
+"The first element man made a pact with was fire. Then were the hydrocultures, masters of water - shadowy Khem, where the First Pharaoh touched a whole people with the spark of death. They mastered wood, growing their crops and taking their herbs. Earth, when men bore metals out of the earth and forged their swords. Air, the most capricious and fickle of the elements, came in due course."
+
+"Fire, water, and finally air brought power. Your 'watts'. Wood and earth were the framework for that power. Beyond the physical matter, man began to use the power they held more directly. You burned trees, then coal. But death, like it always does, came for mankind."
+
+"Now you burn the bodies of ancient animals, dredging up bones of creatures and the power of necromancy. Death fuels your industry. Death powers your reactor. Death brings with it more death, for every breath you take of your car's exhaust kills you more and more quickly."
+
+"You have witnessed some of this, doctor, haven't you. You've glimpsed some part of this truth."
+
+Benford just sits in stunned silence for the space of a dozen heartbeats, then slowly exhales. "I don't know anything about gods and things greater than gods, or the world where they live," he finally says. "But all the rest you say is true." He raises his gaze to meet the eyes of the odd four-armed man in front of him, unsure if this would be rude or insulting; but then, why worry overmuch of offending a hallucination, even a very perceptive one? "I see the way we live, the way we consume, the way it brings death. The way we allow ourselves to be corrupted by greed and lust. But that's the world, that's the people in it." He waves his hand towards the control panel. "I'm doing what I can, and it's all I can do. We need better people. I can't make those in the accelerator." He pauses.
+
+"I can make those. But only if they agree to it." The four-armed man smiles. "Which brings me to my offer. I think you can guess by now what it is."
+
+Benford says, "When man made his bargains with fire, he must have realized that he could be burned. That the power came with risk. And the risk educated Man, because living with something that can destroy you forces you to become wise. And so it goes through history, from the first burning embers to the nuclear fires of the Second World War." He's surprised with his own eloquence... he's uttered this same tirade a hundred times in his life to bored coworkers, so often that he'd stopped believing it himself. But here, and now, it's real again. And he knows his visitor understands. "So my gift to us is the power of unlimited industry. I will die. But they will have as much risk as they can handle, and they will grow wise from it." He smirks. "Or maybe they will destroy themselves. Not my choice, I guess, but I'll take that one small part on faith."
+
+"Maybe.. you can have more than faith. Maybe you can be the guiding hand that brings that light to the masses. My light, the final, pure, and perfect illumination." The man smiles. "I am the Unconquered Sun, patron of mankind, called Sol Invictus even in the legends of a world where I never made myself known. I can give you all the life and power you will ever need... but you must have dreams to equal that gift."
+
+Benford stares, slack-jawed, for several long moments. _Madness! Chicancery!_, says one part of his mind. _Truth! Revelation!_ says another. But it makes sense, in an odd way. If a giant fusion furnaces is not the best earthly temple to the Sun, then what else could be? "Then you offer me... the same power, and risk, and option to grow wise, that I sought to offer humanity." Suddenly he chuckles. "I've believed in you all my life, and never known of it. The mind under the fire, the will hidden in the spaces between protons and electrons. The thing that might save us all, if we could be worthy of the challenge." He looks up again, meeting the Unconquered Sun's gaze again, not afraid at all. "And what will you ask of me in return?"
+
+"Use what you are given," the man murmurs. Behind him, his white-haired companion ceases her weaving, presenting length upon endless length of woven yarn. "It is done," she murmurs. The Unconquered Sun accepts this, and hands it over to the scientist in return. "You've probably never seen your own DNA before," he comments. And it becomes clear on inspection that there are four colors of thread. "Get up."
+
+Benford scowls. "That's not funny, sir." But then he realizes, a moment ago, he used his left arm to gesture at the wall of monitors. And the room feels warm, even in the soles of his feet, which have been numb for months. He wiggles his toes experimentally, dumbstruck. "Oh... oh my God."
+
+"I said get up, soldier!" the man says, in a more commanding tone.
+
+Benford snaps to his feet, remembering when his father once talked that way years ago. _Is this real? What's happening to me?_
+
+The Sun-god nods approvingly. "A simple feat. You will be capable of similar acts of mercy for others, if you wish. In time. You in particular will want to know things, so I leave you with this." The woman has already vanished, gone in a blink of an eye, in a moment of inattention. "There are rules that govern our world, unbreakable rules. The first is that all things are Essence given some specific pattern, and the second is that Essence comes from will."
+
+Benford nods, feeling an ignorance he hadn't felt since his first days at Oxford. He replays the last few moments in his head, so that he can mark the precise moment when the world changed around him; when he accepted the challenge of the Unconquered Sun; when he was, he concludes, finally born. "Every human has will. Does every human make... essence?" The word sounds strange, and he's careful how he speaks it.
+
+The Sun-god nods. "You are unique in that you can harness that Essence. That is the cornerstone of your gift. You shape the currents that make your world real, according to your will."
+
+Benford nods, noting that his neck moves fluidly, all stiffness gone. "Is there anyone who can teach me more?"
+
+"You will meet others - in fact you will be drawn to them. Your own intuition will also serve you. Sometimes better, in fact."
+
+Benford mulls this over. _So there will be many of us. Interesting times indeed._ Benford has something to add, something he's not used to saying. He remembers his father once more, and the answer comes to him.
+
+Benford salutes the Unconquered Sun and speaks the way his father taught him, when once they thought he would join the Royal Navy. "Thank you, sir. For everything. I'll give you reason to be proud, I promise."
+
+Time begins to resume its wonted course. The purpose of his presence returns to the man's mind. "... My experiment," he manages. The four-armed man just smiles, taking hold of Benford's left hand and guiding it to lay palm flat on the console. "Will it to succeed. _Make it_ succeed," he urges. And in a moment of clarity and truth, the scientist finds that he can. Here, an unaccounted-for variable. It is corrected. There, a margin of error caused by radiation from the EU Radiointerferometry telescope, an experiment Benford only had a hazy idea about before. A faulty subroutine whose flaws are clear as crystal now. All through it, permeating his thoughts, is the brilliance and clarity of the sun, casting itself into every remaining shadow of his mind. And on the screen, results begin pouring in...
+
+---
+
+When Benford next appears above ground, the sun is coming up. The timing seems appropriate to him. The Swiss morning is clear and cool as he steps out of the building at the center of the accelerator complex. He stands there a few moments, simply happy to be on his feet. He's pushing the wheelchair that was both chariot and prison for so long, unsure of what to do with it yet.
+
+Finally, he simply rolls it through back alleys and cargo elevators to his office, staying clear of cameras and the few people on the grounds this morning. He locks the machine in a closet and paces in circles around his desk a few times. He's not sure if he should laugh, or cry, or sit, or stand. The events of the previous night are running through his head over and over again. But for his current upright position, and the stack of optical disks in his satchel, he might be inclined to think it was an intense dream. But here he is; and there they are - a medical miracle, and a pile of results that would have taken a lifetime. All in one night.
+
+He's done the best he can to cover up his tracks, but he knows that eventually someone will notice his abuse of the reactors. He was fully prepared to lose his job last night, but that seems like a coward's solution now. He doesn't want to think about it right now. He's been thinking all night; he needs to do something. Benford picks up the phone and reaches for the button for a taxi service (two hands! He can lift the handset and dial at the same time!), but then stops. He'll bloody well walk into town this morning. He locks the pile of discs in his safe, finds a spare set of clothes left for him by his nurse, and hits the road at a brisk clip.
+
+Benford makes good time down the Insitute access road; the guard gives him nary a glance, his job is to keep people out. Once past the gates and into the alpine meadow beyond, Benford picks up the pace, nearly bouncing from foot to foot. For all the gifts that the four-armed man claims to have given, at this moment, there's only one that Benford knows how to appreciate. _I'm walking! I'm walking!_
+
+Benford takes each mile as a child at Christmas opens a new toy, varying his stride. Walking backwards for a while. Hopping a few steps at a time. He wonders if he'll get tired, and he doesn't, but he feels the blood pumping through his body, more alive than he'd dared to believe he could feel. Finally he's jogging, then running, then jogging again, through the cool alpine air, down an empty road, on New Year's Day, nobody to see the stoic old scientist chortling like a child at the best joke in the world.
+
+It takes a long time for him to feel even the least bit tired, and by then he's made it to an intersection of two regional highways, just outside of Geneva proper, populated by a gas station on one corner and a Bavarian pub in another. A light dusting of snow crunches under his feet as he crosses the empty parking lots; he waves at the sign on the gas station, a famous green-and-yellow logo. "I've got you beat! We'll be free of you soon!", he mutters to himself, and then he's into the pub.
+
+The television is on, and patrons are drinking. On a black screen, a cheering throng can be heard from a world away. It is midnight in LA, New Years' Eve, and - typically - the Americans are behind the times. Benford notices everything going in. Nobody's there to hold a door open for him. No chairs need to be moved away from a table. Nobody looks up. Nobody notices. It's just him.
+
+The pub is quiet, aside from Benford's cell. The Quicksilver rings patiently, and he realizes he hasn't yet turned it off.
+
+Benford answers the phone, a little surprised, and finds an unoccupied table in a corner of the room, so he can have some privacy. "Jawohl?"
+
+"Dr. Benford." The voice is calm, professional, and speaks in English. "I wonder if I might have a moment of your time. This is in regard to your recent encounter with my employer and her associate. Last night."
+
+Benford has plenty of experience with office politics, but little actual knowledge of pure subterfuge. "Say on. I'm sure you understand that this is an unusual morning for me,", he says, deciding that being coy will serve no purpose.
+
+"I know very little about the circumstances of your life or your experience, as I was only recently briefed. However, I would like to visit you at your convenience, as soon as possible. I do understand that you were confined to a wheelchair. Let me say that I can be of assistance in some vitally necessary public explanations."
+
+Benford frowns. "I'm sure you have several good reasons ready as to why I should trust you," he says, carefully.
+
+"To be blunt, I am quite capable of exposing you if I wish." The caller's tone is level, factual, and not at all threatening. He is almost clinical in his speech. "In terms of positive incentives, I can provide you with additional information about your present.. condition. I am a coordinator, if you will, of the people performing the additional duties your encounter has thrust upon you, and facilitating your integration into our program is obviously to my benefit. It will be to yours as well, as parties less benevolent than myself may wish you ill."
+
+Benford sighs. _Threats. Well, that didn't take long._ "Very well, then. We play your game." He pauses. "I'm grateful to your employer. I consent to be manipulated, for now, as a sign of gratitude."
+
+"You may call it manipulation if you like. I do not dispute the truth of it, since I lack your perspective. Please be aware that we are acting in your best interest as we understand it, and -- excuse me, you need to take this." The phone abruptly goes dead. For three seconds, nothing. Then it rings again.
+
+Even with all that's happened, Benford is still surprised. He walks out of the pub, knowing that he's going to be given little rest this morning, and takes the call leaning against the front wall. "Jawohl?"
+
+"Newton? Robert." The Director-General of CERN has a distinctive, recognizable voice, even speaking English. "I'm told there's a serious problem with the SPS. Large amounts of mass are missing from the tanks, we think there's a leak, and the sensor logs are completely useless. We've lost terabytes of data, and according to this.." The man - a specialist in nuclear fusion - chuckles a bit. "If someone was running an experiment last night, they managed to put a heat source on par with the Sun in the control room. Nothing's damaged, so we're recalibrating. I know you were running data through the grid. I'd appreciate it if you would make a report on whether everything's intact."
+
+Benford bites his lip and works hard to maintain control. "That's a stange result. Drawing the Sun to earth is our business. How wonderful, were it to happen." _Oh, God, Robert. You have NO idea._ Then he frowns. "What data did we lose?" _I don't think I meant to do that. I'm glad I put it on disk._
+
+"Run logs from the SPS itself, everything there is gone. Some random garbage we were streaming out as part of the LHC streaming tests. Control software for the SPS. Offsite backups are okay." The man's voice takes on a sullen tone. "The rest? Well, that's why I'm calling the men I know were running experiments or storing data. We can't make heads or tails of what is left, if anything."
+
+"That sounds... very complicated. And unfortunate." Benford doesn't have to fake concern; he'd thought that he was the only person in the world who had subverted the CERN network to that level, and it took months. He recalls a thought from last night. _So there will be others._ "I'll check what I've lost. And I'll see if I can help you recover. But... it's going to be several days before I can make it back on site. I... have some business with the doctor." He feels odd, saying that; previously it had always been a euphamism to his friends for _I've lost a skirmish with depression and will be spending the next few days wallowing in self-pity._
+
+"I understand." Dr. Aymar does indeed understand, or has understood in the past; in his close to three years of tenure here, and in years at other institutes, he has grown to understand tortured genius in a way even psychologists may not. "Well..take your time. The LHC is CERN's priority now, and this may work out for us. Anyway, Newton, take care of yourself."
+
+Benford says, "I'm trying. I'll call you in a few days. It may be good news this time." He exchanges goodbyes and rings off.
+
+The phone immediately rings again. Almost automatically Newton answers it, and hears the professional English voice of before. "'Vitally necessary public explanations', Dr. Benford. I assure you that nothing of critical importance was lost."
+
+Benford nods, though he knows nobody will see it. "You're very good at this. I hope we're going to be friends, because I'd hate to have you as an enemy." He thinks. "What do you wish to be called?"
+
+"My name is Hel," the caller says. He pronounces it somewhere between _hell_ and _hail_. "I am a member of the European Convention, the organization I alluded to earlier, and my job is liaison to ... well, to people such as yourself. I am not your enemy, and you may not think of me as friend, but we are both on the same side, Doctor. The side of humanity."
+
+Benford thinks, _We'll see about that._ "You say you're a liason. Who is it that you want me to meet, and how?"
+
+"Others like yourself. Call me at your convenience - you'll find my number in your speed-dial. You have affairs at CERN to attend to, and we are not on a schedule. I realize the value of psychological space. Give yourself time to think this over, and to discover truths for yourself."
+
+Benford says, "Very well... Hel. I'm going to go put some affairs in order. I'll call you when that's done."

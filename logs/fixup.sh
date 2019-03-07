@@ -4,7 +4,7 @@ function makeMarkdown() {
 	echo "" >> $1.md
 	echo "# $1" >> $1.md
 	echo "" >> $1.md
-	find $1 -type f -printf '* [%f](%f)\n' >> $1.md
+	find $1 -type f -printf "* [%f]($1/%f)\n" >> $1.md
 }
 
 makeMarkdown aiel

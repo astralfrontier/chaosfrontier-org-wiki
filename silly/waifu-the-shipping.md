@@ -86,3 +86,7 @@ Spiritual beings seek to use or pervert Waifus and their powers for their own en
 ### Other supernatural beings
 
 Vampires, Werewolves, Mages, and other supernatural entities can interact with Waifus. Vampires typically regard them with distrust or confusion, Werewolves with disgust, and Mages with fascination.
+
+Supernatural beings with any level of a power to twist mind or fate, or to conceal themselves, gain access to a special power:
+
+**Transfer Student**: you can join the school attended by a Harem, as a transfer student. Doing so fully integrates you into the school's records and daily life, with no further effort on your part. No matter how fantastical you look or how weirdly you act, you'll be accepted as just another student, for as long as you meaningfully interact with the Harem or any of its members. The Harem has only the usual difficulties in recognizing you as who or what you are - it's up to you to conceal yourself from them specifically.

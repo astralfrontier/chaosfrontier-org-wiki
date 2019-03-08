@@ -8,3 +8,4 @@ The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's ba
 # What's interesting?
 * [Pandora's Lair RPG Logs](logs)
 * [Silly ideas](silly) like goofy one-shot games or bizarre mashups
+* [Filk](filk) and other creative poetic or lyrical nonsense

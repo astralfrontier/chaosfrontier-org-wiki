@@ -2,14 +2,19 @@
 <!-- SUBTITLE: Goofball RPG ideas, dumb mashups, and other shenanigans -->
 
 # Weird character ideas
-* Ninja Culinarian
+* Ninja Culinarian - slice and dice monsters, cook delicious food, wield incredibly sharp kitchen knives, and disappear without a trace.
 
 # Strange fanfics
-* Quantum Leap/Evangelion. Sam and Al must fix Shinji Ikari's family and relationship problems and pilot a giant robot.
-* Sam quantum-leaps into Classic Doctor & must now fight aliens w/ 7 PhDs and roundhouse kicks while real Doctor is in waiting room rebuilding Ziggy & Al is drinking.
+
 * I know there is Nightmare Before Christmas fanfic where Jack takes over another holiday. [My favorite](https://twitter.com/opensorcerer/status/865181951266660352) would be Valentine's day. [Related](https://twitter.com/astralfrontier/status/1095353528325947392): With Valentine's Day around the corner, consider that "The Grinch Who Stole Christmas" as a title can lead to other Grinches and other holidays.
 * A Final Destination type series of horror films, but instead of Death, [a surly 20-something must avoid Love](https://twitter.com/astralfrontier/status/1099917295290335233), and a series of increasingly improbable Meet Cutes with strangers and romantic moments with friends or co-workers.
 * The premise of one show + the characters from another. For example, [what if](https://twitter.com/astralfrontier/status/1095657602711580673) the sex/species-bending curses of Ranma 1/2 made their way to Archie Comics?
+
+## Quantum Leap
+
+* [Quantum Leap/Evangelion](https://trello.com/c/cYliBBFE): Sam and Al must fix Shinji Ikari's family and relationship problems and pilot a giant robot.
+* **Quantum Leap/Doctor Who**: Sam leaps into Classic Doctor while he's on Earth & must now fight aliens w/ 7 PhDs and roundhouse kicks while the real Doctor is in waiting room rebuilding Ziggy, and Al is getting drunk at all this nonsense - or trying to flirt with Sarah Jane Smith.
+
 # Left field game ideas
 * A [syntactic magic system](https://twitter.com/astralfrontier/status/1078971105866444800) where the vocabulary is drawn from modern internet culture and memes, e.g. the Yeet Rune
 * You're a group of Three Laws compliant robots [dropped into](https://twitter.com/astralfrontier/status/1098384216549658626) a zombie apocalypse. Or Game of Thrones.

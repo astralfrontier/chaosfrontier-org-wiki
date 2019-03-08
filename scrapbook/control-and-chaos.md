@@ -1,7 +1,7 @@
 <!-- TITLE: Control And Chaos -->
 <!-- SUBTITLE: A quick summary of Control And Chaos -->
 
-# Header
+# The Premise
 After watching/listening to some stuff, a plot for a two-character comedy came to me. I'm sure this general premise has been done before, but this is my version.
 
 There's a girl (G) who has mind-controlling pheromones. If she's in the area with you, she can make you want to do what she says. When the story starts, she's using it to live in expensive hotels for free, eat free food, etc.

@@ -58,6 +58,7 @@ All Waifus have access to a few key powers:
 
 A Waifu has a rating in one or more of the following Beats:
 
+* **Chuunibyou-jutsu**: skill at pretending you have special powers or advanced combat skills. A Chuuni user can intimidate or mislead others into believing their abilities are real. At higher levels, an expert Chuuni user can even cause Special Forces soldiers or supernatural creatures into accepting their claims. Despite this advanced power, Chuuni itself grants no supernatural abilities beyond its own mental influence.
 * **Doji-jutsu**: skill at being clumsy and ill-coordinated. A skilled Dojiko can avoid attacks by tripping, accidentally fall into something or someone to damage it, or (at high levels) cause a chain reaction of clumsiness.
 * **Flashback-jutsu**: skill at spinning memories, or perhaps actually modifying the past. A skilled Flashback user can introduce new truths to their story, gain knowledge by looking backward in time, or (at high levels) adjust continuity retroactively to change established reality.
 * **Katei-jutsu**: skill at cooking, cleaning, and domestics. A Katei user can wield household instruments as weapons, create healing (or harmful) food or drink, or effortlessly conceal objects in unlikely places around a house. High-level users can arrange any surroundings so they function as a comfortable living space.

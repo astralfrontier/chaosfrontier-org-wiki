@@ -1,6 +1,8 @@
 <!-- TITLE: Bookmarks -->
 <!-- SUBTITLE: A quick summary of Bookmarks -->
 
+# Clever
+* [Superman with a GoPro](https://www.youtube.com/watch?v=H0Ib9SwC7EI)
 # Funny
 * [If Google Was a Guy](https://www.youtube.com/watch?v=YuOBzWF0Aws)
   * [Part 2](https://www.youtube.com/watch?v=B759dzymyoc)

@@ -4,9 +4,14 @@
 # The Scrapbook
 [The six emotional arcs of most stories](https://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/)
 # Characters
-**Wolverine clone**: a fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
+## Fantasy
+I had a dream about a weird pulp-fantasy Summoner character with a crystal eye. She wore an eyepatch over it most of the time, but the eye could be used to summon or conjure fantastic creatures - if she'd seen them with the eye. So her reason for adventuring was to find and confront all these amazing potential summons and thus add their power to her own.
 
+I'm normally a fan of summoners as a character type, but for some reason I always associate "artificial eye as power source" with pulp fantasy specifically. I have no idea why these two things came together.
+## Scifi
 **Induction tattoos**: do your cyberpunk world's bouncers and bodyguards all have cybernetic arms? Why not something different: specialized tattoos made of conductive ink that allow you to supercharge muscles via electrical induction. Their coats have a power source and double as body armor. When they aren't pushing the PCs around, they're at the gym (or the surgeon), where those induction systems help in bodybuilding and regeneration. It's cheaper to clone new arms than manufacture cyberware, anyway, and what's a bodyguard if not disposable? As a bonus, you can see how jacked your goon is by how much of their skin is covered in the stuff.
+## Supers
+**Wolverine clone**: a fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
 
 **The Domestic Teleport**: X (fill in name later) discovered an alien artifact buried under their house, exposed by digging in the basement or somesuch. The artifact can lock onto and teleport objects near by - so basically, X can teleport anything that's in their house to another location, and back. Either this is to wherever X is located, or there's some kind of targeting system, or you can send out teleport beacons, or whatever.
 
@@ -75,6 +80,11 @@ The aliens are masters of the mystic arts, not psionics or high tech.
 The alien is an android or long lived herald for a slower than light invasion force due here in 20,000 years, but is happy to keep the planet running smoothly until then.
 
 The alien is tracking a signal that emanated from Earth, or the solar system, millions of years ago. This may be another alien race, or a prehistoric Earth species or civilization.
+# Games
+## Universal Exports
+A small team of monsters (vampire, werewolf, etc.) get together to hunt down and stop human criminals that are untouchable by conventional law - rich industrialists polluting the earth, well-placed senators who got away with murder or abuse, genius serial killers who can outwit the police, that sort of thing.
+
+The game explores different definitions of "monster", and illustrate how power and instinct can work for both good or bad purposes. You could do this easily enough by dusting off your White Wolf books and running a cross-splat campaign, of course. But I imagine it might benefit from more recent innovations in game design (like how to make planning a caper fun for players).
 # Incomplete Story Ideas
 * [Control and Chaos](scrapbook/control-and-chaos) - a two character comedy about psychic powers and domestication
 * [Road Trip](scrapbook/road-trip) - a post-apoc story

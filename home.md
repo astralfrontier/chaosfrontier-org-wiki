@@ -9,6 +9,7 @@ The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's ba
 * [Bookmarks](bookmarks) of random third-party links
 * [Fiction](fiction) of all kinds
 * [Filk](filk) and other creative poetic or lyrical nonsense
+* [Game Fodder](fodder) for any real-world or speculative stuff that can inspire gaming or fiction
 * [Pandora's Lair RPG Logs](logs)
 * [The Scrapbook](scrapbook) where semi-serious ideas are incubated
 * [Silly ideas](silly) like goofy one-shot games or bizarre mashups

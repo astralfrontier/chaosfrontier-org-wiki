@@ -1,6 +1,8 @@
 <!-- TITLE: Game Fodder -->
 <!-- SUBTITLE: Real-world or speculative stuff that can inspire gaming or fiction -->
 
+# The Body
+* [List of real-life superhumans](http://sapienplus.com/real-life-superhumans/)
 # The Mind
 Including the brain, consciousness, religion, and beliefs.
 

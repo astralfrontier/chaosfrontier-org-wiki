@@ -12,6 +12,12 @@
 
 So X can equip themselves using anything in the house, but can't teleport anything that won't fit in there, and can't teleport anything back that'll cause problems (so none of this endless-spigots-of-water-from-the-ocean nonsense, or teleporting things into the sun). And X is also facing eviction, or eminent domain claims on the property, or something, that puts long term pressure on them.
 
+**Sam Echevarra** is a professional attorney, and superhuman. She has a variety of super-powers: increased intelligence, enhanced senses, flight, super-durability, and more.
+
+While some super-intelligent supers focus on science or technology, Echevarra devotes her amazing brain power to law. She has an encyclopedic knowledge of the law at different levels. She has devised numerous innovative legal strategies. She has argued in front of the Supreme Court on a few occasions. Her proposals for clarifying amendments to existing law have frequently been accepted by legislators.
+
+Echevarra specializes in prosecuting hard-to-reach crime bosses or influential public figures. She has been both prosecutor and defender. She has successfully repelled several hits on her from the underworld. She has no long-term relationships due to the danger of her job, and often keeps even her coworkers at arm's length to protect them. Despite this social distance, she remains committed to her job.
+
 ## Subversions of Superhero Tropes
 
 Character is associated with a huge tech company? Sure - but he's the janitor. He can go anywhere and get access to anything, but he's very limited in what he can make use of without getting caught.

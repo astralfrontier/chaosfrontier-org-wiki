@@ -88,3 +88,10 @@ The game explores different definitions of "monster", and illustrate how power a
 # Incomplete Story Ideas
 * [Control and Chaos](scrapbook/control-and-chaos) - a two character comedy about psychic powers and domestication
 * [Road Trip](scrapbook/road-trip) - a post-apoc story
+
+## Disney animated variants.
+
+* **Beauty and the Beast**: Belle is secretly a werewolf.
+* **Cinderella**: The fairy godmother is a good witch from Oz, and gives Cinderella the Ruby Slippers so she can leave Kansas and dance with a fantasy prince.
+* **Sleeping Beauty**: I'd suggest something here, but honestly "Maleficent" already gave us the best twist possible.
+* **Snow White**: The wicked queen's apple turns Snow White ugly rather than putting her into a deathly sleep.

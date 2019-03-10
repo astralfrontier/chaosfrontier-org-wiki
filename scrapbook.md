@@ -89,7 +89,7 @@ The game explores different definitions of "monster", and illustrate how power a
 * [Control and Chaos](scrapbook/control-and-chaos) - a two character comedy about psychic powers and domestication
 * [Road Trip](scrapbook/road-trip) - a post-apoc story
 
-## Disney animated variants.
+## Disney animated variants
 
 * **Beauty and the Beast**: Belle is secretly a werewolf.
 * **Cinderella**: The fairy godmother is a good witch from Oz, and gives Cinderella the Ruby Slippers so she can leave Kansas and dance with a fantasy prince.

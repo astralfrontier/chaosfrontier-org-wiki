@@ -15,3 +15,4 @@ The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's ba
 * [Pandora's Lair RPG Logs](logs)
 * [The Scrapbook](scrapbook) where semi-serious ideas are incubated
 * [Silly ideas](silly) like goofy one-shot games or bizarre mashups
+* [Worlds](worlds) or parts of them, done by myself or others

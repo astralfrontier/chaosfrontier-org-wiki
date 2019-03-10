@@ -7,3 +7,7 @@
 
 # Combat and Action
 * [In Defense of Defense](https://imgur.com/gallery/0RSCYdr) - depicting combat as more than just sword-swings and blood
+
+# Game Design
+* [essays and pamphlets work better than books ](https://threadreaderapp.com/thread/1014319417461575680.html)
+  * [original link](https://twitter.com/machineiv/status/1014319417461575680)

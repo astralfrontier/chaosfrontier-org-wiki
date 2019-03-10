@@ -3,6 +3,7 @@
 
 # Fiction
 * [Ya Dropped This](fiction/ya-dropped-this)
+* [Never For Attack](fiction/never-for-attack)
 
 ## Science Fantasy
 

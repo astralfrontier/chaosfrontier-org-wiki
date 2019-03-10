@@ -6,6 +6,7 @@ This is the dumping ground for all the creative and gaming stuff I've done for t
 
 The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's backed by a Github repository so I can do bulk uploads or scripting operations. For example, that's how I got all the [logs](logs) onto the site.
 # What's interesting?
+* [Advice](advice) on how to play or write, mine or other peoples'
 * [Bookmarks](bookmarks) of random third-party links
 * [Fiction](fiction) of all kinds
 * [Filk](filk) and other creative poetic or lyrical nonsense

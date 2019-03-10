@@ -8,6 +8,7 @@ The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's ba
 # What's interesting?
 * [Advice](advice) on how to play or write, mine or other peoples'
 * [Bookmarks](bookmarks) of random third-party links
+* [Characters](characters) that I've played or am playing
 * [Fiction](fiction) of all kinds
 * [Filk](filk) and other creative poetic or lyrical nonsense
 * [Game Fodder](fodder) for any real-world or speculative stuff that can inspire gaming or fiction

@@ -80,6 +80,14 @@ The aliens are masters of the mystic arts, not psionics or high tech.
 The alien is an android or long lived herald for a slower than light invasion force due here in 20,000 years, but is happy to keep the planet running smoothly until then.
 
 The alien is tracking a signal that emanated from Earth, or the solar system, millions of years ago. This may be another alien race, or a prehistoric Earth species or civilization.
+# Discoveries
+## The Magician's Tower
+
+The tower stands solitary on a grassy plain. It has the shape of a forearm, capped with a defiantly closed fist. The stonework is rough and functional. There are enough outcroppings and imperfections that a dedicated climber could scale it. Its brown granite contrasts with the verdant green of the fields around it. In the distance, misty mountains and their snow-capped peaks are visible.
+
+The tower should evoke **surprise**. It is the site of many strange magical experiments. The local animals will be smarter and stranger than their mundane cousins elsewhere, whether due to magical modification or simply exposure to bizarre energies. Blue lights play around the top of the tower at night. Strange flasks of stranger liquids are everywhere inside, glowing with every color of the rainbow. Shelves are wooden, asymmetric, and oddly angled, the product of inexpert and impatient carpentry. Stacks of arcane tomes lean haphazardly against the walls. Water from the nearby well glows a faint violet.
+
+The PCs may be interested in the magician of the tower. Or the magician may be absent, and the PCs want to acquire something: a rare relic, an important book, or something similar.
 # Mechanics
 When you roll, you can get one of three outcomes: Success, Surprise, or Salvage. This gives you the ability to pick something you want from the scene, something that's true to your character, and something that's true to your goals.
 

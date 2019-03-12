@@ -97,6 +97,7 @@ When you roll, you can get one of three outcomes: Success, Surprise, or Salvage.
 * **Surprise** means sacrificing something you wanted, or a way to get what you wanted. The door opens, but not because you did it - maybe you pass to someone else.
 * **Salvage** lets you extract one thing of value from the roll, but the rest is in the GM's hands. Maybe you get a final shot at the boss before collapsing in the burning temple. Maybe you eject, but your plane blows up. The game will acknowledge your attempt and let you be true to who you are.
 # Games
+* [Kaiju Pirates](scrapbook/kaiju-pirates)
 ## Universal Exports
 A small team of monsters (vampire, werewolf, etc.) get together to hunt down and stop human criminals that are untouchable by conventional law - rich industrialists polluting the earth, well-placed senators who got away with murder or abuse, genius serial killers who can outwit the police, that sort of thing.
 

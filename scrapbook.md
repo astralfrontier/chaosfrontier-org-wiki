@@ -80,6 +80,12 @@ The aliens are masters of the mystic arts, not psionics or high tech.
 The alien is an android or long lived herald for a slower than light invasion force due here in 20,000 years, but is happy to keep the planet running smoothly until then.
 
 The alien is tracking a signal that emanated from Earth, or the solar system, millions of years ago. This may be another alien race, or a prehistoric Earth species or civilization.
+# Mechanics
+When you roll, you can get one of three outcomes: Success, Surprise, or Salvage. This gives you the ability to pick something you want from the scene, something that's true to your character, and something that's true to your goals.
+
+* **Success** is straight-up. The thing you did works out the way you expected. Your goal is achieved in a manner consistent with who you are.
+* **Surprise** means sacrificing something you wanted, or a way to get what you wanted. The door opens, but not because you did it - maybe you pass to someone else.
+* **Salvage** lets you extract one thing of value from the roll, but the rest is in the GM's hands. Maybe you get a final shot at the boss before collapsing in the burning temple. Maybe you eject, but your plane blows up. The game will acknowledge your attempt and let you be true to who you are.
 # Games
 ## Universal Exports
 A small team of monsters (vampire, werewolf, etc.) get together to hunt down and stop human criminals that are untouchable by conventional law - rich industrialists polluting the earth, well-placed senators who got away with murder or abuse, genius serial killers who can outwit the police, that sort of thing.

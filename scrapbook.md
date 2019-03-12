@@ -3,6 +3,8 @@
 
 # The Scrapbook
 [The six emotional arcs of most stories](https://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/)
+# General
+[Balancing Creative Debt](scrapbook/balancing-creative-debt)
 # Characters
 ## Fantasy
 I had a dream about a weird pulp-fantasy Summoner character with a crystal eye. She wore an eyepatch over it most of the time, but the eye could be used to summon or conjure fantastic creatures - if she'd seen them with the eye. So her reason for adventuring was to find and confront all these amazing potential summons and thus add their power to her own.

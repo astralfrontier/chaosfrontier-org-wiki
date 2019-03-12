@@ -1,6 +1,14 @@
 <!-- TITLE: Bookmarks -->
 <!-- SUBTITLE: A quick summary of Bookmarks -->
 
+# Game Creation
+## Fonts
+1. http://www.typeconnection.com/index.php - the first crucial step, identifying a specific font based on the "feel" I want to achieve.2
+2. http://joelcrawfordsmith.com/closest-font/  - avoiding paying $100 for a font is helpful on a small non-profit project like this, so if I can find a comparable font, great.
+3. https://fonts.google.com/ - the site itself, where I can download web fonts.
+
+## Artwork
+* [Using CC art in RPGs](https://www.youtube.com/watch?v=ETbmbjH84nw)
 # Clever
 * [Superman with a GoPro](https://www.youtube.com/watch?v=H0Ib9SwC7EI)
 # Funny

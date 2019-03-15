@@ -14,6 +14,10 @@ Top side:
 * If more than one player gets a Hit, prefer the player with the most at stake in the fiction
 * If nobody gets a Hit, the group may choose or decide randomly
 
+Flip side:
+
+* "Nothing happens" is not a valid outcome
+
 ## Dice
 Top side:
 

@@ -11,6 +11,7 @@ Top side:
 * The group names 2-5 potential outcomes
 * Players can generate Hits using rules on other cards
 * Any player that gets a Hit picks the outcome they want
+* If more than one player gets a Hit, prefer the player with the most at stake in the fiction
 * If nobody gets a Hit, the group may choose or decide randomly
 
 ## Dice

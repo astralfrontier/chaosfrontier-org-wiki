@@ -1,6 +1,8 @@
 <!-- TITLE: Flip A Card -->
 <!-- SUBTITLE: A quick summary of Flip A Card -->
 
+# Card Text
+* [2019 March Prototype](games/flip-a-card/2019-march-prototype) - the current state of the "core rule" cards
 # Unsorted Notes from G+
 A brief stupid thing I showed to a couple friends this week:
 

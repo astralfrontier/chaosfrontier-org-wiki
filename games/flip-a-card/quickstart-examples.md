@@ -6,7 +6,11 @@
 ## Forks
 Things that aren't Forks:
 
-* "Make a Perception check"
+* "Make a Perception check, if you fail, you don't notice"
+
+Things that are Forks:
+
+* "Let's just roll to see what happens" (as long as you have some possible outcomes in mind)
 
 ### Forks and Dice
 "I want to pick the lock on the door". People come up with some outcomes, worst to best:

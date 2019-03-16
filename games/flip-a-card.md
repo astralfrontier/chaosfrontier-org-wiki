@@ -3,6 +3,7 @@
 
 # Card Text
 * [2019 March Prototype](flip-a-card/2019-march-prototype) - the current state of the "core rule" cards
+* [Quickstart and Examples](flip-a-card/quickstart-examples) - hopefully some advice on how to play
 # Unsorted Notes from G+
 A brief stupid thing I showed to a couple friends this week:
 

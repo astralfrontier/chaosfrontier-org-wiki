@@ -24,8 +24,12 @@ Player rolls a d8 (4 outcomes x 2). On a 1-2, the door beaks, on 3-4 the lockpic
 
 If the player has an active card like "Thief", add +1. If they have "Thieves' Tools", add +1. And so on. If the door is "Reinforced" or the scene is "Guarded" or whatever, -1 per card. The player could instead flip "Thief" to automatically succeed, but can't flip it back until a consequence of Thief happens.
 
-### Combat
-TODO
+## Challenges
+Put monster actions or situational changes on a card, whenever someone takes an action against a challenge, add those things to the list of outcomes.
 
-### Social
-TODO
+A challenge can absorb some number of hits. Any outcome that would help progress the challenge marks off a hit.
+
+### Combat Example
+There's a Goblin Boss. As a challenge, it's got 8 hits.
+
+PCs can attack it, trick it, or take other actions. Anything that sounds like it'd work knocks one hit off.

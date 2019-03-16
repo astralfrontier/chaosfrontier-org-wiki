@@ -3,7 +3,28 @@
 
 # Core Cards
 ## About This Game
+* This is a game whose rules are on cards
+* To add a new rule, write a new card
+* No card, no rule
+* Rule cards can be flipped to disable them
+* Anyone can flip rule cards for any reason
+* Anyone can flip them back
+* The rules on this card are always in play regardless
 ## The Facilitator
+Top side:
+
+* This game has a facilitator
+* The last person to put this card into play, or flip it, is the facilitator
+* The facilitator will...
+  * Know and explain the rules
+  * Keep the conversation active
+  * Mediate disputes or clarify confusion
+  * Ensure a safe and fun atmosphere
+
+Flip side:
+
+* This game has no single facilitator.
+* Players equally bear the responsibility of guiding the conversation, understanding the rules, and ensuring a safe and fun atmosphere for everyone involved in the game.
 ## Forks
 Top side:
 
@@ -16,19 +37,20 @@ Top side:
 
 Flip side:
 
-* "Nothing happens" is not a valid outcome
+* The facilitator or group proposes a way to resolve uncertain situations
+* Write this rule on one or more cards
 
 ## Dice
 Top side:
 
-* When a Fork happens, sort 2-5 outcomes in order of player preference
-* Roll one die whose face is 2x the number of outcomes, e.g. d6 for 3 outcomes
-* 1-2 gives the most preferred outcome, 3-4 the second, 5-6 the third, etc.
-* Add 1 to the roll for each face-up card (up to 3) that makes things worse
-* Subtract 1 for each face-up card (up to 3) that makes things better
+* Used when a situation could play out multiple ways
+* Describe the stakes, name 2-5 potential outcomes
+* Outcomes always change the situation and respect the characters and fiction
+* Players can generate Hits using rules on other cards
+* Any player that gets a Hit picks from the outcomes
+* If more than one player gets a Hit, the player with the most at stake in the fiction picks
+* If nobody gets a Hit, the group or facilitator picks
 
 Flip side:
 
-* When a Fork happens, sort 2-5 outcomes in order of player preference
-* Roll one die whose face is 2x the number of outcomes, e.g. d6 for 3 outcomes
-* 1-2 gives the most preferred outcome, 3-4 the second, 5-6 the third, etc.
+* No dice are rolled. Players generate Hits in some other fashion.

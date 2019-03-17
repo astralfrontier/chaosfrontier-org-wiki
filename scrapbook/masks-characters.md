@@ -9,4 +9,8 @@
 ## Reformed
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 # Other or Undecided
-* Deus Volt
+* Deus Volt (an electrokinetic paladin-type)
+* a Robin Hood type Beacon
+* a thrill-seeker who manifests powers with enough adrenaline
+* a beastmaster/animal-controller
+* a Russian DIY cyborg.

@@ -1,6 +1,13 @@
 <!-- TITLE: Exodus -->
 <!-- SUBTITLE: A joyriding Jewish teleporter -->
 
+# The Premise
+* A non-observant Jew from somewhere in Eurasia (Germany or Russia)
+* Has a powerful and casual teleportation ability he uses to travel and stay out of danger
+* Has an easy-going, irresponsible, and hedonistic outlook on life - if it feels good, do it!
+* Troubled by feelings of guilt about the fate of his people, and by extension anyone facing oppression
+* It's easy to run away, but it's harder to run away from yourself
+* Is very weak-willed and easy to bully into things
 # The Delinquent
 **Hero Name**: Exodus
 **Real Name**: Alexander

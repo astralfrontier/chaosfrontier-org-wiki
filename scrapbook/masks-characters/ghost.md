@@ -1,6 +1,13 @@
 <!-- TITLE: Ghost -->
 <!-- SUBTITLE: A happy phantom -->
 
+# The Premise
+* A character who escaped domestic abuse by turning invisible and intangible
+* During this time he thought he had actually died and become a ghost, and his family was unable to find him
+* He found the whole experience liberating and now joyfully does his own thing out in the world
+* He's lonely and directionless, with some notion of "doing good" but no clear direction and no friends to anchor him
+* He lacks financial support and must rely on theft or donations to get by
+* He can consciously use his powers, but they activate on their own during moments of great stress or fear
 # The Beacon
 **Hero Name**: Ghost
 **Real Name**: TBD

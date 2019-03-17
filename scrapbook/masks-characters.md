@@ -4,6 +4,7 @@
 # By Playbook
 ## Beacon
 * [Ghost](masks-characters/ghost) - a character who thinks they died, and couldn't be happier
+* [Rebel](masks-characters/rebel) - a foreign spy raised under cover of a circus
 ## Delinquent
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster

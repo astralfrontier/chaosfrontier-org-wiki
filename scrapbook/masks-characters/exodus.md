@@ -3,7 +3,7 @@
 
 # The Delinquent
 **Hero Name**: Exodus
-**Real Name**: Nicholai
+**Real Name**: Alexander
 
 **Look**: man, white (Russian), laughing eyes, casual clothing, no costume
 

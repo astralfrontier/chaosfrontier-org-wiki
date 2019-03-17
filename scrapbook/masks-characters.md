@@ -2,6 +2,8 @@
 <!-- SUBTITLE: A quick summary of Masks Characters -->
 
 # By Playbook
+## Beacon
+* [Ghost](masks-characters/ghost) - a character who thinks they died, and couldn't be happier
 ## Delinquent
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster

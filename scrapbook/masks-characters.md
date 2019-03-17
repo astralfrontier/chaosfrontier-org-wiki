@@ -3,11 +3,11 @@
 
 # By Playbook
 ## Delinquent
+* [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster
 ## Nova
 * [Nick Knack](masks-characters/nick-knack) - a powerful psi fueled by memories
 ## Reformed
-* [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 # Other or Undecided
 * Deus Volt (an electrokinetic paladin-type)
 * a Robin Hood type Beacon

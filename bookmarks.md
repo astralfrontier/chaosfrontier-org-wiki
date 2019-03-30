@@ -2,6 +2,8 @@
 <!-- SUBTITLE: A quick summary of Bookmarks -->
 
 # Game Creation
+[The six emotional arcs of most stories](https://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/)
+
 ## Fonts
 1. http://www.typeconnection.com/index.php - the first crucial step, identifying a specific font based on the "feel" I want to achieve.2
 2. http://joelcrawfordsmith.com/closest-font/  - avoiding paying $100 for a font is helpful on a small non-profit project like this, so if I can find a comparable font, great.

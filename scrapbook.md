@@ -1,8 +1,6 @@
 <!-- TITLE: The Scrapbook -->
 <!-- SUBTITLE: Where semi-serious ideas incubate -->
 
-# The Scrapbook
-[The six emotional arcs of most stories](https://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/)
 # General
 [Balancing Creative Debt](scrapbook/balancing-creative-debt)
 # Characters

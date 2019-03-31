@@ -19,13 +19,6 @@ Including the brain, consciousness, religion, and beliefs.
 * [What do chimp ‘temples’ tell us about the evolution of religion?](https://www.newscientist.com/article/2079630-what-do-chimp-temples-tell-us-about-the-evolution-of-religion/)
 * [New Life Found That Lives Off Electricity](https://www.quantamagazine.org/electron-eating-microbes-found-in-odd-places-20160621)
 * [All Multicellular Life On Earth Is The Result Of A Random 600-Million-Year-Old Accident](https://www.iflscience.com/plants-and-animals/were-all-result-random-600-million-year-old-mutation/)
-# The Cosmos
-* [Cosmology from quantum potential](https://www.sciencedirect.com/science/article/pii/S0370269314009381) - "...which gets rid of the big-bang singularity and predicts an infinite age of our universe."
-* [Navigation Using X-Ray Pulsars](https://ipnpr.jpl.nasa.gov/progress_report/42-63/63F.PDF) - GPS for spaceships
-* [The Peculiar Math That Could Underlie the Laws of Nature](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/)
-* [NASA Has Been Visiting Strange, New Worlds for 60 Years. See the Places It's Gone](http://time.com/5408827/nasa-spacecraft-missions/)
-* [Scientists discover ‘apparent evidence’ for universes beyond our own](https://thenextweb.com/science/2018/08/24/scientists-discover-apparent-evidence-for-universes-beyond-our-own/)
-
 # The Planet
 Climate change, geography, and other stuff.
 
@@ -33,3 +26,10 @@ Climate change, geography, and other stuff.
 * [How to Give Mars an Atmosphere, Maybe](http://www.manyworlds.space/index.php/2017/03/09/how-to-give-mars-an-atmosphere-maybe/)
 * [Freight Farms](https://www.freightfarms.com/faq)
 * [Liminal Seattle](http://www.liminalseattle.com/)
+
+# The Cosmos
+* [Cosmology from quantum potential](https://www.sciencedirect.com/science/article/pii/S0370269314009381) - "...which gets rid of the big-bang singularity and predicts an infinite age of our universe."
+* [Navigation Using X-Ray Pulsars](https://ipnpr.jpl.nasa.gov/progress_report/42-63/63F.PDF) - GPS for spaceships
+* [The Peculiar Math That Could Underlie the Laws of Nature](https://www.quantamagazine.org/the-octonion-math-that-could-underpin-physics-20180720/)
+* [NASA Has Been Visiting Strange, New Worlds for 60 Years. See the Places It's Gone](http://time.com/5408827/nasa-spacecraft-missions/)
+* [Scientists discover ‘apparent evidence’ for universes beyond our own](https://thenextweb.com/science/2018/08/24/scientists-discover-apparent-evidence-for-universes-beyond-our-own/)

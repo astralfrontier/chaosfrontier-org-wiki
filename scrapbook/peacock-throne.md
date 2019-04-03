@@ -27,3 +27,10 @@ A wizard has mastery over the elements of nature, over subtle vibration, over th
 1. Your wizard concept will have one or more fighting styles that correspond to a type of magic they wield (e.g. elemental magic, weather control, animal shapeshifting, whatever).
 2. Your wizard ought to have some appropriate motivation, a drive to go do something. It should be compatible with the drives of other PCs in the long run, although short-term conflicts are possible.
 3. Your wizard ought to have one or two NPCs important to them - family, lovers, allies, old friends. Some of these NPCs might have different relationships to multiple PCs (e.g. the sister of Alice is also Bob's fiancee).
+
+# Magic
+A system of martial arts, including unarmed striking and grappling, is the most common application of magic today. However, anything that achieves the alignment of self and world can be used, including dance, meditation, or even more specialized acts like contact juggling.
+
+### Celestial Arrow
+
+An archer breathes in, absorbing the energy of the air, then fires an arrow into the sky. The arc of flight becomes a conduit for magic, and when the arrow comes down again, it brings with it an aerial or celestial phenomenon. The most common (and easiest) is a change in the weather - as the arrow lands, it brings down rain with it - but powerful wizards can call down the fire of the sun on distant targets.

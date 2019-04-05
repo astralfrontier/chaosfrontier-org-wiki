@@ -1,6 +1,7 @@
 <!-- TITLE: Sprout -->
 <!-- SUBTITLE: A size-changing, animal-controlling character -->
 
+The pitch: a Borrower version of Ant-Man.
 # The Outsider
 **Hero Name**: Sprout
 **Real Name**: Midge Leafstone

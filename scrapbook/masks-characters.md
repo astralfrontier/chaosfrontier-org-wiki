@@ -10,6 +10,8 @@
 * [Sabine](masks-characters/sabine) - a blind speedster
 ## Nova
 * [Nick Knack](masks-characters/nick-knack) - a powerful psi fueled by memories
+## Outsider
+* [Sprout](masks-characters/sprout) - a size-changing, animal-controlling character
 ## Reformed
 # Other or Undecided
 * Deus Volt (an electrokinetic paladin-type)

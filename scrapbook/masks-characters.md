@@ -9,6 +9,7 @@
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster
 ## Nova
+* [Jung Justice](masks-characters/jung-justice) - a shapeshifter who becomes myths instead of animals
 * [Nick Knack](masks-characters/nick-knack) - a powerful psi fueled by memories
 ## Outsider
 * [Sprout](masks-characters/sprout) - a size-changing, animal-controlling character

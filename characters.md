@@ -2,6 +2,8 @@
 <!-- SUBTITLE: RPG characters I've played or am playing -->
 
 # Characters
+## Masks
+* [Armiger](characters/armiger)
 ## Dan Thursday
 **Aspects**: Exiled Jovian prince exploring the solar system; The world is full of wonders!; Adept of North Polar Jupiter; Primitive does not mean ineffective; Sensitive to sub-etheric vibration
 

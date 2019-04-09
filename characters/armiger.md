@@ -2,7 +2,23 @@
 <!-- SUBTITLE: He coulda been a contender -->
 
 # Background
-> The short short version: Adonis Creed, if he joined a group like the Green Lanterns, but instead of magic green rings it's Thor's hammer but a fantasy sword.
+> Adonis Creed, if he joined a group like the Green Lanterns, but instead of magic green rings, it's Thor's hammer, but a fantasy sword.
+
+*Who are you?*
+
+Armiger ("AR-ma-jer") is a member of the **Grail Knights**, a world-wide organization of supernaturally empowered soldiers. All Grail Knights wield a **fragment of Excalibur**, the weapon of kings. These are not just physical swords, but metaphysical shadows, reflections, or echoes of a larger mystic reality. Each fragment bestows powers on its wielders, based on their relationship with the sword and what it represents.
+
+*When did you officially become a part of your legacy?*
+
+A year ago, Will Eddison was a high school student with dreams and ambitions, but no path forward. While following an attractive girl home from school, and while working up the nerve to talk to her, he saw her under attack from a mysterious creature. He ran to her defense, with no plan or hope other than an instinct to help. At that moment, the sword Excalibur presented itself to him, and he took hold of it.
+
+Since then, he learned that her father was once a Grail Knight, and that the creature was a **goetic demon** sent to abduct her to get to the old man.
+
+*What’s the greatest achievement of your legacy?* Camelot. Of course, we all disagree what that _means_, but in general, the Knights are largely responsible for banishing demons, dragons, and other threats to life. The order waged war against the supernatural, making a safe place for human beings to live.
+
+*How does the public perceive your legacy?* The Excalibur wielders have mostly faded from history. They reappear as the Knights Templar in conspiracy stories, for example. Today, they fight evil from the shadows, dealing with demons and sorcerers and stuff. These days, anyone with a big sword just looks like a crazy person, so history hasn’t been kind. But you remember, at least when things get tense. You all remember.
+
+*How does your legacy tie into your reasons for being a hero?* I’m the black sheep of the Grail Knights. None of them respect me, nor think that I can be the one who’ll wake the Sleeping King. Fair enough. Let them hide in the shadows. I’ll be out here, representin'.
 
 ## About Excalibur
 
@@ -23,14 +39,6 @@
 **Abilities**: Grail Knight; bearer of an Excaliber fragment ("divine armor, magic weaponry, mythic might")
 
 **Labels**: Danger +0, Freak +0, Savior +2, Superior +0, Mundane +1
-
-**Backstory**:
-
-* *Who are you?* I’m Armiger, a Grail Knight, bearer of an Excalibur fragment. That’s “ar-ma-jer”.
-* *When did you officially become a part of your legacy?* When the sword appeared to me, in an hour of need I don't want to talk about right now. The Grail Knights have three ranks - Aspirant, Squire, and Knight. I'm an Aspirant right now. But none of that really matters. If you can raise the blade, you're a member.
-* *What’s the greatest achievement of your legacy?* Camelot. Of course, we all disagree what that _means_, but in general, the Knights are largely responsible for banishing demons, dragons, and other threats to life. The order waged war against the supernatural, making a safe place for human beings to live.
-* *How does the public perceive your legacy?* The Excalibur wielders have mostly faded from history. They reappear as the Knights Templar in conspiracy stories, for example. Today, they fight evil from the shadows, dealing with demons and sorcerers and stuff. These days, anyone with a big sword just looks like a crazy person, so history hasn’t been kind. But you remember, at least when things get tense. You all remember.
-* *How does your legacy tie into your reasons for being a hero?* I’m the black sheep of the Grail Knights. None of them respect me, nor think that I can be the one who’ll wake the Sleeping King. Fair enough. Let them hide in the shadows. I’ll be out here, representin'.
 
 **When our team first came together**, All things considered, we did well and impressed an established hero. Who was it?
 

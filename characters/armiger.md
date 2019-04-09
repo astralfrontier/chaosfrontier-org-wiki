@@ -40,6 +40,11 @@ Armiger is the black sheep of the Grail Knights. He's a lowly Aspirant, and he d
 
 > "The second reason is that I learned the lesson of the sword, that other Grail Knights have forgotten. The sword shouldn’t weaken itself to match the wielder. The wielder must grow to match the blade. 'The king and the land are one'. The land isn’t subservient. The king isn’t either. They’re just united. You get it?”
 
+* The sword is the physical manifestation of a universal cosmic truth. It cannot be broken or taken away.
+  * A worthy wielder can teleport the sword to themselves, or themselves to the sword, at will.
+* The sword is a tool of rulership. It gives a worthy wielder the power to uphold justice and fight evil.
+* The sword can bend fate or manipulate reality. The wielder must simply demonstrate the courage to face a challenge, and the sword does the rest.
+* The sword's powers are not under the wielder's full control, but learning more about what the sword represents will unlock new powers or more control.
 # The Legacy
 **Hero Name**: Armiger
 **Real Name**: Will Eddison
@@ -67,8 +72,9 @@ TBD
 * **Words of the past**: When you seek the guidance of one of your elders or a member of your legacy, tell them a problem you face, and ask them a question about the problem. They will answer it honestly, and tell you what to do. Take +1 ongoing if you listen. If you go your own way, mark potential.
 
 Legacy: Your legacy is an important part of Halcyon City. Name the different members of your legacy (at least two):
+
 * Skinner is retired and quite judgmental.
-* Velasco is the greatest opponent your legacy ever faced…and is still at large.
+* Velasco, the Dread Moor, is the greatest opponent your legacy ever faced…and is still at large.
 
 **Whenever time passes**, roll + Savior to see how the members of your legacy feel or react to your most recent exploits. Before rolling, ask the other players to answer these questions about your performance. Take -1 to the roll for each “no” answer:
 

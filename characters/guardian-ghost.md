@@ -2,7 +2,11 @@
 <!-- SUBTITLE: A fourth-generation Mystery Man -->
 
 # Background
-Great-grandson of "The Shadow", with the powers but lacking with the guidance to use them.
+Great-grandson of "The Shadow", with the powers but lacking with the guidance to use them. Issues to hit:
+
+* Is it really okay to just go bust bad guys on the orders of a mysterious Voice? (independence vs. authority)
+* Is there a place for an old-timey legacy like this in the modern world? (taking corny old tropes seriously)
+* What is a parent's responsibility to a child, vs. a super's responsibility to use their powers for good?
 
 ### Who are you?
 

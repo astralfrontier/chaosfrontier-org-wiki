@@ -66,6 +66,12 @@ TBD
 * Sam Murphy (the original Guardian Ghost) is retired and quite judgmental.
 * Katia Murphy (Miguel's younger sister) is the next possible member of the legacy.
 
+Other family members:
+
+* Maria Baez Murphy (mother) - daughter of a Mexican super-scientist rescued by David
+* Jesse Murphy (grandfather) - David's father, retired, former Guardian Ghost
+* Laura Kinsolving Murphy (grandmother) - David's mother, retired
+
 **Whenever time passes**, roll + Savior to see how the members of your legacy feel or react to your most recent exploits. Before rolling, ask the other players to answer these questions about your performance. Take -1 to the roll for each “no” answer:
 
 * have you been upholding the traditions of your legacy?

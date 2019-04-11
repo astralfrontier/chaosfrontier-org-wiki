@@ -4,7 +4,7 @@
 # Characters
 ## Masks
 * [Armiger](characters/armiger)
-* [Silver Specter](characters/silver-specter)
+* [Guardian Ghost](characters/guardian-ghost)
 ## Dan Thursday
 **Aspects**: Exiled Jovian prince exploring the solar system; The world is full of wonders!; Adept of North Polar Jupiter; Primitive does not mean ineffective; Sensitive to sub-etheric vibration
 

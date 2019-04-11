@@ -20,11 +20,19 @@ There's one other voice that isn't being heard - Miguel's. But he doesn't know w
 
 ### When did you officially become a part of your legacy?
 
+Miguel's father David is the currently active "Guardian Ghost". He introduced Miguel to other adult heroes on his 16th birthday, proud that the boy had already exhibited powers and would become the next Ghost. A few of Dad's cronies know about the Voice, and asked about it. Both Miguel and his dad were evasive. But as far as these adult heroes know, Miguel has the job.
+
 ### What’s the greatest achievement of your legacy?
+
+The original Sam Murphy stopped an international spy ring from blowing up a fleet of American Liberty ships. That put the Guardian Ghost on the map, at least in the superhero community.
 
 ### How does the public perceive your legacy?
 
+While the public doesn't know too much about the specifics of the Ghosts, or that they are the Murphy family, they are considered American patriots, and a Guardian Ghost sighting is considered a sign that justice is on the job. Previous Ghosts have been unerringly led to dangerous criminals and anti-government conspiracies, so while their methods and powers are sometimes questionable, their results make up for it.
+
 ### How does your legacy tie into your reasons for being a hero?
+
+Miguel is enough of a Murphy to feel obliged to use what powers he has in the cause of justice. But if he's not able to hear the Voice, can he really be one of the Ghosts? Should he even try? Or - perhaps, like his mother wants - should he put it away, and live a normal life? For now, he associates with other heroes, hoping that maybe this will get the Voice's attention, or at least give him some kind of direction.
 
 # The Legacy
 **Hero Name**: Guardian Ghost
@@ -52,7 +60,7 @@ TBD
 * **I know what I am** (the one thing he knows is that he wants to help people)
 * **Words of the past** (figuring out what to do is a big deal for Miguel)
 
-Legacy: Your legacy is an important part of Halcyon City. Name the different members of your legacy (at least two):
+**Legacy**: Your legacy is an important part of Halcyon City. Name the different members of your legacy (at least two):
 
 * David Murphy (Miguel's father) is still active and prominent in the city.
 * Sam Murphy (the original Guardian Ghost) is retired and quite judgmental.

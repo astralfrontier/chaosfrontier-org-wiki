@@ -33,6 +33,8 @@ While the public doesn't know too much about the specifics of the Ghosts, or tha
 ### How does your legacy tie into your reasons for being a hero?
 
 Miguel is enough of a Murphy to feel obliged to use what powers he has in the cause of justice. But if he's not able to hear the Voice, can he really be one of the Ghosts? Should he even try? Or - perhaps, like his mother wants - should he put it away, and live a normal life? For now, he associates with other heroes, hoping that maybe this will get the Voice's attention, or at least give him some kind of direction.
+
+https://i.imgur.com/gXdCCz5.png
 # The Legacy
 **Hero Name**: Guardian Ghost
 **Real Name**: Miguel Murphy

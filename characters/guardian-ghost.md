@@ -34,7 +34,14 @@ While the public doesn't know too much about the specifics of the Ghosts, or tha
 
 Miguel is enough of a Murphy to feel obliged to use what powers he has in the cause of justice. But if he's not able to hear the Voice, can he really be one of the Ghosts? Should he even try? Or - perhaps, like his mother wants - should he put it away, and live a normal life? For now, he associates with other heroes, hoping that maybe this will get the Voice's attention, or at least give him some kind of direction.
 
-https://i.imgur.com/gXdCCz5.png
+# Gallery
+![](http://crypticchroniclespodcast.com/wp-content/uploads/2018/02/hat-man-2.jpg) - [source](http://crypticchroniclespodcast.com/entity-week-hat-man/) - Sam Murphy, now a ghost
+
+![](https://gamepedia.cursecdn.com/ghostreconwildlands_gamepedia/thumb/f/f4/Icon_El_Yayo.png/300px-Icon_El_Yayo.png?version=6f971d1c375fea1607a5ecad580ad9f1) - [source](https://ghostreconwildlands.gamepedia.com/El_Yayo) - Jesse Murphy, Miguel's grandfather
+
+![](https://s3-us-west-1.amazonaws.com/itf-media/wp-content/uploads/20170602200318/01.jpg) - [source](https://intothefrayradio.com/Episodes/itf-66-hatman/) - David Murphy, Miguel's father
+
+![](https://ih1.redbubble.net/image.436562161.2905/flat,1000x1000,075,f.u1.jpg) - [source](https://www.redbubble.com/people/nattalyara/works/28242905-teenager-girls-shadow-dog) - Katia Murphy, Miguel's little sister
 # The Legacy
 **Hero Name**: Guardian Ghost
 **Real Name**: Miguel Murphy

@@ -35,6 +35,8 @@ While the public doesn't know too much about the specifics of the Ghosts, or tha
 Miguel is enough of a Murphy to feel obliged to use what powers he has in the cause of justice. But if he's not able to hear the Voice, can he really be one of the Ghosts? Should he even try? Or - perhaps, like his mother wants - should he put it away, and live a normal life? For now, he associates with other heroes, hoping that maybe this will get the Voice's attention, or at least give him some kind of direction.
 
 # Gallery
+![](/uploads/sam-murphy.jpg)
+
 ![](http://crypticchroniclespodcast.com/wp-content/uploads/2018/02/hat-man-2.jpg) - [source](http://crypticchroniclespodcast.com/entity-week-hat-man/) - Sam Murphy, now a ghost
 
 ![](https://gamepedia.cursecdn.com/ghostreconwildlands_gamepedia/thumb/f/f4/Icon_El_Yayo.png/300px-Icon_El_Yayo.png?version=6f971d1c375fea1607a5ecad580ad9f1) - [source](https://ghostreconwildlands.gamepedia.com/El_Yayo) - Jesse Murphy, Miguel's grandfather

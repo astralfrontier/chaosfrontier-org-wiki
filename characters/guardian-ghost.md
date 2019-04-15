@@ -58,7 +58,7 @@ Katia Murphy, Miguel's little sister - [source](https://www.redbubble.com/people
 
 **Look**: man, Latino/White, comfortable clothing, predecessor's costume (coat, hat, mask), no insignia
 
-**Abilities**: shadow portals, mind-clouding, shadow cloak stealth
+**Abilities**: shadow portals, mind-clouding, shadow cloak stealth - powers are applications of something similar to Marvel's [Darkforce](https://en.wikipedia.org/wiki/Darkforce)
 
 **Labels**: Danger -1, Freak +1, Savior +2, Superior +0, Mundane +1
 

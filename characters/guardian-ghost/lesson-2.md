@@ -56,7 +56,7 @@ Maria charged into domestic duties with the same eagerness, intelligence, and fi
 
 Right now she's bustling around the kitchen, collecting plates, pouring more orange juice, and pointing Miguel's little sister Katia at her backpack. The faucet is running in the background. Maria's got a Bluetooth headset, and is talking to somebody or other about a conference, so her children don't get spoken to, only gestured or glared at.
 
-Katia's the quieter, more serious one. She's young enough that Miguel thinks of her as childish, and old enough that she can occasionally put him in his place. The combination is annoying.
+Katia is quieter, and more secretive. She's young enough that Miguel thinks of her as childish, and old enough that she can occasionally put him in his place. The combination is annoying.
 
 "Dad said you're supposed to help me with shadow training," she says, in that flat monotone that pisses him off. *Why do you have act so superior? You're gonna be just as bad at this as I was. Probably worse.*
 
@@ -66,8 +66,22 @@ Katia's the quieter, more serious one. She's young enough that Miguel thinks of 
 
 "Got rehearsal today."
 
-An obedient kid would say "okay". A bratty kid would whine, "but Dad saaaid." Katia, damn it all, has to be logical. "These powers are dangerous. Mom and Dad both know so. As a responsible order brother, aren't you supposed to be looking after me?"
+An obedient kid would say "okay". A bratty kid would whine, "but Dad saaaid." Katia, damn it all, has to be logical. "These powers are dangerous. Mom and Dad both know so. As a responsible older brother, aren't you supposed to be looking after me?"
 
 "Take care of your sister," adds Maria, another step in the graceful dance she's doing between dishes, event planning, and general parenting.
 
-(more)
+Miguel would be surprised and embarrassed if he ever learned that his sister was consciously trying to emulate him - be responsible, be serious, be ready to adopt the mantle of the Ghost if necessary. Fortunately he hasn't figured this out. "I am, mom!" he says.
+
+Katia looks at him expectantly.
+
+"I have *rehearsal*!" he repeats. But this isn't going to go away that easily. "But after that, I guess I can help."
+
+She smiles, and Miguel is irritated by how victorious she looks. He decides to needle her. "Aren't you smart enough to figure it all out yourself?"
+
+"Well, I inherited Mom's brains" -- *suckup*, Miguel thinks -- "but also Dad's caution." *Double suckup*. "Why can't you just help me?"
+
+Miguel knows that she's already figured out a few things on her own. She might need training, and it might be useful to her, but part of this is just her wanting to show off to him. Whatever.
+
+"Fine. But don't expect me to go easy on you."
+
+"I won't." Katia stands and grabs her backpack, then heads out.

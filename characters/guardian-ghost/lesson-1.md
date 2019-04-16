@@ -70,7 +70,7 @@ Finally, though, Miguel is able to do it often enough that both David and Jesse 
 # Shadow Cloak Stealth
 Miguel is fifteen. He doesn't know what his parents want anymore, and it's frustrating trying to please them both. His dad is pushing him to get into drama class. "Theater will teach you about the mind, the emotions, about theatrics and the power of props to influence people," he'd say. His mom wants him to get into science class. "Vigilantes don't make money," she insists. "You can't just live off crimefighting. You've got to do something practical. Even if you pursue this life your father wants for you, you'll need a grounding in the sciences."
 
-They aren't going to divorce. Miguel and Jesse had a long talk one day, skipping stones across the river. But more and more, Miguel feels like he's the cause of everything.
+They aren't going to divorce. Miguel and Jesse had a long talk about this one day, while skipping stones across the river. But more and more, Miguel feels like he's the cause of everything wrong in the house.
 
 He's gotten good at influencing people, finding their emotional weaknesses and hammering a wedge into them. Some kid came up to Miguel in the hallway one day, calling him "fag" for being in theater. A few menacing words of Spanish, and a mental push, left the bully convinced Miguel was a junior member in some kind of Central American gang. A talk with the principal, and another little push on the subject of diversity and racism, was enough to keep that from getting him in trouble. Maybe he could similarly push his parents a little. But he won't. That would be wrong.
 

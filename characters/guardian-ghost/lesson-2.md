@@ -21,7 +21,7 @@ David can see the look on his son's face, and understands what it means. He spea
 Miguel watches his father's face harden, and his eyes narrow. "So.. are you just an emo teenager....? Or are you a Guardian Ghost?"
 
 Miguel Murphy hears the weight of his father's words, and makes a decision.
-# The Life
+# Theater
 Miguel is sitting in the theater room with his friend, Anya. The rest of the group has left, allowing the two to talk candidly.
 
 "Your parents are assholes, Miguel," Anya says, earnestly, and a little judgementally. As she ticks off items, Miguel reflects.
@@ -49,3 +49,25 @@ Anya lays a comforting hand on his shoulder, and Miguel lets out a long sigh. Th
 Miguel smiles in genuine gratitude. "I don't feel alone. Have fun with Steve."
 
 Anya stands and walks out. Miguel remembers one other theater tradition. There's always one light left on in a theater, and it's called a ghost light.
+# Mother and Sister
+Maria Baez Murphy is the daughter of Ernesto Baez, the famous super-scientist. The Guardian Ghost rescued the chemist from a gang of terrorists intent on using his chemical creations to rule the world, and saved his daughter's life in the process. One thing led to another, David and Maria got married, and this is how Miguel and his sister Katia enjoy egg and chorizo wraps in the morning.
+
+Maria charged into domestic duties with the same eagerness, intelligence, and fierceness she showed (and still shows) in the fields of organic chemistry, biochemistry, and metamaterials research. He knows that she's contributed basic research toward some of the gadgets and armor that his dad uses in the field, and that she's absolutely not giving him anything remotely dangerous until his 18th birthday, and probably not even then. But he also knows she's the best cook in the neighborhood. He's not sure how a dark avenger is supposed to feel about the person who washes his underwear, but dad manages it okay.
+
+Right now she's bustling around the kitchen, collecting plates, pouring more orange juice, and pointing Miguel's little sister Katia at her backpack. The faucet is running in the background. Maria's got a Bluetooth headset, and is talking to somebody or other about a conference, so her children don't get spoken to, only gestured or glared at.
+
+Katia's the quieter, more serious one. She's young enough that Miguel thinks of her as childish, and old enough that she can occasionally put him in his place. The combination is annoying.
+
+"Dad said you're supposed to help me with shadow training," she says, in that flat monotone that pisses him off. *Why do you have act so superior? You're gonna be just as bad at this as I was. Probably worse.*
+
+"Yeah, I will." Miguel takes a bite of his third breakfast wrap.
+
+"*Today*," Katia stresses.
+
+"Got rehearsal today."
+
+An obedient kid would say "okay". A bratty kid would whine, "but Dad saaaid." Katia, damn it all, has to be logical. "These powers are dangerous. Mom and Dad both know so. As a responsible order brother, aren't you supposed to be looking after me?"
+
+"Take care of your sister," adds Maria, another step in the graceful dance she's doing between dishes, event planning, and general parenting.
+
+(more)

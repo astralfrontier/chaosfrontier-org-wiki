@@ -42,4 +42,29 @@ Miguel struggles to process this. He dreads that it will take practice - he does
 
 His father smiles proudly. "Master this, and I will teach you that."
 # Mind-Clouding
+Miguel is fourteen. He's been practicing with shadow portals for months, and he feels ready for anything. His dad took him back to the warehouse a few times and lined up a bunch of those tennis-ball cannons. "Dodge," came the order, and the tennis balls started firing. The practice was exhausting, but fun, because he felt accomplished every time the machines shut off and his dad came over with the day's score.
+
+Today is different. They're at the warehouse again, but Grandfather Jesse is here as well. Miguel likes the old man, and his grandmother Laura too, but Jesse always looks so grumpy. Miguel keeps wondering what he did wrong. But his dad says something that gets his attention.
+
+"This isn't something you just practice, over and over," his dad says sternly. "You have to pay attention, Miguel."
+
+Miguel nods. His mom and dad have been fighting lately, about him, and he doesn't know how he feels. He's tried to please them both, Dad with powers practice, Mom with science homework and studies. So when a chance appears to make his father proud, Miguel jumps at it.
+
+The three Murphys set up a card table and folding chairs. Jesse produces a ball and three red Solo cups. "The game is simple. Put a ball underneath the cup, shuffle the cups, Davey here picks the cup with the ball. If he guesses right, you lose. You know which cup the ball is under. You want your dad to pick the wrong one."
+
+Miguel sits across from his father, making eye contact. The two begin playing. In the first few rounds, David's keen eyes spot the ball every time. Miguel frowns.
+
+Jesse lays a withered hand on his shoulder. "The secret of the clouded mind is that you can't do it from nothin'. Remember this phrase: first the spark, then the dark. First the spark, then the dark. It means, you start with something mundane. Some doubt, some fear, some kinda emotion. Why would your dad pick the wrong cup? Find that reason in your own mind. Wrap the shadow around it, then sorta.. pull."
+
+Miguel nods, uncertainly. He plays a few more rounds, thinking about his dad and their relationship. His dad has been warm, kind, supportive. His dad has faith in him. Right? Does his dad.. trust him?
+
+That's it. *I wouldn't deceive you, dad. Believe me. I'll let you know where the ball is.*
+
+David misses the next three balls.
+
+The next few weeks are the same routine. Miguel's success rate goes steadily down. "He's gettin' wise to your tricks," Jesse explains. "You have to find something new. Find, or create something. Some seed of doubt."
+
+Miguel watches his father like a hawk from then on. DIfferent emotions work differently, some not at all. "Practice doesn't make perfect," David explains. "Every situation is unique."
+
+Finally, though, Miguel is able to do it often enough that both David and Jesse are satisfied. The next day, when they set up the card table, Jesse brings out a new set of cups - transparent plastic. Miguel gapes. The old man just grins.
 # Shadow Cloak Stealth

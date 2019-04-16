@@ -68,3 +68,46 @@ Miguel watches his father like a hawk from then on. DIfferent emotions work diff
 
 Finally, though, Miguel is able to do it often enough that both David and Jesse are satisfied. The next day, when they set up the card table, Jesse brings out a new set of cups - transparent plastic. Miguel gapes. The old man just grins.
 # Shadow Cloak Stealth
+Miguel is fifteen. He doesn't know what his parents want anymore, and it's frustrating trying to please them both. His dad is pushing him to get into drama class. "Theater will teach you about the mind, the emotions, about theatrics and the power of props to influence people," he'd say. His mom wants him to get into science class. "Vigilantes don't make money," she insists. "You can't just live off crimefighting. You've got to do something practical. Even if you pursue this life your father wants for you, you'll need a grounding in the sciences."
+
+They aren't going to divorce. Miguel and Jesse had a long talk one day, skipping stones across the river. But more and more, Miguel feels like he's the cause of everything.
+
+He's gotten good at influencing people, finding their emotional weaknesses and hammering a wedge into them. Some kid came up to Miguel in the hallway one day, calling him "fag" for being in theater. A few menacing words of Spanish, and a mental push, left the bully convinced Miguel was a junior member in some kind of Central American gang. A talk with the principal, and another little push on the subject of diversity and racism, was enough to keep that from getting him in trouble. Maybe he could similarly push his parents a little. But he won't. That would be wrong.
+
+Well, what the hell is there to do, then?
+
+Sam Murphy, the one who did this without any superpowers, has been dead for years. When he appears to the family, it's always in an area of gloom, an unlit room or a darkened road. He's the silhouette of a human, with only glowing eyes to mark a face. But he can speak, with a soft sigh no human voice can manage. And he startles the hell out of Miguel one night on the way home from dress rehearsal.
+
+**You want to disappear.**
+
+Miguel steadies his pounding heart. "Yeah, I guess," he admits to the shade. "Mom and dad are arguing, about me. I keep telling them I'm sorry, but it doesn't fuckin' matter, y'know?" *How much do you know*? he wonders, but won't say. It's never clear just how much the ghost of the Ghost really sees.
+
+**I'll teach you. You can cloud minds, of course.**
+
+It's not a question. Miguel nods anyway.
+
+**Start to walk. I will instruct you.**
+
+Miguel does as he's commanded.
+
+**You can influence one mind. Now you will influence many minds. See nothing. Look away. Ignore me. It is self-denial. You must take these feelings you have, and allow the shadow to flow through them.** Miguel finds himself at a convenience store.
+
+The figure of Sam points through the window. Miguel realizes he can see the shade next to him, yet the glass window reflects only himself.
+
+**Go inside. Keep the hood of your coat up. Do not be Miguel any longer. Be a forgettable boy. Be something the people inside do not wish to see. Take something from the shelf. Come to the door. If they do not challenge you as you walk past the register, return to it and offer to pay for the thing you took.** The voice is chilling, but Miguel feels a strange sense of happiness that he's not being asked to shoplift anything, even by the creepy ghost of his great-grandfather. Once a hero, always a hero, huh?
+
+The first convenience store is a bust. The kid at the counter notices him. At the second one, Miguel actually has to run from an off-duty cop who notices him, and shadow-portals away before the man can catch up to him.
+
+Panting, leaning against a brick wall, Miguel can hear the irritation in the spectral voice. **You are nothing. You are worthless.**
+
+"Hey! I'm tryin' here!" Miguel shouts, suddenly okay with being angry at the family patriarch. "Fuck you, man, I did what you said!"
+
+**When I said that you were nothing, how did you feel?** Sam asks. He doesn't seem upset at all.
+
+Miguel reels. *Oh. Oh. This is a lesson too. Duh. Dumb fuck, listen and pay attention.* "I felt..like you were dismissing me, like I didn't count, but I'm workin' hard, and it's not easy-- Oh. I want to be dismissed. Yeah. Yeah."
+
+The young woman with the green hair doesn't remember seeing the Mexican kid come into the store. Just another young punk from around here, huh? But he's holding out a candy bar, and some money. She shrugs and rings it up. Whatever.
+
+Outside, Miguel grins to himself, and Sam rests a shadowy hand on his shoulder. **It will not be easy. The shadow is not a place for pride. You must lose yourself, in the service of something greater.**
+
+That sounds like it's gonna be hard. But Miguel is ready. Or at least, he tells himself so. He's going to go practice being unnoticed. And when he's got it, he'll show it off. Mom and dad will finally stop arguing. Everything will be perfect.

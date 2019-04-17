@@ -37,6 +37,7 @@ Miguel is enough of a Murphy to feel obliged to use what powers he has in the ca
 # Fiction
 * [Miguel learns about using his powers](guardian-ghost/lesson-1)
 * [Miguel's family, costume, and school life](guardian-ghost/lesson-2)
+* [Miguel's practice run](guardian-ghost/lesson-3)
 # Gallery
 ![](/uploads/guardian-ghost/sam-murphy.jpg)
 

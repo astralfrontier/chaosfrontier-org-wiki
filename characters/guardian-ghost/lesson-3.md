@@ -71,3 +71,60 @@ Miguel sighs. "No. Can.. should I, or do you want to?"
 "I'll do it. Good job, son."
 
 > Miguel didn't **directly engage**, **comfort and support**, or **pierce the mask**. But he exercised other basic moves, plus one of his legacy moves, and his dad is impressed.
+
+# The Assessment
+Miguel sits with his parents, his sister, and his grandfather. They're all in a circle, staring at him. "Well, boy, what did ya think?" grandpa Jesse finally asks.
+
+"Tell us everything you can, for as long as you can," his dad suggests.
+
+"You were safe, right?" his mother demands.
+
+"Hyperskin looks cooler than you," his sister observes.
+
+*Shut up, jeez.*
+
+"Okay." Miguel collects his thoughts. "First thing is, I don't have the Voice. Sorry. Just... I know, *I know*, I know, god, *I know*. I just.. Anyway. Practically. This means I'm going to need to gather my own intel, chase down my own leads."
+
+"I grabbed a walkie-talkie off of one of them. Maybe they had papers." Miguel thinks. "Uh, some kind of y'know, gang sign type thing? Like a... I dunno, anyway. Some kind of way to track them back to a boss."
+
+His dad nods. Miguel goes on.
+
+"So, this also means I need to make friends with people like Hypersuit--" "--Hyperskin," his sister corrects. "Hyper*skin*, god, it's a terrible name anyway, like is that your actual skin? Anyway, don't correct me."
+
+Katia hushes up and he resumes.
+
+"People like that, they can tip me off to thefts or other crimes. Like uh, uh.." Miguel knows he's seen a movie where this sort of thing happens. He can't place it now. "I need allies, contacts, people in positions of power and authority. Oh! Cops. I gotta like, befriend a guy on the force. Oh! It wasn't a movie, it was a TV show. Like you guys get irrelevant numbers, but from the Voice, rather than the Machine, right, and I'm the guy in the nice suit, Mr. Reese, and Dad's like Mr. Finch, who knows everything, and--"
+
+"What are you talking about?" his mom asks.
+
+"Persons of Interest," Katia answers.
+
+"Oh. Is that the criminal one?"
+
+"They're all 'criminal ones', mom."
+
+"I don't want you watching that, Miguel."
+
+The young man shifts in his chair. "Mooom! They give me ideas for crimefighting. You can't just tell me not to watch stuff. Okay, so. Um. What else?"
+
+"This is *not* how we did avenging in my day," grandpa Jesse grunts, around a sip of coffee.
+
+Miguel sighs. *Why can't they just let me do my thing?* "Okay. So, some kinda taser of my own, or uh, gas grenades, or something. I can't just punch someone in armor and knock them out. I need some kind of way to get them out of the picture."
+
+"Smoke bombs. Get them to shoot each other in the confusion." Jesse grins. "Works every time."
+
+Maria hits him in the arm, and Jesse goes back to his coffee.
+
+Miguel thinks, then speaks. "And uh, a vehicle. A truck, or van, or like, uh an 18-wheeler. Something to haul the cargo away, if I needed to. Or just a van, to haul prisoners."
+
+"You can't legally drive, *hijo*," his mother reminds him.
+
+*And whose fault is that? It's all this training I get, I don't have time for a learner's permit.*
+
+"You have a good point though," David observes. "You're thinking beyond the immediate situation. How to get your prisoners out, the ramifications of what's next. That's good. That's what I wanted to hear. Good lad."
+
+David and Jesse both pat Miguel on the shoulder, then retreat for their own private conference. Katia drifts off to watch television.
+
+His mother hugs Miguel, tousles his hair, and starts walking toward her lab. She turns, and smiles. "Your papa is very proud of you. I am too. You didn't get hurt, and you didn't hurt anyone more than you had to. Thank you, Miguel. Tell your mama you love her now."
+
+"Love you, mama," Miguel says with a smile. And that's that.

@@ -89,7 +89,11 @@ Miguel sits with his parents, his sister, and his grandfather. They're all in a 
 
 His dad nods. Miguel goes on.
 
-"So, this also means I need to make friends with people like Hypersuit--" "--Hyperskin," his sister corrects. "Hyper*skin*, god, it's a terrible name anyway, like is that your actual skin? Anyway, don't correct me."
+"So, this also means I need to make friends with people like Hypersuit--"
+
+"--Hyperskin," his sister interjects.
+
+"Hyper*skin*, god, it's a terrible name anyway, like is that your actual skin? Anyway, don't correct me."
 
 Katia hushes up and he resumes.
 

@@ -18,3 +18,20 @@ The scarred woman leans back against the boxes, extracting Belomorkanal cigarett
 
 Now he's got one of their radios, too. Too bad he doesn't speak Russian.
 
+"Good job, Miguel," comes his dad's voice. "Now--"
+
+"Halt, evildoers!"
+
+The voice comes booming from the other end of the hangar. Miguel peeks around the stack of boxes. There's some kind of silver-and-red armored figure out there. "Oh god," his dad says. "Is that Hyperskin?"
+
+"Is.. Hyperskin a dude in red and silver armor?" Miguel asks uncertainly.
+
+"Yeah. New plan. Save him from the tech thieves as well."
+
+> Miguel's offensive stats aren't great, and he's proven that he can skulk around and disable mundanes one by one. The GM takes the golden opportunity to make a Legacy move: **Raise expectations on them**.
+
+Already the thieves are taking cover, and opening fire. The newcomer - Hyperskin - is running into the hangar, doing jet-assisted jumps, vaults, and acrobatic moves to dodge the laser fire. Miguel isn't convinced that these evasion tactics are effective, though.
+
+One of the other thieves comes round the boxes where Miguel and his unconscious prisoner are still hiding. He hasn't noticed them yet. In seconds, Miguel places a cigarette to the unconscious woman's mouth. He draws on the shadow. "She's having a smoke break, you see her smoking a joint." He wills the other man to see his vision, and ignore him for the crucial seconds it'll take to apply the taser again.
+
+> The GM feels like this is mostly a funny aside, and doesn't make Miguel roll for it.

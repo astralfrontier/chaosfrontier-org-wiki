@@ -5,6 +5,8 @@
 ## Beacon
 * [Ghost](masks-characters/ghost) - a character who thinks they died, and couldn't be happier
 * [Rebel](masks-characters/rebel) - a foreign spy raised under cover of a circus
+## Bull
+* [Deus Volt](masks-characters/deus-volt) - a crusading electrokinetic
 ## Delinquent
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster
@@ -18,7 +20,6 @@
 ## Transformed
 * [Kudzu](masks-characters/kudzu) - a plant ninja
 # Other or Undecided
-* Deus Volt (an electrokinetic paladin-type)
 * a thrill-seeker who manifests powers with enough adrenaline
 * a beastmaster/animal-controller
 * a Russian DIY cyborg.

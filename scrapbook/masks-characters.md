@@ -8,6 +8,9 @@
 ## Delinquent
 * [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
 * [Sabine](masks-characters/sabine) - a blind speedster
+
+## Legacy
+* [Armiger](masks-characters/armiger) - wielder of Excalibur
 ## Nova
 * [Jung Justice](masks-characters/jung-justice) - a shapeshifter who becomes myths instead of animals
 * [Nick Knack](masks-characters/nick-knack) - a powerful psi fueled by memories

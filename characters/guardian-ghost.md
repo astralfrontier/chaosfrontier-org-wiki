@@ -47,9 +47,17 @@ Sam Murphy, now a ghost - [source](http://crypticchroniclespodcast.com/entity-we
 
 Jesse Murphy, Miguel's grandfather - [source](https://ghostreconwildlands.gamepedia.com/El_Yayo)
 
+![](/uploads/guardian-ghost/laura-kinsolving-murphy.jpg)
+
+Laura Kinsolving Murphy, Jesse's wife and Miguel's grandmother - [source](https://deskgram.net/p/1034347967936794377_1338775322)
+
 ![](/uploads/guardian-ghost/david-murphy.jpg)
 
 David Murphy, Miguel's father - [source](https://intothefrayradio.com/Episodes/itf-66-hatman/)
+
+![](/uploads/guardian-ghost/maria-baez-murphy.jpg)
+
+Maria Baez Murphy, Miguel's mother - [source](https://storgram.com/post/Buld1cUHrft)
 
 ![](/uploads/guardian-ghost/katia-murphy.jpg)
 

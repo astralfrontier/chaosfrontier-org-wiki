@@ -53,7 +53,9 @@ Laura Kinsolving Murphy, Jesse's wife and Miguel's grandmother - [source](https:
 
 ![](/uploads/guardian-ghost/david-murphy.jpg)
 
-David Murphy, Miguel's father - [source](https://intothefrayradio.com/Episodes/itf-66-hatman/)
+![](/uploads/guardian-ghost/david-murphy-2.jpg)
+
+David Murphy, Miguel's father - [source 1](https://intothefrayradio.com/Episodes/itf-66-hatman/) [source 2](https://mastodon.art/@DaphneDraws/100579668015662901)
 
 ![](/uploads/guardian-ghost/maria-baez-murphy.jpg)
 

@@ -4,7 +4,7 @@
 # Session 2 summary
 Red Vox dump: https://pastebin.com/0qG7xuYM
 
-### Introductions
+## Introductions
 
 * Introducing Ayami Kobayashi! Reading through sheet
 * Character is actually CGI, looks "off", created as a musical entertainment AI
@@ -30,7 +30,7 @@ Red Vox dump: https://pastebin.com/0qG7xuYM
 
 [video](https://www.youtube.com/watch?v=zFuMpYTyRjw){.youtube}
 
-### Battle begins
+## Battle begins
 
 * Enter battle as a team: LH running in, Zephyr is leader. Influence over everyone. Same purpose.
 * LH skates in to do sick tricks vs. Marcus -> 10! Resist/avoid blows, opportunity
@@ -55,14 +55,14 @@ Red Vox dump: https://pastebin.com/0qG7xuYM
 * Marcus angry, sends cockroach swarm toward Nick
 * Zephyr grabs cans of bug spray, opens em up, runs in circles around Cockroach King - no effect
 
-### The gadget
+## The gadget
 
 * Sounds from the vault, where the thugs are. Melody investigates. They're dragging bags of cash.
 * A few people with jackhammers are trying to make a hole. Melody: "stop that!" *sonic burst* -> 9
 * The wall breaks. The artifact from the museum fight is revealed! But what is it? The Climate Changer, on a pedestal
 * Item belonged to Silver Generation villain, King Gizzard, the first villain Red Vox stopped. An item that could change the weather or adjust climate. Obtained by Red Riot & others.
 
-### Wrap-up
+## Wrap-up
 
 * Zephyr wants to run in to back up Melody, was in melee with Cockroach King. Marcus flies toward the device.
 * Zephyr attacks -> 11, resist or avoid blows, take away position
@@ -88,7 +88,7 @@ Red Vox dump: https://pastebin.com/0qG7xuYM
 * Guards take Marcus away. Zephyr gets a note: "meet us at the HQ now".
 * Bruce is still there. (shrug)
 
-### Meet with Marlone
+## Meet with Marlone
 
 * Meet at the karaoke club - they have every possible meal
 * It's a big place, multi-level, divided up into sections
@@ -112,7 +112,7 @@ Red Vox dump: https://pastebin.com/0qG7xuYM
 * Bank robbery was to fund Sycamour
 * Mom-lone: "don't waste food"
 
-### End of session
+## End of session
 
 * LH: Closer, Nick for saying he's a hero. +Danger -Superior
 * Nick: Closer, Zephyr for being a leader. +Savior -Danger

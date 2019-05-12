@@ -10,13 +10,13 @@ Red Vox dump: https://pastebin.com/0qG7xuYM
 * Character is actually CGI, looks "off", created as a musical entertainment AI
 * Wants to be like the good guys in the TV shows
 
-https://www.youtube.com/watch?v=dhYaX01NOfA
+[video](https://www.youtube.com/watch?v=dhYaX01NOfA){.youtube}
 
 * Other players introduce themselves for relationship purposes
 * The team discovered the Newborn during the incident: Melody looking at the exhibits, like on a museum tour.
 * Nickname: "Power Chord"
 
-https://cdn.discordapp.com/attachments/568962590844387354/576911286152069140/lishenna.jpg
+![](https://cdn.discordapp.com/attachments/568962590844387354/576911286152069140/lishenna.jpg)
 
 * Resuming from session 1, retcon Equinox to Melody
 * Marcus can do whatever a cockroach can, plus control cockroaches
@@ -24,11 +24,11 @@ https://cdn.discordapp.com/attachments/568962590844387354/576911286152069140/lis
 * Zephyr hauls Melody to the bank, the rest of us arrive
 * Bank robbery in progress. Marcus: "I'm sorry about this" to cashier. Thugs are fanning out. Cockroaches are .. present?
 
-https://cdn.discordapp.com/attachments/572184988272033792/576914204733472788/SPOILER_insectlord.jpg
+![](https://cdn.discordapp.com/attachments/572184988272033792/576914204733472788/SPOILER_insectlord.jpg)
 
 * Competing plans? Zephyr does crowd control, Laser Hawk and Melody on Cockroach King, Nick is on thugs
 
-https://www.youtube.com/watch?v=zFuMpYTyRjw
+[video](https://www.youtube.com/watch?v=zFuMpYTyRjw){.youtube}
 
 ### Battle begins
 

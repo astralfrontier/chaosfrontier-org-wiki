@@ -14,4 +14,6 @@ A charm bracelet with personalized map charms on it, indicating the places the w
 
 A wedding ring, shared between lovers who promised to stay together and keep each other in their thoughts. Used to teleport to someone else who's important to you, or establish a telepathic rapport with them. *Failure*: Nick mentally over-shares with whoever he's thinking about. Nick connects with someone he's attracted to or thinking about.
 
+Fishing line, used by a father during an important fishing trip with his son. Used for grappling and entangling.
+
 A firefighter's mask. The oxygen feed saved a child's life. Used passively, to create a telekinetic barrier that keeps Nick from getting badly hurt in super-combat.

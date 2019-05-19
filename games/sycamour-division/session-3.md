@@ -4,6 +4,8 @@
 # Session 3
 * Question about Janus's "The Mask" move: does it automatically reset? (no)
 * Leaving Red Vox HQ. We're off for the day & getting paid, because we stopped a bank robbery.
+
+## Bank Visit
 * Melody's phone rings - it's her caretaker Fiona.
 * Problem paying rent, Fiona wants Melody to go to some other bank. Are the other PCs going along?
 * We're still in costume, Nick doesn't know LH's identity.
@@ -34,7 +36,7 @@ https://en.wikipedia.org/wiki/Muddy_Waters
 * Mom: "Get _everyone_'s money." LH: "Geez mom." Nick: "Everyone matters."
 * LH: What next? Nick: Call the cops. Calls Detective Mom to narc on the bank.
 * LH texts Marlone. M: Will investigate l8r. LH: We may have already called the police. M: Are you insane? LH: We know a good cop. We'll make sure justice is served.
-* Mom: What's going on? Nick: relays info. Why aren't you solving it? Nick: because I trust you.
+* Nick's Mom (Det. Anna Hel): What's going on? Nick: relays info. Why aren't you solving it? Nick: because I trust you.
 * Manager has a fake smile, nothing's wrong.
 * LH: What's the status on that money for this lady? Manager: it's getting there.
 * Nick: What's vibrating? Manager: ... nothing. Nick: there's something under the bank.
@@ -44,6 +46,7 @@ https://en.wikipedia.org/wiki/Muddy_Waters
 * Nick: Melody, if you don't pay up, what happens? Melody: not sure. doesn't have to be right away. Texts Fiona: something is suspicious about bank, don't want to give them the money.
 * Marlone & Anna Hel show up. Comedy option: Anna cites Marlone for speeding in his super-car.
 * Nick: Mom doesn't like a superhero butting in on superhero business? Yep, everything's normal.
+## The Apprentice Fight
 * Manager shows up with gun. LH: you're gonna want to put that down. -> 14
 * Manager has demands: "everyone must leave now"
 * Nick grabs crucifix, spends 1 burn on Moat, Manager opens fire, they are caught by the TK barrier.
@@ -53,6 +56,7 @@ https://en.wikipedia.org/wiki/Muddy_Waters
 * Speakers emerge from video cameras to taunt us. "Manager did a good job covering his tracks. Invest in anti-bomb insurance."
 * LH wants to check out the room. Melody: it's a trick. LH: Marlone, want to check out the room?
 * Nick picks up the gun to read impressions off it -> 8. Mark a condition -> Angry. It was a hologram, some kind of automated. Manager was some kind of AI, somewhat primitive.
+## The Laboratory
 * Nick is angry, heads for manager's office. Burn -> 8, Mark Afraid. 
 * Explosion! Nick marks 2 burn to unleash powers on 10+
 * Enter battle as a teamm. Who's leading? Nick. No one mistrusts, he has influence.
@@ -78,6 +82,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientistLaboratory
 * Nick: "let's open the door." Melody: "not the way we did last time." Nick: (wipes smudged face) "Yeah."
 * LH talks shit at Marlone. Marlone is incredulous. LH provokes -> 9. Gets Influence.
 * Did LH get into Anna's good graces by putting Marlone in his place?
+## Second Apprentice Fight
 * There's a circular hole here.
 * We see the manager running away! We give chase. LH skates right into him. Unleash -> 7
 * LH charges in, Manager punches (softly...) Tries to ziptie the manager again. Directly engage -> 6, +1 Team from Melody
@@ -92,7 +97,7 @@ https://tvtropes.org/pmwiki/pmwiki.php/Main/MadScientistLaboratory
 * LH talks to his mom. "It's gonna work out." Mom: "good thing the cops are here."
 * Nick wants to help Melody with her banking situation. Melody texts Fiona: "bank was a scam." Gets a new place to go.
 
-End of session:
+## End of session
 
 * Nick - closer to team, Melody. +Mundane -Danger. Clear Angry & Insecure
 * Melody - closer to team, Nick. +Mundane -Savior.

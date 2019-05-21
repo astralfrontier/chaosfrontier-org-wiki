@@ -14,7 +14,6 @@
 * [Armiger](masks-characters/armiger) - wielder of Excalibur
 ## Nova
 * [Jung Justice](masks-characters/jung-justice) - a shapeshifter who becomes myths instead of animals
-* [Nick Knack](masks-characters/nick-knack) - a powerful psi fueled by memories
 ## Outsider
 * [Sprout](masks-characters/sprout) - a size-changing, animal-controlling character
 ## Transformed

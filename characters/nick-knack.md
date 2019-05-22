@@ -2,6 +2,8 @@
 <!-- SUBTITLE: A psychic powered by memories -->
 
 # The Nova
+* [Advancement Ideas](nick-knack/advancement)
+## Character Sheet
 **Hero Name**: Nick Knack
 **Real Name**: Nicholai Hel
 

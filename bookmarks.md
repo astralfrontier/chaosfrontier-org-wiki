@@ -10,6 +10,7 @@
 3. https://fonts.google.com/ - the site itself, where I can download web fonts.
 
 ## Artwork
+* [Discord Art Offer](discord-art-offer)
 * [Using CC art in RPGs](https://www.youtube.com/watch?v=ETbmbjH84nw)
 # Clever
 * [Superman with a GoPro](https://www.youtube.com/watch?v=H0Ib9SwC7EI)

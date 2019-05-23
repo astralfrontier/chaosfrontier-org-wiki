@@ -15,5 +15,7 @@ Discord: `BumblingBee#1682`
 
 Example art:
 
-![](https://cdn.discordapp.com/attachments/562523161455755286/581209390149795841/1533532068031.png)
+![](https://media.discordapp.net/attachments/562523161455755286/581213426467209296/1556535384956.png?width=443&height=443)
+![](https://media.discordapp.net/attachments/562523161455755286/581213428606173184/IMG_20190429_191354_957.jpg?width=443&height=443)
+![](https://media.discordapp.net/attachments/562523161455755286/581209390149795841/1533532068031.png?width=313&height=443)
 ![](https://cdn.discordapp.com/attachments/562523161455755286/581209242791575582/freed_com.png)

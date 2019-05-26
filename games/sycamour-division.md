@@ -6,6 +6,7 @@
 * [Session 1](sycamour-division/session-1)
 * [Session 2](sycamour-division/session-2)
 * [Session 3](sycamour-division/session-3)
+* [Session 4](sycamour-division/session-4)
 # Background
 * [Red Vox](sycamour-division/red-vox)
 # Characters

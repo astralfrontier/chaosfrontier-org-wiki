@@ -16,6 +16,8 @@
 * [Jung Justice](masks-characters/jung-justice) - a shapeshifter who becomes myths instead of animals
 ## Outsider
 * [Sprout](masks-characters/sprout) - a size-changing, animal-controlling character
+## Reformed
+* [Durandal](masks-characters/durandal) - a mind-controlled ex-villain who now fights with muscle memory
 ## Transformed
 * [Kudzu](masks-characters/kudzu) - a plant ninja
 # Other or Undecided

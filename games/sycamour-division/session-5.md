@@ -58,6 +58,7 @@ Nick probes: any significant family? Any superpowers? Unleash powers -> 8, mark 
 Nick withdraws from telepathy.
 "What did you see?" "Four kids who need rescuing. Two kids who need family & support." Nick looks at team: help me out here guys
 LH: let's go interview the bad guys we smashed.
+# The Fight
 ## Sycamour Retrieval Squad introduction
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7F8v-B8mJPMN1tA13jUqnHM19CedoiL2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -154,7 +155,7 @@ She starts gesturing again, Z bodychecks her into a building.
 LH zipties an unconscious Grando, A forms a giant iron construct to grab him + hit LH. Take a powerful blow -> 10
 Z tries to defend -> 6
 LH goes unconscious
-# Melody vs. Absentia
+## Melody vs. Absentia
 Melody still after A, evenly matched in speed. Marks Guilty to gain super-speed as a power, imitating LH & Zephyr's powers. BULL RUSH. -> 9, take away the kids
 A falls to the ground, tumble, Melody grabs Trish & Amy
 A comes back to grab one kid, tug of war style. Melody sonic screams BACK OFF BITCH. -> 7

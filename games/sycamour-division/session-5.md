@@ -66,7 +66,7 @@ Zephyr moves fast to save everyone! Defend -> 10
 Take a powerful blow! Zephr -> 6, LH -> 5, Nick -> 7, Melody -> 4
 Nick gives ground, opposition gets opportunity - protect the girls, won't notice what comes next.
 
-> > Laser Hawk, you recognize Absentia. You recognize them too well. They were your best friend in highschool last year before they disappeared after that orphanage burned down. Melody, you know them too. You've seen them talk to Fiona on her dayjob as a therapist, and she's always said how she's so close to getting them on the right path. They, however, don't recognize either of you. LH for obvious reasons, but they never really paid attention to Melody.
+> Laser Hawk, you recognize Absentia. You recognize them too well. They were your best friend in highschool last year before they disappeared after that orphanage burned down. Melody, you know them too. You've seen them talk to Fiona on her dayjob as a therapist, and she's always said how she's so close to getting them on the right path. They, however, don't recognize either of you. LH for obvious reasons, but they never really paid attention to Melody.
 
 > Nick, you've seen Grando before, and it wasn't under the best of terms. Hel had you look on his memories to find incriminating evidence-- and it worked. He got jailtime for 2 days before his orphanage paid the bail.
 
@@ -173,6 +173,8 @@ Nick holds back - literally every condition marked - to see what happens next. W
 Nick warily follows, checks on Melody's status.
 Marcus breaks through the wall, doesn't look like he located the girls
 ## Aftermath
+![](http://www.matrixfans.net/wp-content/uploads/2012/02/matrix-lobby.gif)
+
 Nick uses telepathy to reach Trish to say: stay hidden, don't make a sound
 Nick feels a sudden surge of emotional warmth, it's Anna Hel bringing girls to safety
 Nick scoops up Melody and staggers off to find Laser Hawk & Zephyr

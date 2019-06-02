@@ -59,7 +59,7 @@ Nick withdraws from telepathy.
 "What did you see?" "Four kids who need rescuing. Two kids who need family & support." Nick looks at team: help me out here guys
 LH: let's go interview the bad guys we smashed.
 ## Sycamour Retrieval Squad introduction
-https://www.youtube.com/playlist?list=PL7F8v-B8mJPMN1tA13jUqnHM19CedoiL2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7F8v-B8mJPMN1tA13jUqnHM19CedoiL2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 While this is going on, there's a hissing sound at/near the wall. Dallas & Melody check it out.
 Outside there's a brick of explosive, like C4 or a cartoon bomb. It explodes!

@@ -26,6 +26,8 @@ Nick: we didn't do so well, people worry, we need to train.
 
 Z tries to get up, body feels numb.
 
+![Hospital Mha Fanart By Cheesy Draws Dc 1 Fq 0 P 350 T](/uploads/sycamour/hospital-mha-fanart-by-cheesy-draws-dc-1-fq-0-p-350-t.jpg "Hospital Mha Fanart By Cheesy Draws Dc 1 Fq 0 P 350 T")
+
 We leave the room, step outside. Nurse carrying box of glazed donuts, jumps in surprise. Z catches it.
 Marlone wants to talk to us.
 We get steered back in.
@@ -74,6 +76,8 @@ Nick: we need to get better as a team. Anna: so you're working beside the police
 Anna: what you did with those girls.. thank you. I misjudged you. (+Savior -Danger)
 Nick said his piece. LH hangs head. Z marks Guilty from label shift.
 Melody: didn't mean to cause trouble. Sorry. Anna: you caused the least trouble of all of them.
+
+![1369423153000 Xxx Fast Furious 6 Mov Jy 7740 1305241554 3 4](/uploads/sycamour/1369423153000-xxx-fast-furious-6-mov-jy-7740-1305241554-3-4.jpg "1369423153000 Xxx Fast Furious 6 Mov Jy 7740 1305241554 3 4")
 
 ## Karaoke
 

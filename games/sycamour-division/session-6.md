@@ -8,6 +8,8 @@ Cars pulled up, Marlone gets out, "holy shit".
 Anna Hel comes out of the precinct, with the girls.
 The building is in shambles - not falling, but damaged.
 
+![3309 Xj](/uploads/sycamour/3309-xj.jpg "3309 Xj")
+
 ## The hospital
 
 We wake up in hospital beds. Nobody else is in here.

@@ -11,5 +11,7 @@
 * [Session 6](sycamour-division/session-6)
 # Background
 * [Red Vox](sycamour-division/red-vox)
+* [Sycamour](sycamour-division/sycamour)
+* [Other characters](sycamour-division/other-characters)
 # Characters
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?

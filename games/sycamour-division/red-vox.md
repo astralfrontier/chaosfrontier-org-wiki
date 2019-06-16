@@ -20,7 +20,7 @@ Their history, however, was not without its many controversies. The biggest of t
 ![](https://media.discordapp.net/attachments/568962590844387354/576911286152069140/lishenna.jpg)
 
 ## Nick Knack
-![Czjfayhvlpywsn 5 Xameclboqietseiachxdoapuyyaxfu 5 Wkrzip 6 Afxvll 8 Zikuaql 2 Cvfxkboa 6 Fw 9 4 Atfphr 7 C 8 Pxy 34 Wkabg 9 Drahk 3 H 54 Srbpnywmx 1 Bly Zokwjs 96 Bfw](/uploads/sycamour/czjfayhvlpywsn-5-xameclboqietseiachxdoapuyyaxfu-5-wkrzip-6-afxvll-8-zikuaql-2-cvfxkboa-6-fw-9-4-atfphr-7-c-8-pxy-34-wkabg-9-drahk-3-h-54-srbpnywmx-1-bly-zokwjs-96-bfw "Czjfayhvlpywsn 5 Xameclboqietseiachxdoapuyyaxfu 5 Wkrzip 6 Afxvll 8 Zikuaql 2 Cvfxkboa 6 Fw 9 4 Atfphr 7 C 8 Pxy 34 Wkabg 9 Drahk 3 H 54 Srbpnywmx 1 Bly Zokwjs 96 Bfw")
+![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
 ## Zephyr
 ![Zephyr](/uploads/sycamour/zephyr "Zephyr")
 

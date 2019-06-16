@@ -22,7 +22,7 @@ Their history, however, was not without its many controversies. The biggest of t
 ## Nick Knack
 ![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
 ## Zephyr
-
+![Gz Suit](/uploads/sycamour/gz-suit.png "Gz Suit")
 # Adult Members
 
 ## Marlone

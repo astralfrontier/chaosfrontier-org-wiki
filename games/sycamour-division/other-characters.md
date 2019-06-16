@@ -3,7 +3,7 @@
 
 # Other Characters
 ## Anna Hel
-![1369423153000 Xxx Fast Furious 6 Mov Jy 7740 1305241554 3 4](/uploads/sycamour/1369423153000-xxx-fast-furious-6-mov-jy-7740-1305241554-3-4.jpg "1369423153000 Xxx Fast Furious 6 Mov Jy 7740 1305241554 3 4")
+![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")
 
 * Nick Knack's mother
 * Halcyon City detective

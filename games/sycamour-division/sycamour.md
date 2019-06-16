@@ -10,7 +10,7 @@
 
 ## Professor Puppeteer
 
-![](https://cdn.discordapp.com/attachments/572184988272033792/589600940546588673/liam.jpg)
+![Professor Puppeteer](/uploads/sycamour/professor-puppeteer.jpg "Professor Puppeteer")
 
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
@@ -18,7 +18,7 @@
 
 ## Unnamed werewolf
 
-![](https://cdn.discordapp.com/attachments/572184988272033792/589598316648726549/waltz.jpg)
+
 
 * Fought during Session 7 at the Sycamour Factory
 * Injected with needles of "werewolf heroin" via a worn jacket

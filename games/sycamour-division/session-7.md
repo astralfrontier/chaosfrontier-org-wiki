@@ -160,6 +160,8 @@ LH strips the wolf half the jacket, manifests skateboard, is gonna wheel him out
 
 The sound of rocket engines from nearby - is someone taking off?
 
+![](https://i.imgur.com/pigTdbK.gif)
+
 Nick touches LH's mask to draw on the heroic energy he's accumulated in it, Burns -> 11
 Spend 2 burn for Moat to keep the buildings from collapsing on the houses
 Marlone creates a light barrier to catch the collapse as well.
@@ -230,3 +232,10 @@ Mom has a tracking app, leashing him to 50 feet from the house (at least on his 
 LH -> closer, Melody due to power-up combo move (+Freak -Superior)
 Nick -> closer, Melody (+Superior -Freak)
 Melody -> closer, Nick (+Freak -Savior)
+
+# Notes for next time
+* Melody and Nick have Laser Hawk's backpack of costume and gear
+* We need to track down Professor Puppeteer and his rocket o' doom
+* We should go clubbing as a team, to take the stress off! We need to find a way to let Laser Hawk sneak out - maybe make a holographic construct of him?
+* Nova move: "Remind them of past collateral damage" (maybe some vital evidence was destroyed in bringing down the place?)
+* Nova move: "Make their powers flare out of control" (going clubbing should definitely do _something_ to Nick, probably not _destructive_ though - have fun!)

@@ -7,6 +7,13 @@
 
 * Masqueraded as a bank manager
 * Had either a holographic/AI duplicate, or able to become a hologram
+* Said that someone named "Marlum" gave him the order for the bank job
+
+## Big Bad Wolf
+![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
+
+* Fought during Session 7 at the Sycamour Factory
+* Injected with needles of "werewolf heroin" via a worn jacket, created by the Professor
 
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
@@ -23,12 +30,6 @@
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
-
-## Unnamed werewolf
-![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
-
-* Fought during Session 7 at the Sycamour Factory
-* Injected with needles of "werewolf heroin" via a worn jacket
 
 ## Unknown higher-up
 * Identified by Zephyr as someone with powers similar to Dubium

@@ -6,7 +6,7 @@
 * Former member of Zephyr's legacy
 
 ## Fiona Davis
-![Fiona](/uploads/sycamour/fiona.jpg "Fiona")
+![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")
 
 * Kieran's younger sister
 * Melody's current caretaker

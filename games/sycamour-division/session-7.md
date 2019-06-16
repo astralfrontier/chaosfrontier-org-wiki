@@ -227,6 +227,7 @@ LH is grounded for a week. He texts Zephyr about this, no response.
 
 Mom has a tracking app, leashing him to 50 feet from the house (at least on his phone).
 
+Police forensics will reveal that the kids from the Rube Goldberg Orphanage were powered up in this factory - thus the blood and other stuff - the way the werewolf was. This is why Nick's emotional sensor brought him here, because Dubium has strong associations with the place.
 # End of session
 
 LH -> closer, Melody due to power-up combo move (+Freak -Superior)

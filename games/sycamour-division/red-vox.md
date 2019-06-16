@@ -13,8 +13,16 @@ Their history, however, was not without its many controversies. The biggest of t
 "Red Vox lost its way when it became bigger than it was supposed to. It's way over its head, and, eventually, will collapse under its own hubris."
 
 # Teenage Heroes
+## Laser Hawk
+![I 4 Ykudcx 3 Exvi 76 D 6 Xkxx 17 Xe 72 Drydzhmu 9 P 1 Tlvdc 2 Dnxsp 83 H 1 Oxyq 5 Kmf 9 Uz 4 Zc 2 D 9 Qqijjuro 41 W 81 J 4 Lrisxe 7 Tueoqilm Q 9 Tgwenurdxdh 04 Ycc 3 Axpacaika 5 Cfga 8 Goq W 304 H 217](/uploads/sycamour/i-4-ykudcx-3-exvi-76-d-6-xkxx-17-xe-72-drydzhmu-9-p-1-tlvdc-2-dnxsp-83-h-1-oxyq-5-kmf-9-uz-4-zc-2-d-9-qqijjuro-41-w-81-j-4-lrisxe-7-tueoqilm-q-9-tgwenurdxdh-04-ycc-3-axpacaika-5-cfga-8-goq-w-304-h-217 "I 4 Ykudcx 3 Exvi 76 D 6 Xkxx 17 Xe 72 Drydzhmu 9 P 1 Tlvdc 2 Dnxsp 83 H 1 Oxyq 5 Kmf 9 Uz 4 Zc 2 D 9 Qqijjuro 41 W 81 J 4 Lrisxe 7 Tueoqilm Q 9 Tgwenurdxdh 04 Ycc 3 Axpacaika 5 Cfga 8 Goq W 304 H 217")
 ## Melody
 ![](https://media.discordapp.net/attachments/568962590844387354/576911286152069140/lishenna.jpg)
+
+## Nick Knack
+![Czjfayhvlpywsn 5 Xameclboqietseiachxdoapuyyaxfu 5 Wkrzip 6 Afxvll 8 Zikuaql 2 Cvfxkboa 6 Fw 9 4 Atfphr 7 C 8 Pxy 34 Wkabg 9 Drahk 3 H 54 Srbpnywmx 1 Bly Zokwjs 96 Bfw](/uploads/sycamour/czjfayhvlpywsn-5-xameclboqietseiachxdoapuyyaxfu-5-wkrzip-6-afxvll-8-zikuaql-2-cvfxkboa-6-fw-9-4-atfphr-7-c-8-pxy-34-wkabg-9-drahk-3-h-54-srbpnywmx-1-bly-zokwjs-96-bfw "Czjfayhvlpywsn 5 Xameclboqietseiachxdoapuyyaxfu 5 Wkrzip 6 Afxvll 8 Zikuaql 2 Cvfxkboa 6 Fw 9 4 Atfphr 7 C 8 Pxy 34 Wkabg 9 Drahk 3 H 54 Srbpnywmx 1 Bly Zokwjs 96 Bfw")
+## Zephyr
+![3 Ans 79 Uyb 7 Zshmvm 1 Mhdqabyxto 0 Osggrwd Bxsmtdunkdwpiwjgdfn 9 Ejuudlrlbhbls 8 Hyvn K 5 Swdnzqgwjrhfrj 5 Is 7 Tr 81799 Cck 7 Rik 2 Nlynhrdxmciz 38 Tvk 4 Bft 2 Hvwwww W 304 H 217](/uploads/sycamour/3-ans-79-uyb-7-zshmvm-1-mhdqabyxto-0-osggrwd-bxsmtdunkdwpiwjgdfn-9-ejuudlrlbhbls-8-hyvn-k-5-swdnzqgwjrhfrj-5-is-7-tr-81799-cck-7-rik-2-nlynhrdxmciz-38-tvk-4-bft-2-hvwwww-w-304-h-217 "3 Ans 79 Uyb 7 Zshmvm 1 Mhdqabyxto 0 Osggrwd Bxsmtdunkdwpiwjgdfn 9 Ejuudlrlbhbls 8 Hyvn K 5 Swdnzqgwjrhfrj 5 Is 7 Tr 81799 Cck 7 Rik 2 Nlynhrdxmciz 38 Tvk 4 Bft 2 Hvwwww W 304 H 217")
+
 # Adult Members
 
 ## Marlone

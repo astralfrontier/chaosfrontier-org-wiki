@@ -104,6 +104,8 @@ Marlone storms in. The rest of us follow.
 We head to the second floor thanks to Marlone noisily clearing the rubble on the second floor.
 Werewolf is wearing a jacket, inside it is a bunch of needles stuck inside his body.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBuWFn5gFE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Entering battle as a team - LH leads, Melody & Nick follows.
 LH charges in, directly engage -> 9, +1 from Melody - overcharging his powers with light!
 Resist or avoid blows, take jacket away (it catches fire)

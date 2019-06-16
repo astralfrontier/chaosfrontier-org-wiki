@@ -6,10 +6,14 @@
 * Former member of Zephyr's legacy
 
 ## Fiona Davis
+![Fiona](/uploads/sycamour/fiona.jpg "Fiona")
+
 * Kieran's younger sister
 * Melody's current caretaker
 
 ## Kieran Davis
+![Kieran](/uploads/sycamour/kieran.jpg "Kieran")
+
 * Fiona's older brother
 * Programmer/creator of Melody
 * Seen in Nick Knack's ESP vision as interacting with Sycamour, giving a thumb drive

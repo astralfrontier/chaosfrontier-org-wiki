@@ -17,8 +17,7 @@
 * Escaped via rocket before he could be caught
 
 ## Unnamed werewolf
-
-
+![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
 
 * Fought during Session 7 at the Sycamour Factory
 * Injected with needles of "werewolf heroin" via a worn jacket

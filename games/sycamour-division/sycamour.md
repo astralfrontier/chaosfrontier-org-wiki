@@ -26,6 +26,8 @@
 * Identified by Zephyr as someone with powers similar to Dubium
 # Children of the Night
 ## Absentia
+![Absentia](/uploads/sycamour/absentia.jpg "Absentia")
+
 > Laser Hawk, you recognize Absentia. You recognize them too well. They were your best friend in highschool last year before they disappeared after that orphanage burned down. Melody, you know them too. You've seen them talk to Fiona on her dayjob as a therapist, and she's always said how she's so close to getting them on the right path. They, however, don't recognize either of you. LH for obvious reasons, but they never really paid attention to Melody.
 ## Dubium
 ![Dubium](/uploads/sycamour/dubium.jpg "Dubium")

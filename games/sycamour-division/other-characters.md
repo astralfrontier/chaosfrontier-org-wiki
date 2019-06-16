@@ -25,6 +25,10 @@
 * Halcyon City detective
 * Widow, lost her husband to cancer
 * Contentious relationship with her son
+# School
+## Sports Club
+* Sophia, Amy, Jodie (Judie?), Laura
+* Recruited Melody to join them
 # Other Characters
 ## Amy and Trish
 * Orphans placed in the Rube Goldberg orphanage

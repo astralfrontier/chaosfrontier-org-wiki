@@ -6,18 +6,19 @@
 * Their higher-ups have developed a process of transferring powers from existing supers to new ones, such as the Children of the Night
 * The process might involve blood transfusion
 # Sycamour Members
+## Altered Beast
+![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
+
+* Fought during Session 7 at the Sycamour Factory
+* Injected with needles of "werewolf heroin" via a worn jacket, created by the Professor
+* "Rise from your grave!"
+
 ## The Apprentice
 ![The Apprentice](/uploads/sycamour/the-apprentice.jpg "The Apprentice")
 
 * Masqueraded as a bank manager
 * Had either a holographic/AI duplicate, or able to become a hologram
 * Said that someone named "Marlum" gave him the order for the bank job
-
-## Big Bad Wolf
-![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
-
-* Fought during Session 7 at the Sycamour Factory
-* Injected with needles of "werewolf heroin" via a worn jacket, created by the Professor
 
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")

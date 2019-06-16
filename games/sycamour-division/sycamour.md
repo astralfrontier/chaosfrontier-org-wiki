@@ -8,6 +8,21 @@
 * Recruited by Sycamour with an offer that "it would never happen again"
 * Desires leadership
 
+## Professor Puppeteer
+
+![](https://cdn.discordapp.com/attachments/572184988272033792/589600940546588673/liam.jpg)
+
+* Introduced during Session 7 at the Sycamour Factory
+* Sent numerous puppets to attack the team
+* Escaped via rocket before he could be caught
+
+## Unnamed werewolf
+
+![](https://cdn.discordapp.com/attachments/572184988272033792/589598316648726549/waltz.jpg)
+
+* Fought during Session 7 at the Sycamour Factory
+* Injected with needles of "werewolf heroin" via a worn jacket
+
 ## Unknown higher-up
 * Identified by Zephyr as someone with powers similar to Dubium
 # Children of the Night

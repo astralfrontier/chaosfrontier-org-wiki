@@ -31,6 +31,8 @@
 * Contentious relationship with her son
 # School
 ## Sports Club
+![Sports Club](/uploads/sycamour/sports-club.jpg "Sports Club")
+
 * Sophia, Amy, Jodie (Judie?), Laura
 * Recruited Melody to join them
 # Other Characters

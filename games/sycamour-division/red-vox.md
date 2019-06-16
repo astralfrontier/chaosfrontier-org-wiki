@@ -38,8 +38,7 @@ Their history, however, was not without its many controversies. The biggest of t
 * Inheritor of power - and enemies - but doesn't know much about the legacy yet
 # Adult Members
 ## Marlone
-
-![](https://cdn.discordapp.com/attachments/572184988272033792/574389292135219212/marlone.jpg)
+![Marlone](/uploads/sycamour/marlone.jpg "Marlone")
 
 * Our representative with Red Vox
 * Light-based powers, priestly or holy theme

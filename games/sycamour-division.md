@@ -9,6 +9,7 @@
 * [Session 4](sycamour-division/session-4)
 * [Session 5](sycamour-division/session-5)
 * [Session 6](sycamour-division/session-6)
+* [Session 7](sycamour-division/session-7)
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

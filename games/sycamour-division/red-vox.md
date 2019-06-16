@@ -14,7 +14,7 @@ Their history, however, was not without its many controversies. The biggest of t
 
 # Teenage Heroes
 ## Laser Hawk
-![Laser Hawk](/uploads/sycamour/laser-hawk "Laser Hawk")
+![Laser Hawk](/uploads/sycamour/laser-hawk.jpg "Laser Hawk")
 
 ## Melody
 ![](https://media.discordapp.net/attachments/568962590844387354/576911286152069140/lishenna.jpg)
@@ -22,7 +22,6 @@ Their history, however, was not without its many controversies. The biggest of t
 ## Nick Knack
 ![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
 ## Zephyr
-![Zephyr](/uploads/sycamour/zephyr "Zephyr")
 
 # Adult Members
 

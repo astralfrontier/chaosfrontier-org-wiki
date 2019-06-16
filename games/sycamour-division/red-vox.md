@@ -42,3 +42,4 @@ Their history, however, was not without its many controversies. The biggest of t
 
 * Our representative with Red Vox
 * Light-based powers, priestly or holy theme
+* Pretty god damn suspicious

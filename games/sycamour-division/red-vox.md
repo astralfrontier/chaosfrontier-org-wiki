@@ -16,15 +16,27 @@ Their history, however, was not without its many controversies. The biggest of t
 ## Laser Hawk
 ![Laser Hawk](/uploads/sycamour/laser-hawk.jpg "Laser Hawk")
 
+* Janus, laser light powers
+* Rides a laser skateboard
+
 ## Melody
-![](https://media.discordapp.net/attachments/568962590844387354/576911286152069140/lishenna.jpg)
+![Melody](/uploads/sycamour/melody.jpg "Melody")
+
+* Newborn, light and sound powers
+* Former pop idol turned superhero
 
 ## Nick Knack
 ![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
+
+* Nova, broad psychic powers
+* Son of a police detective hoping to put his powers to good use
+
 ## Zephyr
 ![Gz Suit](/uploads/sycamour/gz-suit.png "Gz Suit")
-# Adult Members
 
+* Legacy, speedster
+* Inheritor of power - and enemies - but doesn't know much about the legacy yet
+# Adult Members
 ## Marlone
 
 ![](https://cdn.discordapp.com/attachments/572184988272033792/574389292135219212/marlone.jpg)

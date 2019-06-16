@@ -28,6 +28,8 @@
 ## Absentia
 > Laser Hawk, you recognize Absentia. You recognize them too well. They were your best friend in highschool last year before they disappeared after that orphanage burned down. Melody, you know them too. You've seen them talk to Fiona on her dayjob as a therapist, and she's always said how she's so close to getting them on the right path. They, however, don't recognize either of you. LH for obvious reasons, but they never really paid attention to Melody.
 ## Dubium
+![Dubium](/uploads/sycamour/dubium.jpg "Dubium")
+
 > Zephyr, you recognize this girl Dubium. She was there when you got your powers, and when Nightquake killed your predecessor. Ever since then, she's been a rather... Outspoken fan of yours. That is, until that orphanage burned down.
 
 > Nick, you know her too. When you were younger, you picked up a stray teddy bear on the street, since you were trying to get a hang of your powers. Unfortunately, when you grabbed it, you saw that same girl being beaten-- even shedding blood-- by what appear to be orphanage staff.

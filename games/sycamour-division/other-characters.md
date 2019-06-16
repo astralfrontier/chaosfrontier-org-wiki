@@ -12,7 +12,7 @@
 * Melody's current caretaker
 
 ## Kieran Davis
-![Kieran](/uploads/sycamour/kieran.jpg "Kieran")
+![Kieran Davis](/uploads/sycamour/kieran-davis.jpg "Kieran Davis")
 
 * Fiona's older brother
 * Programmer/creator of Melody

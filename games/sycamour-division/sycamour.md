@@ -9,6 +9,8 @@
 ## Altered Beast
 ![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
 
+Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](https://www.youtube.com/watch?v=ZBuWFn5gFE4)
+
 * Fought during Session 7 at the Sycamour Factory
 * Injected with needles of "werewolf heroin" via a worn jacket, created by the Professor
 * "Rise from your grave!"

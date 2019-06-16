@@ -2,6 +2,12 @@
 <!-- SUBTITLE: A quick summary of Sycamour -->
 
 # Sycamour
+## The Apprentice
+![The Apprentice](/uploads/sycamour/the-apprentice.jpg "The Apprentice")
+
+* Masqueraded as a bank manager
+* Had either a holographic/AI duplicate, or able to become a hologram
+
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 

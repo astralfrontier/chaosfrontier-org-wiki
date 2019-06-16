@@ -1,7 +1,7 @@
 <!-- TITLE: Session 6 -->
 <!-- SUBTITLE: A quick summary of Session 6 -->
 
-# Session 5 2019-06-08
+# Session 6 2019-06-08
 Last time, we fought the Children of the Night.
 Everyone went unconscious! Bodies piled up near an impact crater.
 Cars pulled up, Marlone gets out, "holy shit".

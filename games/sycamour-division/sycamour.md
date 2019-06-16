@@ -1,7 +1,11 @@
 <!-- TITLE: Sycamour -->
 <!-- SUBTITLE: A quick summary of Sycamour -->
 
-# Sycamour
+# General Notes
+* Sycamour seems to be a villain organization
+* Their higher-ups have developed a process of transferring powers from existing supers to new ones, such as the Children of the Night
+* The process might involve blood transfusion
+# Sycamour Members
 ## The Apprentice
 ![The Apprentice](/uploads/sycamour/the-apprentice.jpg "The Apprentice")
 

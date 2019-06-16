@@ -12,7 +12,10 @@ After its first major triumph, Red Vox had begun recruiting heroes in exchange f
 Their history, however, was not without its many controversies. The biggest of them, by far, was when Vox Populi left the team in 1968, only a year after they became a proper organization. As quoted from Vox Populi himself,
 "Red Vox lost its way when it became bigger than it was supposed to. It's way over its head, and, eventually, will collapse under its own hubris."
 
-# Members
+# Teenage Heroes
+## Melody
+![](https://media.discordapp.net/attachments/568962590844387354/576911286152069140/lishenna.jpg)
+# Adult Members
 
 ## Marlone
 

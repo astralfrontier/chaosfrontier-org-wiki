@@ -14,5 +14,8 @@
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)
 * [Other characters](sycamour-division/other-characters)
+
+Nick's diary entries:
+* [On Ghosts](sycamour-division/on-ghosts)
 # Characters
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?

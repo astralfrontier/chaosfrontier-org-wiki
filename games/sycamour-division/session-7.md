@@ -150,7 +150,7 @@ LH grabs the Jacket off. Werewolf transforms back, half-human half-werewolf Two 
 
 ## Takedown
 
-The scientist sets off explosions to bring down the entire building!
+The scientist sets off explosions to bring down the entire building! On our heads.
 
 ![](https://i.imgur.com/7BLamK5.gif)
 
@@ -162,11 +162,12 @@ The sound of rocket engines from nearby - is someone taking off?
 
 ![](https://i.imgur.com/pigTdbK.gif)
 
+Once we're out, the collapse is threatening some buildings nearby, with (presumably) people in them! Danger!
 Nick touches LH's mask to draw on the heroic energy he's accumulated in it, Burns -> 11
 Spend 2 burn for Moat to keep the buildings from collapsing on the houses
 Marlone creates a light barrier to catch the collapse as well.
 
-SWAT arrives. They're in awe.
+SWAT arrives. They're in awe of the catch.
 
 Zephyr is the usual Cop Whisperer, we'll defer to Marlone now.
 

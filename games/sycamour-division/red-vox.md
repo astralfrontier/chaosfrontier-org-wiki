@@ -22,6 +22,8 @@ Their history, however, was not without its many controversies. The biggest of t
 ## Melody
 ![Melody](/uploads/sycamour/melody.jpg "Melody")
 
+Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://www.youtube.com/watch?v=tPp-U4QonnM)
+
 * Newborn, light and sound powers
 * Former pop idol turned superhero
 

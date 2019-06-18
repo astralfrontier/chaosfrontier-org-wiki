@@ -32,6 +32,8 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 
 ![Nicholai Hel](/uploads/sycamour/nicholai-hel.jpg "Nicholai Hel")
 
+> “It’s a very Russian thing to be incredibly cerebral, and simultaneously have this overabundance of feeling. I relate to that. My favourite composers are people like . I listen to that and it’s like: Fuck! That’s too much feeling!” - [source](https://www.theguardian.com/film/2016/jul/06/anton-yelchin-interview-green-room-cannes)
+
 * Nova, broad psychic powers
 * Son of a police detective hoping to put his powers to good use
 

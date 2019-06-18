@@ -31,6 +31,8 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Desires leadership
 
 ## Iron Maiden
+![Iron Maiden](/uploads/sycamour/iron-maiden.jpg "Iron Maiden")
+
 * Identified by Zephyr as someone with powers similar to Dubium
 
 ## Master of Puppets

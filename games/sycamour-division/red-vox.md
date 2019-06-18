@@ -30,6 +30,8 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 ## Nick Knack
 ![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
 
+![Nicholai Hel](/uploads/sycamour/nicholai-hel.jpg "Nicholai Hel")
+
 * Nova, broad psychic powers
 * Son of a police detective hoping to put his powers to good use
 

@@ -30,7 +30,10 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Recruited by Sycamour with an offer that "it would never happen again"
 * Desires leadership
 
-## Professor Puppeteer
+## Iron Maiden
+* Identified by Zephyr as someone with powers similar to Dubium
+
+## Master of Puppets
 
 ![Professor Puppeteer](/uploads/sycamour/professor-puppeteer.jpg "Professor Puppeteer")
 
@@ -38,8 +41,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
 
-## Unknown higher-up
-* Identified by Zephyr as someone with powers similar to Dubium
 # Children of the Night
 ## Absentia
 ![Absentia](/uploads/sycamour/absentia.jpg "Absentia")

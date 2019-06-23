@@ -67,6 +67,8 @@ J: "is this his first time? is he deaf? don't let him wander off. Come meet Eric
 Judie flashes fake smile.
 Melody thinks: "oh my gosh she's THAT girl."
 
+## Erica
+
 ![Erica](/uploads/sycamour/erica.jpg "Erica")
 
 Takes a minute to work through the crowd to reach Erica.
@@ -81,6 +83,8 @@ E: "Judie & the others helped me invite everything."
 E: to Melody & Zephyr: "you two are new, right? You wouldn't have joined any clubs, right?"
 M: "I got asked to join the sports club! Haven't gone to any meetings."
 N: "I'm in the Nick Club. good music btw, I like this."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SItIaWAjI_4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Erica hands us business cards. "Join the music club." she winks at Melody specifically.
 M: "thank you so much!" Winks back, that's what you're supposed to do.

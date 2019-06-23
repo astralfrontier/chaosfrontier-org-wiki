@@ -11,6 +11,8 @@ On television, woman with blue skin anchoring the news.
 "Nightquake has made his next move! Stealing from Jeremiah Peacekeeper, CEO of eco-corporation!"
 Nightquake affiliated with Sycamour? What does this mean for the new Zephyr?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8d5oWanua7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 On a table, photographs of Nightquake with other people Z doesn't recognize.
 
 Auster needs to locate NQ & find out his plan. Auster needs Z to investigate NQ's relations to Sycamour & why they need this much money.

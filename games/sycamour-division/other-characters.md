@@ -30,6 +30,12 @@
 * Widow, lost her husband to cancer
 * Contentious relationship with her son
 # School
+## Music Club
+![Fotoram Io](/uploads/sycamour/fotoram-io.jpg "Fotoram Io")
+
+* Erica - DJed at warehouse club, seems interested in Melody ... joining the music club, yeah.
+
+
 ## Sports Club
 ![Sports Club](/uploads/sycamour/sports-club.jpg "Sports Club")
 

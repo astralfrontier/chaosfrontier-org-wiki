@@ -31,7 +31,7 @@
 * Contentious relationship with her son
 # School
 ## Music Club
-![Fotoram Io](/uploads/sycamour/fotoram-io.jpg "Fotoram Io")
+![Erica](/uploads/sycamour/erica.jpg "Erica")
 
 * Erica - DJed at warehouse club, seems interested in Melody ... joining the music club, yeah.
 

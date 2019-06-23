@@ -65,7 +65,7 @@ J: "is this his first time? is he deaf? don't let him wander off. Come meet Eric
 Judie flashes fake smile.
 Melody thinks: "oh my gosh she's THAT girl."
 
-![](https://www.mylittlewallpaper.com/images/o_5020aa78cf0f71.72863332.png)
+![Erica](/uploads/sycamour/erica.jpg "Erica")
 
 Takes a minute to work through the crowd to reach Erica.
 E: "hi"

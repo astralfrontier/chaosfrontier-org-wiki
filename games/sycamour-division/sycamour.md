@@ -76,3 +76,9 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 > Laser Hawk, you also know this guy. He frequented your skate park, and always caused trouble. Oddly enough, he always did it when you were around. But that's not all. Once, on one of his tantrums, your mother came with you to watch you show off a new technique you learned. Things got so bad when he saw you pull it off, he ran to your mom, and punched her square in the jaw. You're still not sure why he did it, but you definitely don't like him very much.
 
 * Can manifest ice powers, including an "ice skateboard" analogous to Laser Hawk's.
+
+## Romulus
+![Romulus](/uploads/sycamour/romulus.jpg "Romulus")
+
+* Confronted Nick alone in session 8
+* Has some kind of ability to compel people to speak the truth

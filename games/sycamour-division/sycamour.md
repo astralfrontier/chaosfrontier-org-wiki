@@ -64,7 +64,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 
 * Creates metal constructs from the iron in her own blood
 * May become anemic if she overloads her powers
-* May have inherited a power from a senior Sycamour individual
+* May have inherited a power from [Iron Maiden](#iron-maiden)
 * Currently in possession of Bruce, the teddy bear
 * First name is "Lucy", last name unknown
 

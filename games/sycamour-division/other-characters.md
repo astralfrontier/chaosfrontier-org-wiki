@@ -43,6 +43,8 @@
 * Recruited Melody to join them
 # Other Characters
 ## Amy and Trish
+![Amy And Trish](/uploads/sycamour/amy-and-trish.jpg "Amy And Trish")
+
 * Orphans placed in the Rube Goldberg orphanage
 * Sought by the Children of the Night in session 5
 * Younger (10-13?)

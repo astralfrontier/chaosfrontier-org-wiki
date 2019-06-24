@@ -78,7 +78,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Can manifest ice powers, including an "ice skateboard" analogous to Laser Hawk's.
 
 ## Romanus
-![Romulus](/uploads/sycamour/romulus.jpg "Romulus")
+![Romanus](/uploads/sycamour/romanus.jpg "Romanus")
 
 * Confronted Nick alone in session 8
 * Has some kind of ability to compel people to speak the truth

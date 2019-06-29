@@ -30,16 +30,19 @@
 * Widow, lost her husband to cancer
 * Contentious relationship with her son
 # School
+## Student Council
+* Scott - president
+## Football Club
+* Dave - president
 ## Music Club
 ![Erica](/uploads/sycamour/erica.jpg "Erica")
 
 * Erica - DJed at warehouse club, seems interested in Melody ... joining the music club, yeah.
 
-
 ## Sports Club
 ![Sports Club](/uploads/sycamour/sports-club.jpg "Sports Club")
 
-* Sophia, Amy, Jodie (Judie?), Laura
+* Sophia, Amy, Judie, Laura
 * Recruited Melody to join them
 # Other Characters
 ## Amy and Trish

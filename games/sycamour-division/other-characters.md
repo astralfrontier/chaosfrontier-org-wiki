@@ -32,8 +32,15 @@
 # School
 ## Student Council
 * Scott - president
+
+## Chess Club
+* Hans Green
 ## Football Club
 * Dave - president
+
+## Library
+* Emily Ambrose
+
 ## Music Club
 ![Erica](/uploads/sycamour/erica.jpg "Erica")
 
@@ -44,6 +51,8 @@
 
 * Sophia, Amy, Judie, Laura
 * Recruited Melody to join them
+## Other Students
+* David Everman
 # Other Characters
 ## Amy and Trish
 ![Amy And Trish](/uploads/sycamour/amy-and-trish.jpg "Amy And Trish")

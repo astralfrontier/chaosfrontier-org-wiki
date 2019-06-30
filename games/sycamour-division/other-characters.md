@@ -54,6 +54,11 @@
 
 * Sophia, Amy, Judie, Laura
 * Recruited Melody to join them
+
+## Track Club
+![Lance Hopper](/uploads/sycamour-school/lance-hopper.jpg "Lance Hopper")
+
+* Lance Hopper
 ## Other Students
 * David Everman
 # Other Characters

@@ -13,6 +13,7 @@
 
 ## Library
 ![Emily Ambrose](/uploads/sycamour-school/emily-ambrose.jpg "Emily Ambrose")
+
 * Emily Ambrose
 
 ## Music Club
@@ -25,6 +26,7 @@
 
 * Sophia, Amy, Judie, Laura
 * Recruited Melody to join them
+* Working on a takeover of all sports-related club activity at school
 
 ## Track Club
 ![Lance Hopper](/uploads/sycamour-school/lance-hopper.jpg "Lance Hopper")

@@ -45,7 +45,7 @@
 * Emily Ambrose
 
 ## Music Club
-![Erica](/uploads/sycamour/erica.jpg "Erica")
+![Erica](/uploads/sycamour-school/erica.jpg "Erica")
 
 * Erica - DJed at warehouse club, seems interested in Melody ... joining the music club, yeah.
 

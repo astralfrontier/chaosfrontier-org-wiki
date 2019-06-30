@@ -34,7 +34,7 @@
 * Scott - president
 
 ## Chess Club
-![Hans Green](/uploads/sycamour-school/hans-green "Hans Green")
+![Hans Green](/uploads/sycamour-school/hans-green.jpg "Hans Green")
 
 * Hans Green
 ## Football Club

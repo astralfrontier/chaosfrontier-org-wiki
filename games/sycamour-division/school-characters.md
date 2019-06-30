@@ -1,10 +1,9 @@
 <!-- TITLE: School Characters -->
 <!-- SUBTITLE: A quick summary of School Characters -->
 
-# School characters
-## Student Council
+# Student Council
 * Scott - president
-
+# Clubs
 ## Chess Club
 ![Hans Green](/uploads/sycamour-school/hans-green.jpg "Hans Green")
 
@@ -31,8 +30,7 @@
 ![Lance Hopper](/uploads/sycamour-school/lance-hopper.jpg "Lance Hopper")
 
 * Lance Hopper
-
-## The Bunny Brigade
+# The Bunny Brigade
 Three would-be superheroes:
 
 * Lucas aka Unreal. He can turn invisible.

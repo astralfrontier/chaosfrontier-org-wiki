@@ -11,6 +11,7 @@
 * [Session 6](sycamour-division/session-6) - Team vs. Hospital. Everyone gives an accounting of themselves to their caretakers.
 * [Session 7](sycamour-division/session-7) - Team vs. Werewolf. Scratch one factory.
 * [Session 8](sycamour-division/session-8) - Team vs. Alcohol. Nick makes a horrible showing of himself.
+* [Session 9](sycamour-division/session-9) - Team vs. Bunny Brigade. Books get stacked.
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

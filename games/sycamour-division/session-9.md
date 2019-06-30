@@ -96,6 +96,9 @@ N: Why did someone report you missing?
 D: just a thing with my mom?
 N: did anyone come looking for you? like a superhero or something?
 D: PANIC.
+
+![](https://i.kym-cdn.com/photos/images/newsfeed/001/485/098/245.gif)
+
 D: I have an internship. I work part time at this lab. Mom forgot.
 N: If you really got lost, I'd come help find you too
 D: Same to you.

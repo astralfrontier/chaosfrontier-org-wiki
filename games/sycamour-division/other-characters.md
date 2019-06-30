@@ -67,6 +67,8 @@ Three would-be superheroes:
 * Marie aka Schoolgirl (?). Has Marrow/Spike/bone release power
 * (didn't catch it). Can control sand.
 ## Other Students
+![David Everman](/uploads/sycamour-school/david-everman.jpg "David Everman")
+
 * David Everman
 # Other Characters
 ## Amy and Trish

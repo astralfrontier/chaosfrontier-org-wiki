@@ -137,7 +137,7 @@ Amy texted Melody to go read Twilight, 50 Shades of Gray
 Melody arrives at the library first, checks fantasy/fiction shelves.
 Nick keeping an eye out for Emily & David, his friendship assignees.
 
-![](https://vignette.wikia.nocookie.net/hildatheseries/images/c/c6/HildaLibrarian.jpg/revision/latest?cb=20181216171656)
+![Emily Ambrose](/uploads/sycamour/emily-ambrose.jpg "Emily Ambrose")
 
 Girl in school uniform - it's Emily.
 She's sorting books. N: "do you want a hand?"

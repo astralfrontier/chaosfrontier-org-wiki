@@ -69,7 +69,7 @@ Melody thinks: "oh my gosh she's THAT girl."
 
 ## Erica
 
-![Erica](/uploads/sycamour/erica.jpg "Erica")
+![Erica](/uploads/sycamour-school/erica.jpg "Erica")
 
 Takes a minute to work through the crowd to reach Erica.
 E: "hi"

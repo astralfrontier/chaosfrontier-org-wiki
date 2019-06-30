@@ -46,8 +46,7 @@ D: how's it going? N: my head hurts. D: cool. see ya after class.
 M: can I bandage your hangover?
 
 ## The Bunny Brigade
-
-![](https://i.ytimg.com/vi/Yyg9SS1EOhk/maxresdefault.jpg)
+Brigade soundtrack: https://www.youtube.com/playlist?list=PL7F8v-B8mJPOZg9f8F4Hpmwa28WFCgfjq
 
 Math teacher gets paper thrown at head, administrator shows up & talks, students watch passively.
 Lewis sitting alone, three freshmen approach. Most confident approaches.
@@ -62,8 +61,6 @@ Kids: they might say no, it's too dangerous! We can take anyone on, except for v
 Lucas aka Unreal. He can turn invisible.
 Marie aka Schoolgirl (?). Has Marrow/Spike/bone release power
 (didn't catch it). Can control sand.
-
-Brigade soundtrack: https://www.youtube.com/playlist?list=PL7F8v-B8mJPOZg9f8F4Hpmwa28WFCgfjq
 
 Zephyr: can I beat them without giving myself away? Assess -> 10
 An experienced martial artist could kick their asses

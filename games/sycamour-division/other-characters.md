@@ -34,6 +34,8 @@
 * Scott - president
 
 ## Chess Club
+![Hans Green](/uploads/sycamour-school/hans-green "Hans Green")
+
 * Hans Green
 ## Football Club
 * Dave - president

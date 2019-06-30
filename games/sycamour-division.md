@@ -15,6 +15,7 @@
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)
+* [School characters](sycamour-division/school-characters)
 * [Other characters](sycamour-division/other-characters)
 
 Nick's diary entries:

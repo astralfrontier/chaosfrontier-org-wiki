@@ -59,6 +59,13 @@
 ![Lance Hopper](/uploads/sycamour-school/lance-hopper.jpg "Lance Hopper")
 
 * Lance Hopper
+
+## The Bunny Brigade
+Three would-be superheroes:
+
+* Lucas aka Unreal. He can turn invisible.
+* Marie aka Schoolgirl (?). Has Marrow/Spike/bone release power
+* (didn't catch it). Can control sand.
 ## Other Students
 * David Everman
 # Other Characters

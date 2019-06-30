@@ -41,7 +41,7 @@
 * Dave - president
 
 ## Library
-![Emily Ambrose](/uploads/sycamour/emily-ambrose.jpg "Emily Ambrose")
+![Emily Ambrose](/uploads/sycamour-school/emily-ambrose.jpg "Emily Ambrose")
 * Emily Ambrose
 
 ## Music Club

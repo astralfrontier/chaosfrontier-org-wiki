@@ -1,10 +1,11 @@
 <!-- TITLE: Friends and Family -->
 <!-- SUBTITLE: A quick summary of Friends and Family -->
 # Laser Hawk
-## Mrs. Guerrera
+## Charlotte Guerrera
+![Charlotte Guerrera](/uploads/sycamour-friends-family/charlotte-guerrera.jpg "Charlotte Guerrera")
 
 * Laser Hawk's mother
-
+## Heather Evans
 # Melody
 ## Fiona Davis
 ![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")

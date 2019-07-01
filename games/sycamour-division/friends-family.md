@@ -4,8 +4,10 @@
 ## Charlotte Guerrera
 ![Charlotte Guerrera](/uploads/sycamour-friends-family/charlotte-guerrera.jpg "Charlotte Guerrera")
 
-* Laser Hawk's mother
+* Dallas's mother
 ## Heather Evans
+![Heather Evans](/uploads/sycamour-friends-family/heather-evans.jpg "Heather Evans")
+* Dallas's kid cousin
 # Melody
 ## Fiona Davis
 ![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")

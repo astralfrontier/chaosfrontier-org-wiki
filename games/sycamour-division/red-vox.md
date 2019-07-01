@@ -15,7 +15,8 @@ Their history, however, was not without its many controversies. The biggest of t
 
 # Teenage Heroes
 ## Laser Hawk
-![Laser Hawk](/uploads/sycamour/laser-hawk.jpg "Laser Hawk")
+![Dallas Guerrera](/uploads/sycamour-sycamour/dallas-guerrera.jpg "Dallas Guerrera")
+
 
 * Janus, laser light powers
 * Rides a laser skateboard

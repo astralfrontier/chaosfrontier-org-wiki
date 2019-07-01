@@ -97,6 +97,7 @@ When you roll, you can get one of three outcomes: Success, Surprise, or Salvage.
 * **Surprise** means sacrificing something you wanted, or a way to get what you wanted. The door opens, but not because you did it - maybe you pass to someone else.
 * **Salvage** lets you extract one thing of value from the roll, but the rest is in the GM's hands. Maybe you get a final shot at the boss before collapsing in the burning temple. Maybe you eject, but your plane blows up. The game will acknowledge your attempt and let you be true to who you are.
 # Games
+* [Blood and Thunder](scrapbook/blood-and-thunder) - a Conan-esque game setting for Genesys
 * [Kaiju Pirates](scrapbook/kaiju-pirates)
 * [The Peacock Throne](scrapbook/peacock-throne)
 * [Rifts Revised](scrapbook/rifts-revised)

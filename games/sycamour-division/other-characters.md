@@ -1,34 +1,5 @@
 <!-- TITLE: Other Characters -->
 <!-- SUBTITLE: A quick summary of Other Characters -->
-
-# Family and Friends
-## Mr. Auster
-* Former member of Zephyr's legacy
-
-## Fiona Davis
-![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")
-
-* Kieran's younger sister
-* Melody's current caretaker
-
-## Kieran Davis
-![Kieran Davis](/uploads/sycamour/kieran-davis.jpg "Kieran Davis")
-
-* Fiona's older brother
-* Programmer/creator of Melody
-* Seen in Nick Knack's ESP vision as interacting with Sycamour, giving a thumb drive
-
-## Mrs. Guerrera
-
-* Laser Hawk's mother
-
-## Anna Hel
-![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")
-
-* Nick Knack's mother
-* Halcyon City detective
-* Widow, lost her husband to cancer
-* Contentious relationship with her son
 # Other Characters
 ## Amy and Trish
 ![Amy And Trish](/uploads/sycamour/amy-and-trish.jpg "Amy And Trish")

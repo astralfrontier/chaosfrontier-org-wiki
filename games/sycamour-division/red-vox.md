@@ -17,6 +17,7 @@ Their history, however, was not without its many controversies. The biggest of t
 ## Laser Hawk
 ![Dallas Guerrera](/uploads/sycamour-sycamour/dallas-guerrera.jpg "Dallas Guerrera")
 
+![Laser Hawk](/uploads/sycamour-sycamour/laser-hawk.jpg "Laser Hawk")
 
 * Janus, laser light powers
 * Rides a laser skateboard

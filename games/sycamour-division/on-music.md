@@ -5,10 +5,10 @@ When I was a freshman, there was a dance. I was operating the music system, beca
 
 I didn't know what was going on. I looked across the gym and happened to see her looking in our direction. Because of that CD, I thought she was interested in me, and I thought I liked her all of a sudden, so I went and tried talking to her after that. It didn't go well at all. She laughed at me and he found out and was angry at me.
 
-When Melody asked me about dating, I remembered that time. I always thought love songs were about how love is supposed to work, but they aren't. But music and dating are still connected. When we want to connect with someone, we have music and dancing.
+When Melody asked me about dating, I remembered that time. I always thought love songs were about how love is supposed to work, but they aren't. But music and dating are still connected. When we want to be close to someone, we have music and dancing.
 
-Melody is supposed to sing those songs, but she said she doesn't sing about dating, and doesn't know about dating. Why hasn't someone asked her out already? Maybe they are intimidated by her. But she's really nice and friendly and approachable, everyone should know that.
+Melody is supposed to sing those kinds of songs, but she said she doesn't sing about dating, and doesn't know about dating. How is that possible? Why hasn't someone asked her out already? Maybe they are intimidated by her. But she's really nice and friendly and approachable, everyone should know that.
 
-I remember the stupid party. I sometimes wonder if that girl Erica was trying to do the same thing from back then. If the music was a CD she mixed for Melody. That would be great. I feel bad that I ruined it for them. I made a mess of everything.
+I remember the stupid party. I sometimes wonder if that girl Erica was trying to do the same thing from back then. If the music was a CD she mixed for Melody. That would be great. But I ruined it for them. I made a mess of everything. I'm sorry.
 
 Books are easier than music for me.

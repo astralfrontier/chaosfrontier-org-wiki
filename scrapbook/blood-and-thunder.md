@@ -6,10 +6,14 @@ Touchstones: Conan and Kull the Conqueror stories by REH; games like Barbarians 
 # Archetypes
 * The archetypes from the core book are all okay
 * "Cimmerian"/"Aquilonian" brute/noble types?
-# New Careers
+# Careers
 * All the Fantasy-applicable careers from the core book ought to be viable, with some possible tweaks
 * Consider others: Barbarian? Zealot?
-# New Skills
+# Skills
+## Combat Skills
+Melee and Ranged are not divided into separate skills; fighters tend to pick weapons based on situation, rather than proficiency.
+## Knowledge Skills
+* **Knowledge (Forbidden)** is the knowledge of dark rites, buried mysteries, the names of forgotten gods or demons, and other scraps of the world of beyond and before.
 ## Magical Skills
 There are four Magical skills, replacing the skill list from Genesys:
 
@@ -24,10 +28,12 @@ TODO: a tribal shamanism, similar to the existing Primal skill?
 # Magic
 TODO - decide which magical actions (Genesys p. 212) each discipline should be capable of.
 
-Conjure should be Abyssal and Necromantic.
+Attack ought to be specialized or flavored. This is not a genre where Fireball is usually a thing. Offensive casters should look at Curse instead - if you want to do damage at range, be an archer or conjurer.
 
-Healing should be the province of Mithraic and Necromantic magic, and _always_ come at a price.
+Augment should be more of the "drink this" variety of magic, less cleric-y buff spells.
 
-Suggested modifiers for Necromantic magic:
+Conjure should be Abyssal and Necromantic. Accessory items, permanent sacrifices, talents, etc. might make it easier to summon up specific things. Look into how to do a "dark pact" that doesn't also destroy the PC's moral compass.
 
-* Assess some kind of price, in vitality (blood loss, a sacrifice, etc.) and add setback dice if the price is not paid
+Healing should be the province of Mithraic and potentially Necromantic magic, and _always_ come at a price.
+
+Suggested modifiers for Necromantic magic: assess some kind of price, in vitality (blood loss, a sacrifice, etc.) and add setback dice if the price is not paid

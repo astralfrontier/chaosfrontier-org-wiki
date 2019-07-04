@@ -185,3 +185,8 @@ Nick -> image of himself (+Mundane -Savior), clears Guilty & Hopeless
 Zephyr -> closer to Melody (+Mundane -Freak), brotherly love!
 LH -> closer to Nick (+Savior -Freak)
 Melody -> closer to Nick (+Mundane -Superior)
+
+# Notes for next time
+* Nick has the Bunny Brigade's numbers. This opens the door to visiting them in our costumed identities.
+* Nick received some new items for his powers.
+* Melody wants to ask Nick about why it's easier to be friends with Emily than with Lance.

@@ -12,7 +12,7 @@ We're notifying both Anna Hel & Marlone via text message - forgiveness is easier
 Zephyr gets a message from Mr. Auster. Extremely urgent, legacy business specifically for Z.
 The rest of us head out immediately to the factory.
 
-https://www.youtube.com/watch?v=ewc1hixzYPY{.youtube}
+[video](https://www.youtube.com/watch?v=ewc1hixzYPY){.youtube}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewc1hixzYPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -1,7 +1,7 @@
 <!-- TITLE: Session 5 -->
-<!-- SUBTITLE: A quick summary of Session 5 -->
+<!-- SUBTITLE: Team vs. Children of the Night. Everyone loves sympathetic villains. -->
 
-# Session 5 2019-06-01
+# Session 5 (2019-06-01)
 ## The police station
 We're still under arrest. A different detective asks: What is your relationship with those girls?
 

@@ -1,5 +1,5 @@
 <!-- TITLE: Session 3 -->
-<!-- SUBTITLE: A quick summary of Session 3 -->
+<!-- SUBTITLE: Team vs. The Apprentice. Down with capitalism. -->
 
 # Session 3
 * Question about Janus's "The Mask" move: does it automatically reset? (no)

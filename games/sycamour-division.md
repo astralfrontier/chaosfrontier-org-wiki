@@ -2,8 +2,8 @@
 <!-- SUBTITLE: A quick summary of Sycamour Division -->
 
 # Session Summaries
-* [Session 0](sycamour-division/session-0)
-* [Session 1](sycamour-division/session-1)
+* [Session 0](sycamour-division/session-0) - When your team first came together...
+* [Session 1](sycamour-division/session-1) - Team vs. Player schedules.
 * [Session 2](sycamour-division/session-2) - Team vs. Cockroach King. Discovery of the Climate Changer.
 * [Session 3](sycamour-division/session-3) - Team vs. The Apprentice. Down with capitalism.
 * [Session 4](sycamour-division/session-4) - Team vs. High School. Introduction of the Sports Club.

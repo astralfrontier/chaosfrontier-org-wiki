@@ -1,7 +1,7 @@
 <!-- TITLE: Session 9 -->
-<!-- SUBTITLE: A quick summary of Session 9 -->
+<!-- SUBTITLE: Team vs. Bunny Brigade. Books get stacked. -->
 
-# Session for 2019-06-29
+# Session 9 (2019-06-29)
 After the party, everyone went home & slept it off in their own way.
 Nick wakes up via alarm, rushes to get dressed & head to school.
 LH isn't grounded from school so he's going.
@@ -46,7 +46,7 @@ D: how's it going? N: my head hurts. D: cool. see ya after class.
 M: can I bandage your hangover?
 
 ## The Bunny Brigade
-Brigade soundtrack: https://www.youtube.com/playlist?list=PL7F8v-B8mJPOZg9f8F4Hpmwa28WFCgfjq
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL7F8v-B8mJPOZg9f8F4Hpmwa28WFCgfjq" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Math teacher gets paper thrown at head, administrator shows up & talks, students watch passively.
 Lewis sitting alone, three freshmen approach. Most confident approaches.

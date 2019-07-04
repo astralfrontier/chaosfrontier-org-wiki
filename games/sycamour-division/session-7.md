@@ -14,8 +14,6 @@ The rest of us head out immediately to the factory.
 
 [video](https://www.youtube.com/watch?v=ewc1hixzYPY){.youtube}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ewc1hixzYPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## The Factory
 
 The factory has a fence and security towers, unmanned. It's not in good shape.
@@ -106,7 +104,7 @@ Marlone storms in. The rest of us follow.
 We head to the second floor thanks to Marlone noisily clearing the rubble on the second floor.
 Werewolf is wearing a jacket, inside it is a bunch of needles stuck inside his body.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZBuWFn5gFE4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[video](https://www.youtube.com/watch?v=ZBuWFn5gFE4){.youtube}
 
 Entering battle as a team - LH leads, Melody & Nick follows.
 LH charges in, directly engage -> 9, +1 from Melody - overcharging his powers with light!

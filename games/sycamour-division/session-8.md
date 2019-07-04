@@ -1,7 +1,7 @@
 <!-- TITLE: Session 8 -->
-<!-- SUBTITLE: A quick summary of Session 8 -->
+<!-- SUBTITLE: Team vs. Alcohol. Nick makes a horrible showing of himself. -->
 
-# Session 8 - 2019-06-22
+# Session 8 (2019-06-22)
 LH's player is missing - LH is grounded
 
 ## Cutscene: Zephyr
@@ -11,7 +11,7 @@ On television, woman with blue skin anchoring the news.
 "Nightquake has made his next move! Stealing from Jeremiah Peacekeeper, CEO of eco-corporation!"
 Nightquake affiliated with Sycamour? What does this mean for the new Zephyr?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8d5oWanua7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[video](https://www.youtube.com/watch?v=8d5oWanua7s){.youtube}
 
 On a table, photographs of Nightquake with other people Z doesn't recognize.
 
@@ -107,7 +107,7 @@ Nick heads back toward the others.
 Zephyr - are there any drinking games happening?
 Beer Pong. "Nick, wanna set up another game of beer pong?" N: "Sure!" M: "What's beer pong?"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ML5wIR8XI2Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[video](https://www.youtube.com/watch?v=ML5wIR8XI2Y){.youtube}
 
 Zephyr gets ready to play, directly engage -> 3
 Nick, directly engage -> 7
@@ -228,7 +228,6 @@ In the medical bay, he's checked out.
 Z unlocks Nick's phone, looks for "mom" in contacts. Texts her saying: crashing at friend's place tonight. Nick will cool off in the Red Vox medbay.
 
 # End of session
-
 Nick -> image of self (+Freak -Superior)
 Zephyr -> closer to Melody (+Danger -Savior), beer pong is dangerous!
 Melody -> closer to Zephyr (+Mundane -Freak)

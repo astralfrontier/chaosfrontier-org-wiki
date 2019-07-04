@@ -20,6 +20,8 @@ The wheels off Laser Hawk's first board. A source of freedom and safety. Allows 
 
 Zephyr's first running shoes, scorched from super-speed friction and worn down by early power development. Gives huge boosts in running speed and tremendous leaping distance. *Failure*: Nick gains uncontrollable speed and cannot stop moving.
 
+The collar of a service dog, trained for a life of assisting someone in need. Allows telepathic communication with animals and a sense of human beings in need nearby. *Failure*: Nick becomes more instinctual and is compelled to protect and take instructions.
+
 A pack of DJ's chewing gum, Anna Hel's brand. Anna uses gum to build rapport with interrogation or interview subjects. Used to **unleash your powers** or **pierce the mask** for telepathy. *Failure*: Nick goes into Bad Cop mode, growing more confrontational or aggressive.
 
 A charm bracelet with personalized map charms on it, indicating the places the wearer visited. Used to teleport long distances. *Failure*: one of the charms is expended. Nick goes to the location shown on the charm, rather than his real destination.

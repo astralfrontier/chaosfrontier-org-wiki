@@ -1,7 +1,7 @@
 <!-- TITLE: Session 2 -->
-<!-- SUBTITLE: A quick summary of Session 2 -->
+<!-- SUBTITLE: Team vs. Cockroach King. Discovery of the Climate Changer. -->
 
-# Session 2 summary
+# Session 2
 Red Vox dump: https://pastebin.com/0qG7xuYM
 
 ## Introductions

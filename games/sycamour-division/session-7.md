@@ -1,7 +1,7 @@
 <!-- TITLE: Session 7 -->
-<!-- SUBTITLE: A quick summary of Session 7 -->
+<!-- SUBTITLE: Team vs. Werewolf. Scratch one factory. -->
 
-# Session 7 2019-06-15
+# Session 7 (2019-06-15)
 Are we heading to the factory? Are we telling anyone?
 We're notifying both Anna Hel & Marlone via text message - forgiveness is easier than permission
 
@@ -11,6 +11,8 @@ We're notifying both Anna Hel & Marlone via text message - forgiveness is easier
 
 Zephyr gets a message from Mr. Auster. Extremely urgent, legacy business specifically for Z.
 The rest of us head out immediately to the factory.
+
+https://www.youtube.com/watch?v=ewc1hixzYPY{.youtube}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ewc1hixzYPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

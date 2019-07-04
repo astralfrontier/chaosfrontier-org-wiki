@@ -16,7 +16,7 @@ Fishing line, used by a father during an important fishing trip with his son. Us
 A firefighter's mask. The oxygen feed saved a child's life. Used passively, to create a telekinetic barrier that keeps Nick from getting badly hurt in super-combat.
 
 ## Situational
-The wheels off Laser Hawk's first board.
+The wheels off Laser Hawk's first board. A source of freedom and safety. Allows Nick to telekinetically operate his own body like a dancer or martial artist, moving with impossible fluidity and grace. *Failure*: Nick becomes impulsive and reckless, willing to try anything.
 
 Zephyr's first running shoes, scorched from super-speed friction and worn down by early power development. Gives huge boosts in running speed and tremendous leaping distance. *Failure*: Nick gains uncontrollable speed and cannot stop moving.
 

@@ -1,7 +1,7 @@
 <!-- TITLE: Session 1 -->
-<!-- SUBTITLE: A quick summary of Session 1 -->
+<!-- SUBTITLE: Team vs. Player schedules. -->
 
-# Session 1 summary
+# Session 1
 - Establishing shots of stuff happening in the city, villain in an alley, talking into a radio, but we're on the roof.
 - Zephyr's doing LH's homework, LH is absorbing power
 - Antenna dish nearby starts orienting, LED TV emerges and turns on, onscreen:

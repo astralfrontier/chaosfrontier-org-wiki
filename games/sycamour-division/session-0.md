@@ -1,7 +1,7 @@
 <!-- TITLE: Session 0 -->
-<!-- SUBTITLE: A quick summary of Session 0 -->
+<!-- SUBTITLE: When your team first came together... -->
 
-# Session 0 Summary
+# Session 0
 - Equinox wasn't here, so we went ahead with PC introductions
 - Nick Knack, Laser Hawk, and Zephyr introductions (see character sheets in G Docs for details)
 - Zephyr is Australian, a transfer student - newest to the team

@@ -1,7 +1,7 @@
 <!-- TITLE: Session 4 -->
-<!-- SUBTITLE: A quick summary of Session 4 -->
+<!-- SUBTITLE: Team vs. High School. Introduction of the Sports Club. -->
 
-# Session 4 2019-05-25
+# Session 4 (2019-05-25)
 ## The Love Letter
 
 > Dear @Zephyr,

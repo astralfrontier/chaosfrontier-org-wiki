@@ -43,7 +43,7 @@
 * There's rubble here, let's take cover.
 * Footsteps draw closer...
 
-![](https://cdn.discordapp.com/attachments/572184988272033792/589598316648726549/waltz.jpg)
+![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
 
 * He wanders around for a bit and leaves on his own.
 * LH: was that the human or nonhuman? Nick: gonna give you the more comforting answer.
@@ -59,7 +59,7 @@
 * There's something yellow on the chairs downstairs. The note from earlier was also yellow.
 * Nick: we should go find that other presence, unleash -> 7, mark Hopeless
 
-![](https://cdn.discordapp.com/attachments/572184988272033792/589600940546588673/liam.jpg)
+![Professor Puppeteer](/uploads/sycamour/professor-puppeteer.jpg "Professor Puppeteer")
 
 * A scientist guy? Master of Puppets.
 * We should go down and check out those chairs.

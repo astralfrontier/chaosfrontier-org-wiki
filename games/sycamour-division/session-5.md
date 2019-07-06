@@ -29,6 +29,8 @@
   * Hel: don't take Nick as a role model, but he's not as reckless as you
   * You shouldn't have stepped in.
 ## Amy and Trish
+![Amy And Trish](/uploads/sycamour/amy-and-trish.jpg "Amy And Trish")
+
 * Door bursts open. A wild detective appears! "We need to talk". Hel goes along.
 * LH uses powers to listen in. A lot of police jargon. Girls are related to organization called "Syc... Sycamour".
 * Hel: who are you guys after again? Z: Sycamour division.

@@ -47,7 +47,7 @@
 * First floor is some kind of industrial thing. Second floor is bakery. No doorway, might be a fire escape leading up here, or an access hatch.
 * Alternate stealth approach: can Melody go through walls? Mel: don't know what will happen. Will try to spy! Phasing.. -> 8. Marks Afraid that she can't undo it.
 
-![](https://vignette.wikia.nocookie.net/bokunoheroacademia/images/8/81/Mirio_Togata_greets_Izuku_Midoriya.png/revision/latest?cb=20180923065421)
+![](https://66.media.tumblr.com/cbea520af6359ca1e83f17209894c900/tumblr_pfghkh59RM1xs6p11o1_540.gif)
 
 * Cut to.. Absentia texting something to Marlum - not Marlone - Marlum
 * Melody sees Absentia unsuiting, but underneath it is normal clothes. Absentia spots the tracker in the suit! Throws suit away, tracker slides off but is not broken.

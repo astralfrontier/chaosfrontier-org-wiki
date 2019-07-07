@@ -159,6 +159,7 @@
 * Anna looks at LH: You? Maybe? Enh. Melody: don't know who he really is, can't speak for him.
 * Anna: we don't have space for this many people. Can't financially support this many.
 * Nick is paralyzed with fear & thinking about it.
+* LH offers to take one. Absentia smiles a little.
 * Grando: we don't need your help. We don't need housing. We need help taking down Sycamour.
 * Nick makes heroic effort to explain the situation thus far.
 * Anna: why is Marlone part of this? Melody: we think he might not be a good guy.

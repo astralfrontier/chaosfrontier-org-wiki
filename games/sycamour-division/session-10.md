@@ -127,6 +127,7 @@
 * Anyone can be deceitful. Nick: I've tried, I'm pretty bad at it.
 * Melody says she was told to befriend Lance Hopper. Why is she better friends with Emily?
 * Nick: why did sports club think Lance be a good friend for you?
+* Nick explains his messed up view about Dallas as friendship emissary: "he doesn't wanna be my friend because he's normal, but he was nice enough to point me at people who might be my friends after all."
 * LH: Dallas is probably just busy, being on student council. He probably doesn't like you Nick - uh, he probably doesn't dislike you. He's probably just busy. Nick: my mom's busy, I get that.
 * Melody looks weird. How do you know what Dallas thinks?
 * Everyone likes Nick. Except people at a party. But that's really nice of you to say.

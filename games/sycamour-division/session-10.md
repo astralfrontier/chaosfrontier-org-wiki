@@ -100,7 +100,7 @@
 
 * LH: "do YOU have a plan?" "Not exactly. We've tried to leave. They have an agent."
 * Nick describes Romanus. "Is that who you're talking about?" Grando: "That's Romanus. You encountered him?" Nick: "I was kinda drunk at the time but yeah." LH facepalms
-* Grandia: "So you know what it's like... If we can get rid of him, we can stop this."
+* Grando: "So you know what it's like... If we can get rid of him, we can stop this."
 * Nick: "I've got telepathy, rest of my team is really strong."
 * Grando: "it's not that simple." Camera pans over to the heroics museum.
 * Tomorrow at 12, the organization is planning a takeover of the museum.
@@ -153,7 +153,7 @@
 * Melody: they don't wanna do bad things.
 * Anna: doesn't excuse them from entering my house.
 * Melody: they don't have any place to go.
-* Anna: there's orphanages. Nick: they're from the same place Amy & Trish are from.
+* Anna: there's orphanages. Nick: they're from the same place Amy & Trish are from. Anna: .....oh.
 * Anna: why me? Isn't Melody's caretaker really rich?
 * Melody: there's a problem with that cause I might have been designed to be a bad guy, I dunno if it's really safe to bring people where I live.
 * Anna looks at LH: You? Maybe? Enh. Melody: don't know who he really is, can't speak for him.

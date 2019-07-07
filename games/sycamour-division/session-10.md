@@ -115,6 +115,7 @@
 * Nick teleports the group roof to roof. Nobody notices because of higher roofs, plus dragons.
 
 ## At Home
+![](https://i.imgur.com/OEJT3iBh.jpg)
 
 * Tea, television, party at Nick's house! Don't go in his room, it's a mess.
 * LH turns on "Home Alone". Explains to Melody what a prank is. With difficulty.

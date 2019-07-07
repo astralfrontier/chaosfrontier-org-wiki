@@ -172,9 +172,10 @@
 * Anna: are you sure Marlone is evil? Nope. We don't know
 * We're not even sure about ourselves. Except Melody, she's good. LH: I've crushed some cop cars, I'm questionable.
 * Anna: "I need booze". Melody: "Fiona told me that's bad". Nick starts sweating. Anna: "she doesn't sound very intelligent." M: "she's a therapist, she's smart!" A: "Just makes my point." M: "she has a college degree."
-
 # End of session
-
 Melody -> closer to LH (+Freak -Mundane)
 Nick -> closer to LH (+Savior -Freak)
 LH -> closer to Melody (+Superior -Danger)
+# Notes for next time
+* Marlone himself may not be the bad guy
+* Any social scenes with LH-Absentia? Any scenes with Grando or Dubium and any PC?

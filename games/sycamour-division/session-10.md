@@ -162,7 +162,7 @@
 * Anna: why is Marlone part of this? Melody: we think he might not be a good guy.
 * LH: Marlum = Marlone, IT ALL CONNECTS
 
-![](https://i.imgur.com/njdsZKt.jpg)
+![](https://i.imgur.com/UaLpJOK.jpg)
 
 * Nick: mom, just for a couple nights can we put them up?
 * LH: do we still have Quantum Punch's number? Guy we saved at the museum? Yes.

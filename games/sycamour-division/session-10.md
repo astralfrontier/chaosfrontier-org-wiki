@@ -58,6 +58,7 @@
 * Footsteps from below, increasingly coming closer.
 * Nick: let's try talking to them before we fight
 
+# Befriending the Children
 ## We talk to them
 
 * We see Grando. "OMG." "how do you know we're here?" Nick: "Hi." G: "Answer." Nick: "There's a tracking device."

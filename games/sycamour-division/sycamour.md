@@ -6,6 +6,10 @@
 * Their higher-ups have developed a process of transferring powers from existing supers to new ones, such as the Children of the Night
 * The process might involve blood transfusion
 # Sycamour Members
+## Curaçao
+![Curacao](/uploads/sycamour-sycamour/curacao.jpg "Curacao")
+## Begonias
+## Telecoast
 ## Altered Beast
 ![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")
 

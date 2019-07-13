@@ -22,9 +22,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Had either a holographic/AI duplicate, or able to become a hologram
 * Said that someone named "Marlum" gave him the order for the bank job
 
-## Begonias
-![Begonias](/uploads/sycamour-sycamour/begonias.jpg "Begonias")
-
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 
@@ -32,9 +29,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Lost his parents in a mysterious accident
 * Recruited by Sycamour with an offer that "it would never happen again"
 * Desires leadership
-
-## Curaçao
-![Curacao](/uploads/sycamour-sycamour/curacao.jpg "Curacao")
 
 ## Iron Maiden
 ![Iron Maiden](/uploads/sycamour/iron-maiden.jpg "Iron Maiden")
@@ -48,9 +42,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
-
-## Telecoast
-![Telecoast](/uploads/sycamour-sycamour/telecoast.jpg "Telecoast")
 
 # Children of the Night
 * Attacked a police station to retrieve Amy and Trish

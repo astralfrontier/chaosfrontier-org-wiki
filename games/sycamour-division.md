@@ -16,6 +16,7 @@
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)
+* [Independent heroes and villains](sycamour-division/independent)
 * [Friends and family](sycamour-division/friends-family)
 * [School characters](sycamour-division/school-characters)
 * [Other characters](sycamour-division/other-characters)

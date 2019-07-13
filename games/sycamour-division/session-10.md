@@ -88,7 +88,7 @@
 * LH realizes importance of all this, but if he reveals his ID now, maybe Absentia feels betrayed. And he doesn't like Grando knowing his secret either.
 * Player discussion of where to go next.
 * LH to Absentia: "You know who I am. You were there when I first used my ability. You know you can always turn to me for help." Absentia realizes who LH really is, based on this.
-* Absentia: "They mind controlled us into believing this is normal. It didn't work."
+* Absentia: "They brainwashed us into believing this is normal. It didn't work."
 * Melody: "I'm sorry you had to go through that."
 * Dubium: "you said you had doubts about your own group." Nick: "Yep." D: "tell us more." Nick: "How did Cockroach King escape Red Vox?" D: "We were never told."
 * Nick: "we got told to go somewhere else." Melody: "I think they pranked us. Not a nice prank."

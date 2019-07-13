@@ -3,10 +3,10 @@
 
 # Independent Heroes
 ## Begonias
-![Begonias](/uploads/sycamour-sycamour/begonias.jpg "Begonias")
+![Begonias](/uploads/sycamour-independent/begonias.jpg "Begonias")
 
 ## Curaçao
-![Curacao](/uploads/sycamour-sycamour/curacao.jpg "Curacao")
+![Curacao](/uploads/sycamour-independent/curacao.jpg "Curacao")
 
 ## Telecoast
-![Telecoast](/uploads/sycamour-sycamour/telecoast.jpg "Telecoast")
+![Telecoast](/uploads/sycamour-independent/telecoast.jpg "Telecoast")

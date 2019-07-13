@@ -34,6 +34,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 ![Iron Maiden](/uploads/sycamour/iron-maiden.jpg "Iron Maiden")
 
 * Identified by Zephyr as someone with powers similar to [Dubium](#dubium)
+* Spotted in the apartment complex where Kieran's gang went to during Session 11
 
 ## Master of Puppets
 

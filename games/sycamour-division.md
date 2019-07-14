@@ -13,6 +13,7 @@
 * [Session 8](sycamour-division/session-8) - Team vs. Alcohol. Nick makes a horrible showing of himself.
 * [Session 9](sycamour-division/session-9) - Team vs. Bunny Brigade. Books get stacked.
 * [Session 10](sycamour-division/session-10) - Team vs. Conspiracy. We recruit three quarters of the Children of the Night.
+* [Session 11](sycamour-division/session-11) - Team vs. Romanus. Friendship is magic.
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

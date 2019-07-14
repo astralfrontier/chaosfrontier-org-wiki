@@ -190,3 +190,8 @@ Nick -> closer to LH (+Savior -Mundane)
 LH -> closer to Nick (+Mundane -Freak)
 Melody -> closer to Zephyr (+Savior -Mundane)
 Zephyr -> grow into image (+Freak -Superior)
+# Notes for next time
+* Nick shares diary with his friends, if they ask about what bothered him
+  * the "On Music" entry in particular leads to something for Melody
+  * Nick's player should write diary entries for other PCs too
+* Melody reacts to the revelation about Kieran helping the bad guys

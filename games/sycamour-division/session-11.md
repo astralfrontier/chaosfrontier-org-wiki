@@ -106,6 +106,9 @@
 * Nick in mortal dread goes to check his room.
 * Grando & Dubium are laughing, reading his diary.
 * Nick lowers his head. Room starts to shake. "Get out."
+
+![](https://media.giphy.com/media/D5cYvq29E7516/giphy.gif)
+
 * "We can't." the house shakes. "GET OUT OF MY ROOM." They scamper away.
 * Nick is gonna shut his door inside.
 * Z: "Do you wanna build a snowman?" (knocks)

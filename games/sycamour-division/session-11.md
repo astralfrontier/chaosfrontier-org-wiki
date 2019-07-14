@@ -151,6 +151,9 @@
 * R: "You're not supposed to be here!"
 * Nick: "Your friends tell me you're mind controlling them."
 * MOMENT OF TRUTH
+
+![](https://www.xplainthexmen.com/wp-content/uploads/2014/06/116_DarkCity_Duel.jpg)
+
 * Romanus runs for the remote. Nick grabs him.
 * Nick forces Romanus to use his mind control against an impenetrable barrier, hoping to burn out R's telepathic power by sheer force.
 * Nick wants not only to depower Romanus, but to intimidate and dominate him by making him realize there's a mind he can't take over. In Romanus's mind, he's thinking back to the orphanage fire, feeling helpless. Flashback to a man in a business suit: Marlone. Can't see his face.

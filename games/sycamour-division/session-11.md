@@ -47,9 +47,6 @@
 * Z: "Melody, bad news, Kieran made these." M: "These are cool!"
 * Z: "These things flew off after _someone_ activated them. But Kieran called out names, can't remember." Melody: "All his figurines had names..."
 * LH: "I'm kinda on Kieran's side." Z: "WHAT?" LH: "I mean.. Kieran has caused a great divide."
-
-![](https://pbs.twimg.com/media/C0JML6QUoAAZ_xw.jpg)
-
 * Melody: "I thought you said there 3, there were 7 of us." Z mentions incomplete robots. "Go try talking to them." Z hasn't tried that.
 * Nick: "Z held back because they're strangers, you might be friends."
 * Melody notices the giant robots...

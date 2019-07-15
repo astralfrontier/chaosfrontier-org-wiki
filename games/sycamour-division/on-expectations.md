@@ -20,4 +20,8 @@ When he does all this stuff, though, what does he feel? When my mom is a cop, wh
 
 How does Zephyr feel? What does he hold back from telling us, to make things easier on us? When Zephyr has to be grown-up, is it hard on him? Does he ever just want to relax and be a goofy kid? Or is he too cool for that?
 
-What is Zephyr's dad like?
+Do people like that work so hard, because they want to? Or do they work like that because we expect them to?
+
+Do we hurt the strong and cool people when we're weak and dumb, because they have to make up for it?
+
+How heavy is it, the weight on them? How can I help lift it?

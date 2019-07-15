@@ -1,7 +1,7 @@
 <!-- TITLE: Sycamour Division -->
 <!-- SUBTITLE: A quick summary of Sycamour Division -->
 
-# Session Summaries
+# Season 1
 * [Session 0](sycamour-division/session-0) - When your team first came together...
 * [Session 1](sycamour-division/session-1) - Team vs. Player schedules.
 * [Session 2](sycamour-division/session-2) - Team vs. Cockroach King. Discovery of the Climate Changer.

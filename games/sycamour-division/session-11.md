@@ -155,8 +155,9 @@
 ![](https://www.xplainthexmen.com/wp-content/uploads/2014/06/116_DarkCity_Duel.jpg)
 
 * Romanus runs for the remote. Nick grabs him.
-* Nick forces Romanus to use his mind control against an impenetrable barrier, hoping to burn out R's telepathic power by sheer force.
-* Nick wants not only to depower Romanus, but to intimidate and dominate him by making him realize there's a mind he can't take over. In Romanus's mind, he's thinking back to the orphanage fire, feeling helpless. Flashback to a man in a business suit: Marlone. Can't see his face.
+* Nick puts up an impenetrable telepathic barrier and forces Romanus to use his mind control against it, to burn out R's own telepathic power by sheer force.
+  * Nick wants not only to depower Romanus, but to intimidate and dominate him by making him realize there's a mind he can't take over. In Romanus's mind, he's thinking back to the orphanage fire, feeling helpless. Flashback to a man in a business suit: Marlone. Can't see his face.
+  * Note: this wasn't mentioned, but where is the psychometric energy coming from to fuel this? From the hotel room - the lair of someone who has been using mental powers to dominate and destroy for who knows how long. The room's own energy will karmically destroy its occupant.
 * Romanus slumps to the floor.
 * LH smacks Romanus at 15% power, he's knocked out.
 * Nick: "come on, let's take him back home."

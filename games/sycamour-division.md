@@ -25,5 +25,6 @@
 Nick's diary entries:
 * [On Ghosts](sycamour-division/on-ghosts)
 * [On Music](sycamour-division/on-music)
+* [On Masks](sycamour-division/on-masks)
 # Characters
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?

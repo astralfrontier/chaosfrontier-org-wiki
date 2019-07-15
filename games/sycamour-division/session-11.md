@@ -149,7 +149,7 @@
 * Is the door locked? yes. telekinesis. Door busts open.
 * We see Romanus in bathrobes watching TV. He immediately jumps as the door breaks open.
 * R: "You're not supposed to be here!"
-* Nick: "Your friends tell me you're mind controlling them."
+* Nick: "Your friends tell me you're mind controlling them." R: "What friends?"
 * MOMENT OF TRUTH
 
 ![](https://www.xplainthexmen.com/wp-content/uploads/2014/06/116_DarkCity_Duel.jpg)

@@ -11,7 +11,7 @@
 
 Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](https://www.youtube.com/watch?v=ZBuWFn5gFE4)
 
-* Fought during Session 7 at the Sycamour Factory
+* Fought during Session 7 at the Sycamour Factory, captured by police
 * Injected with needles of "werewolf heroin" via a worn jacket, created by the Professor
 * "Rise from your grave!"
 
@@ -34,7 +34,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 ![Iron Maiden](/uploads/sycamour/iron-maiden.jpg "Iron Maiden")
 
 * Identified by Zephyr as someone with powers similar to [Dubium](#dubium)
-* Spotted in the apartment complex where Kieran's gang went to during Session 11
+* Spotted in the apartment complex where Kieran's gang went to during Session 11, later arrested
 
 ## Master of Puppets
 
@@ -68,6 +68,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * May have inherited a power from [Iron Maiden](#iron-maiden)
 * Currently in possession of Bruce, the teddy bear
 * First name is "Lucy", last name unknown
+* Seems to be in a relationship with Grando
 
 ## Grando
 ![Grando](/uploads/sycamour/grando.jpg "Grando")
@@ -76,10 +77,12 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 
 > Laser Hawk, you also know this guy. He frequented your skate park, and always caused trouble. Oddly enough, he always did it when you were around. But that's not all. Once, on one of his tantrums, your mother came with you to watch you show off a new technique you learned. Things got so bad when he saw you pull it off, he ran to your mom, and punched her square in the jaw. You're still not sure why he did it, but you definitely don't like him very much.
 
-* Can manifest ice powers, including an "ice skateboard" analogous to Laser Hawk's.
+* Can manifest ice powers, including an "ice skateboard" analogous to Laser Hawk's
+* Seems to be in a relationship with Dubium
 
 ## Romanus
 ![Romanus](/uploads/sycamour/romanus.jpg "Romanus")
 
 * Confronted Nick alone in session 8
-* Has some kind of ability to compel people to speak the truth
+* Had telepathic mind-control powers and used them to control the other Children
+* Was depowered by Nick in session 11

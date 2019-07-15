@@ -21,6 +21,7 @@
 * Fiona's older brother
 * Programmer/creator of Melody
 * Seen in Nick Knack's ESP vision as interacting with Sycamour, giving a thumb drive
+* Arrested in session 11 after aiding Sycamour with robot creation
 
 # Nick Knack
 ## Anna Hel

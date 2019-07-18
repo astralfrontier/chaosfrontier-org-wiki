@@ -169,7 +169,7 @@
 * We haul Romanus back to the house.
 * MH: "we should tell them. We don't want them here." Nick: "They need to know the threat is over."
 * LH texts Absentia, "Romanus is out of commission." LH is left on read.
-* LH: "we were friends, 2 years ago." Mel: "What happened?" LH: "probably the orphanage burned down." Mel: "I hope we can be friends again." LH: "friends don't get left on read."
+* LH: "we were friends, 2 years ago." Mel: "What happened?" LH: "probably the orphanage burned down." Mel: "I hope you can be friends again." LH: "friends don't get left on read."
 * Nick finds the Children, wordlessly presents Romanus.
 * Grando blasts R's left leg with ice.
 * Absentia runs up to hug Laser Hawk. LH leaves it on read.

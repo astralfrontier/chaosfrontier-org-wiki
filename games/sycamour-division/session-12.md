@@ -45,6 +45,8 @@
 
 ## Telepathic Investigation
 
+![](https://orig00.deviantart.net/7162/f/2014/282/4/d/read_my_mind__shy_reader_x_charles_xavier__by_alexbk1325-d7ze7gf.jpg)
+
 * We explain what we're trying to do. Anna's cynical of the plan. Remember when Anna asked Nick to read Grando's mind? Nope.
 * Nick: "Romanus, unless you want to go to jail for a million years, let us read your mind." Some discussion about human lifespan.
 * We explain to Romanus/Caesar what the deal is.
@@ -103,11 +105,9 @@
 * Does LH have his mask? He put all his stuff in backpack, including unmasking once inside.
 * LH is outside, getting sheets. Keys in lock, front door opening. LH panics, grabs stuff, sprints back toward room.
 * Mom calls out, asking questions. LH: everything's fine, no need to come in.
-
-https://i.imgur.com/1bbPzmw.gif
-
 * Alex hid by phasing into the bed. LH: you handled that great! A: thumbs up.
 
+![](https://i.imgur.com/1bbPzmw.gif)
 # Museum Attack
 
 ## Preparation
@@ -119,7 +119,7 @@ https://i.imgur.com/1bbPzmw.gif
 * Melody wakes up first. 4-5 hours. 5am, she's functional. Melody wants to see more stuff, so sleeps as little as possible. Like the little kid who never wants to go to bed.
 * Melody: morning routine, pick a template (appearance, clothing), no breakfast. Does she prep for battle in any way? Yes, Frilly Upgrade.
 
-https://raikou1.donmai.us/d0/86/d086c9260a311a37206889d3452d96da.jpg
+![](https://raikou1.donmai.us/d0/86/d086c9260a311a37206889d3452d96da.jpg)
 
 * Melody texts everyone. Will it wake anyone up? Dallas absorbs light from screen, Nick is freaked out & wakes up, Zephyr flicks phone to silent & goes back to sleep.
 * Dallas: "it's at noon. We don't need to be there for 7 hours." M: "We should get there first?" D: "we could be fashionably early, show up at 11:30." M: "What if they lied about the time?" D: "If they lied, chances are they're disorganized and not a threat." M: "Or it means they're next level."
@@ -168,4 +168,3 @@ Zephyr: closer, Nick for opening up (+Savior -Mundane)
 * LH: "LET ME HIT SOMETHING"
 * Fallout from dragon attack? Town hall ruined, some buildings destroyed, rebuilding efforts are fast
 * What if the Fantastic Four did construction work?
-* # Header

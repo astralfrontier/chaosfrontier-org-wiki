@@ -15,6 +15,8 @@ Their history, however, was not without its many controversies. The biggest of t
 
 # Teenage Heroes
 ## Laser Hawk
+![Laser Hawk - Commission](/uploads/sycamour-red-vox/laser-hawk-bee.png "Laser Hawk Bee")
+
 ![Dallas Guerrera](/uploads/sycamour-red-vox/dallas-guerrera.jpg "Dallas Guerrera")
 
 ![Laser Hawk](/uploads/sycamour-red-vox/laser-hawk.jpg "Laser Hawk")

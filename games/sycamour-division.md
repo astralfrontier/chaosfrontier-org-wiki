@@ -23,10 +23,14 @@
 * [School characters](sycamour-division/school-characters)
 * [Other characters](sycamour-division/other-characters)
 
+# Characters
+* [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
+
 Nick's diary entries:
 * [On Ghosts](sycamour-division/on-ghosts)
 * [On Music](sycamour-division/on-music)
 * [On Masks](sycamour-division/on-masks)
 * [On Expectations](sycamour-division/on-expectations)
-# Characters
-* [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
+
+Melody's diary entries:
+* [The Book of Melody](sycamour-division/book-of-melody)

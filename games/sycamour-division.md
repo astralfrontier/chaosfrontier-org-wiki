@@ -33,6 +33,7 @@
 * [On Masks](sycamour-division/on-masks) - Laser Hawk, secrets, and shyness
 * [On Expectations](sycamour-division/on-expectations) - Zephyr and the weight of being cool
 * [On Discipline](sycamour-division/on-discipline) - Zephyrus, boot camp, and anger
+* [On Accidents](sycamour-division/on-accidents) - Quantum Punch and the value of sentiment
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

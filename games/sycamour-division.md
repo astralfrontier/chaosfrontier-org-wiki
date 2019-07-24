@@ -28,10 +28,11 @@
 * [Mr. Black explains analog](sycamour-division/mr-black-explains-analog) - Nick's mentor talks about books, music, and old things
 
 ## Nick's diary entries
-* [On Ghosts](sycamour-division/on-ghosts)
-* [On Music](sycamour-division/on-music)
-* [On Masks](sycamour-division/on-masks)
-* [On Expectations](sycamour-division/on-expectations)
+* [On Ghosts](sycamour-division/on-ghosts) - memory is how the living interact with the dead
+* [On Music](sycamour-division/on-music) - Melody, mixtapes, and screwed-up love stories
+* [On Masks](sycamour-division/on-masks) - Laser Hawk, secrets, and shyness
+* [On Expectations](sycamour-division/on-expectations) - Zephyr and the weight of being cool
+* [On Discipline](sycamour-division/on-discipline) - Zephyrus, boot camp, and anger
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

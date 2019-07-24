@@ -4,11 +4,11 @@
 # When our team first came together
 ![](https://i.imgur.com/5sUA8ey.jpg)
 
-I JUST DESTROYED A MUSEUM
+I JUST WRECKED A MUSEUM I'M SORRY
 
 Okay, that's not all I did today.
 
-BUT I DESTROYED A MUSEUM
+BUT I WRECKED A MUSEUM
 
 AND I MET SOME HEROES
 
@@ -51,3 +51,7 @@ After that, the four of us got together. The Red Warden came over, with apprecia
 And that's when I first heard the name "Red Vox", not as just something that existed in Halcyon City, but something that I could be part of.
 
 I knew I'd used the feelings of a hero to save some lives. That day, I swore it wouldn't be the last time.
+
+----
+
+Okay so that wing of the Q is now closed because they have to repair the floor, fix a lot of the supports, do some other work. Someone said something about "city budget" and that really made me cringe. Like, I don't get a very big allowance, you guys.

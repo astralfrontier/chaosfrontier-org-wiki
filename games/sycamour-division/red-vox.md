@@ -60,3 +60,4 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 
 * Impressed by the PCs when the team first came together
 * Uses a mystical martial arts style based on infusions of monster blood
+* Trained by a group of monks that hunt werewolves, vampires, etc. and borrow their power for good

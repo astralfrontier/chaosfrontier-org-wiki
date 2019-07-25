@@ -54,3 +54,9 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 * Our representative with Red Vox
 * Light-based powers, priestly or holy theme
 * Pretty god damn suspicious
+
+## Red Warden
+![Red Warden](/uploads/sycamour-red-vox/red-warden.jpg "Red Warden")
+
+* Impressed by the PCs when the team first came together
+* Uses a mystical martial arts style based on infusions of monster blood

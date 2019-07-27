@@ -45,9 +45,9 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Escaped via rocket before he could be caught
 
 # Unidentified Members
+![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
 ![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
 ![Slmniha](/uploads/sycamour-sycamour/slmniha.jpg "Slmniha")
-![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
 # Children of the Night
 * Attacked a police station to retrieve Amy and Trish

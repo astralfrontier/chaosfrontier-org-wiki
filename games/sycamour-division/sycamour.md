@@ -46,7 +46,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 
 ## Unidentified Members
 ![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
-
+![Slmniha](/uploads/sycamour-sycamour/slmniha.jpg "Slmniha")
 # Children of the Night
 * Attacked a police station to retrieve Amy and Trish
 * Seem to have been granted powers via blood transfusion by the Master of Puppets in an abandoned factory (now destroyed)

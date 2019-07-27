@@ -45,10 +45,22 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Escaped via rocket before he could be caught
 
 # Unidentified Members
+Suggested names are taken from Norwegian heavy metal bands.
+## Person 1
 ![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
 ![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
+
+Suggested names: Arcturus
+
+## Person 2
 ![Slmniha](/uploads/sycamour-sycamour/slmniha.jpg "Slmniha")
+
+Suggested names: Darkthrone, Burzum
+
+## Person 3
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
+
+Suggested names: Mayhem
 # Children of the Night
 * Attacked a police station to retrieve Amy and Trish
 * Seem to have been granted powers via blood transfusion by the Master of Puppets in an abandoned factory (now destroyed)

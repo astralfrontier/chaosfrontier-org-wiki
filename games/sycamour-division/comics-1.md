@@ -1,0 +1,6 @@
+<!-- TITLE: Comics 1 -->
+<!-- SUBTITLE: Random comics -->
+
+# Comics 1
+These were created with [Manga Maker ComiPo](https://www.comipo.com/en/) and have no set theme, other than "goofy antics".
+

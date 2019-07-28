@@ -23,7 +23,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Said that someone named "Marlum" gave him the order for the bank job
 
 ## Arcturus
-![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
+![Arcturus 1](/uploads/sycamour-sycamour/arcturus-1.jpg "Arcturus 1")
 ![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
 
 * Fought during the museum raid

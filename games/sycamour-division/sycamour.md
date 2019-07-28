@@ -50,11 +50,9 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Technopath with swords
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
-## Person 1
+## Arcturus
 ![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
 ![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
-
-Suggested names: Arcturus
 
 ## Hammer Time
 ![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")

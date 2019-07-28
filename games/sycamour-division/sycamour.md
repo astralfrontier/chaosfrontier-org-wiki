@@ -22,6 +22,12 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Had either a holographic/AI duplicate, or able to become a hologram
 * Said that someone named "Marlum" gave him the order for the bank job
 
+## Arcturus
+![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
+![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
+
+* Fought during the museum raid
+* Can create black holes
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 
@@ -50,9 +56,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Technopath with swords
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
-## Arcturus
-![Vit 16 Ht](/uploads/sycamour-sycamour/vit-16-ht.jpg "Vit 16 Ht")
-![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
 
 ## Hammer Time
 ![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")

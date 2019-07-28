@@ -44,6 +44,10 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
 
+## Robot Stop
+![Robot Stop](/uploads/sycamour-sycamour/robot-stop.jpg "Robot Stop")
+
+* Technopath with swords
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
 ## Person 1

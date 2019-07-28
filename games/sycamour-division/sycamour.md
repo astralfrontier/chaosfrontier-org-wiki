@@ -57,9 +57,9 @@ Suggested names are taken from Norwegian heavy metal bands.
 Suggested names: Arcturus
 
 ## Hammer Time
-![Slmniha](/uploads/sycamour-sycamour/slmniha.jpg "Slmniha")
+![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
 
-Suggested names: Darkthrone, Burzum
+* Guy involved in the museum attack in session 13
 
 ## Person 3
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")

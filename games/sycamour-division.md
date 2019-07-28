@@ -38,3 +38,6 @@
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)
+
+## Sycamour Comics
+* [Comics 1](sycamour-division/comics-1)

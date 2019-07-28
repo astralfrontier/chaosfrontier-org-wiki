@@ -114,7 +114,7 @@
 
 ## Meanwhile inside...
 
-# LH grabs HT's own hammer and takes a mighty swing! -> 12
+* LH grabs HT's own hammer and takes a mighty swing! -> 12
   * LH: "I want you to remember it was me that beat you"
 * Z: "When you get outta the museum, hand yourself in!" HT: "or what?" Z points at LH. Provoke -> 11
 * Hammer Time grabs phone, says something into it, throws his phone near his camera, runs for it - right into the cops though. They cuff him

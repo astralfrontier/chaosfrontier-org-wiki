@@ -56,7 +56,7 @@ Suggested names are taken from Norwegian heavy metal bands.
 
 Suggested names: Arcturus
 
-## Person 2
+## Hammer Time
 ![Slmniha](/uploads/sycamour-sycamour/slmniha.jpg "Slmniha")
 
 Suggested names: Darkthrone, Burzum

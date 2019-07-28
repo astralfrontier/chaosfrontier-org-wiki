@@ -9,6 +9,10 @@
 ## Curaçao
 ![Curacao](/uploads/sycamour-independent/curacao.jpg "Curacao")
 
+Pronounciation:
+
+[video](https://www.youtube.com/watch?v=e_lhPd372I8){.youtube}
+
 ## Telecoast
 ![Begonias](/uploads/sycamour-independent/begonias.jpg "Begonias")
 ## Torchbearer

@@ -8,6 +8,12 @@
 ## Heather Evans
 ![Heather Evans](/uploads/sycamour-friends-family/heather-evans.jpg "Heather Evans")
 * Dallas's kid cousin
+## Torchbearer
+![Torchbearer](/uploads/sycamour-friends-family/torchbearer.jpg "Torchbearer")
+
+* Laser Hawk's father
+* A hero from St. Louis who died in 2009 while saving residents from fire
+* [Story](https://drive.google.com/file/d/1SK1pQ5_x1E1UuPojcSTuRoBD240q6eOm/view)
 # Melody
 ## Fiona Davis
 ![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")

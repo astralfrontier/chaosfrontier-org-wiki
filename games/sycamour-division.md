@@ -15,6 +15,7 @@
 * [Session 10](sycamour-division/session-10) - Team vs. Conspiracy. We recruit three quarters of the Children of the Night.
 * [Session 11](sycamour-division/session-11) - Team vs. Romanus. Friendship is magic.
 * [Session 12](sycamour-division/session-12) - Team vs. Mom. We build up to the museum attack.
+* [Session 13](sycamour-division/session-13) - Team vs. Museum. Laser Hawk gets a hammer.
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

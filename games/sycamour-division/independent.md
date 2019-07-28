@@ -15,7 +15,3 @@ Pronounciation:
 
 ## Telecoast
 ![Begonias](/uploads/sycamour-independent/begonias.jpg "Begonias")
-## Torchbearer
-[Story](https://drive.google.com/file/d/1SK1pQ5_x1E1UuPojcSTuRoBD240q6eOm/view)
-
-* A hero from St. Louis who died in 2009 while saving residents from arson

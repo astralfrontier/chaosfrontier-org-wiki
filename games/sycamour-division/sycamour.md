@@ -36,6 +36,13 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Recruited by Sycamour with an offer that "it would never happen again"
 * Desires leadership
 
+## Hammer Time
+![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
+
+* Guy involved in the museum attack in session 13
+* Hammer taken by Laser Hawk
+* Arrested by the police
+
 ## Iron Maiden
 ![Iron Maiden](/uploads/sycamour/iron-maiden.jpg "Iron Maiden")
 
@@ -56,11 +63,6 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 * Technopath with swords
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
-
-## Hammer Time
-![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
-
-* Guy involved in the museum attack in session 13
 
 ## Person 3
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")

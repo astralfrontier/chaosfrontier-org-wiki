@@ -1,5 +1,5 @@
 <!-- TITLE: Session 11 -->
-<!-- SUBTITLE: A quick summary of Session 11 -->
+<!-- SUBTITLE: Team vs. Romanus. Friendship is magic. -->
 
 # Session 11 (2019-07-13)
 ## Secret Robot Base

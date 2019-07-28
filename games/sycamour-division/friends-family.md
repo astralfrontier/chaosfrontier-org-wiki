@@ -14,6 +14,7 @@
 * Laser Hawk's father
 * A hero from St. Louis who died in 2009 while saving residents from fire
 * [Story](https://drive.google.com/file/d/1SK1pQ5_x1E1UuPojcSTuRoBD240q6eOm/view)
+* Image reference: Pinoy actor [Alden Richards](https://en.wikipedia.org/wiki/Alden_Richards)
 # Melody
 ## Fiona Davis
 ![Fiona Davis](/uploads/sycamour/fiona-davis.jpg "Fiona Davis")

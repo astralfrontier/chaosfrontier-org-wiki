@@ -1,5 +1,5 @@
 <!-- TITLE: Session 10 -->
-<!-- SUBTITLE: A quick summary of Session 10 -->
+<!-- SUBTITLE: Team vs. Conspiracy. We recruit three quarters of the Children of the Night. -->
 
 # Session 10 (2019-07-06)
 * Zephyr's player is out today

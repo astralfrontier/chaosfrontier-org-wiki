@@ -24,7 +24,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 
 ## Arcturus
 ![Arcturus 1](/uploads/sycamour-sycamour/arcturus-1.jpg "Arcturus 1")
-![M 9 Bbw 8 O](/uploads/sycamour-sycamour/m-9-bbw-8-o.jpg "M 9 Bbw 8 O")
+![Arcturus 2](/uploads/sycamour-sycamour/arcturus-2.jpg "Arcturus 2")
 
 * Fought during the museum raid
 * Can create black holes

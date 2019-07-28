@@ -20,8 +20,10 @@ Nick teleported into the security room and found Mr. Auster. Nick told Mr. Auste
 
 Nick Knack didn't save the day by himself. But he contributed.
 
-It's hard for me to have friends, because I talk too much, or I get other peoples' feelings confused with my own, and cause problems. But this is real. This didn't come from anyone else. This is all me.
+It's hard for me to have friends, because I talk too much, or I get other peoples' feelings confused with my own, and cause problems. But this is real. This didn't come from anyone else. This was all me.
 
-I wish I could quit school and just be a superhero all the time. I could do more good that way. And if someone got hurt, it would always be a bad guy. Then again, I don't know what would have happened if we'd lost Melody. I don't know how I could handle that.
+I wish I could quit school and just be a superhero all the time. I could do more good that way. And if someone got hurt, it would always be a bad guy.
+
+Then again, I don't know what would have happened if we'd lost Melody. I don't know how I could handle that. Laser Hawk and Zephyr were okay, but that void villain was pretty strong.
 
 I'll just have to get stronger.

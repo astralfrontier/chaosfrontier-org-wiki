@@ -61,6 +61,7 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 ![Robot Stop](/uploads/sycamour-sycamour/robot-stop.jpg "Robot Stop")
 
 * Technopath with swords
+* Arrested by police during the museum attack
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
 

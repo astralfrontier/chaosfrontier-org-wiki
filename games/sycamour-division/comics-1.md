@@ -11,3 +11,6 @@ These were created with [Manga Maker ComiPo](https://www.comipo.com/en/) and hav
 ![Sycamour 003](/uploads/sycamour-comics/sycamour-003.png "Sycamour 003")
 
 ![Sycamour 004](/uploads/sycamour-comics/sycamour-004.png "Sycamour 004")
+
+![Sycamour 005](/uploads/sycamour-comics/sycamour-005.png "Sycamour 005")
+

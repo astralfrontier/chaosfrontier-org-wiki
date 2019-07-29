@@ -34,6 +34,9 @@
 
 > Laser Hawk, you also know this guy. He frequented your skate park, and always caused trouble. Oddly enough, he always did it when you were around. But that's not all. Once, on one of his tantrums, your mother came with you to watch you show off a new technique you learned. Things got so bad when he saw you pull it off, he ran to your mom, and punched her square in the jaw. You're still not sure why he did it, but you definitely don't like him very much.
 
+> Grando has short black hair, almost down to a buzz cut if not for Dubium. His face is tough, and oftenly bruised, with a strong jaw, and eyebrows that rival the carwash dude from Breaking Bad, he looks a lot like your average bully, mostly because he's unoriginal.
+> Grando normally likes to wear jackets, probably because the dude is cold to the touch. Oddly enough though, he mostly wears leather, despite it not being very warm.
+
 * Can manifest ice powers, including an "ice skateboard" analogous to Laser Hawk's
 * Seems to be in a relationship with Dubium
 

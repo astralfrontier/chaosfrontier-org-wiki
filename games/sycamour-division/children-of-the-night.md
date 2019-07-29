@@ -11,6 +11,9 @@
 
 > Laser Hawk, you recognize Absentia. You recognize them too well. They were your best friend in highschool last year before they disappeared after that orphanage burned down. Melody, you know them too. You've seen them talk to Fiona on her dayjob as a therapist, and she's always said how she's so close to getting them on the right path. They, however, don't recognize either of you. LH for obvious reasons, but they never really paid attention to Melody.
 
+> Absentia's face is a mystery. Not a lot of people have seen it, on account of their gigantic bangs. Still, Dallas knows why they hide it, since their forehead is... Filled with acne. Damn hormones.
+> They normally wear casual clothes, and refuse to wear anything but slacks even outside. One time they even went to school in their pajamas.
+
 * Can phase through solid objects
 
 ## Dubium

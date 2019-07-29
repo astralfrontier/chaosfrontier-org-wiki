@@ -42,6 +42,9 @@
 
 > Romanus, oddly enough, has curly, orange hair, with a softer-looking face compared to Grando's tougher look. If you were to look at him and never interact with him, you'd assume he was an angel, but... Yeah.
 > He's got a lighter build, and is about as tall as your average 17 year old. Which is to say he's completely normal, really, aside from the sadism and need for power.
+> As for his wardrobe, it really depends if you're talking about Romanus or Caesar. 
+> Pre-Sycamour Caesar liked stripes, sometimes even going for the jolly old colour pattern of red and green, but always with the same type of blue jeans.
+> Romanus, on the other hand, dresses up like your average spoiled rich kid. You'll see all kinds of brands in his clothing, some beibg imported from other countries, some being from the U.S, some being the most obscure thing ever. Only one thing stays consistent in his clothes: They're all expensive.
 
 * Confronted Nick alone in session 8
 * Had telepathic mind-control powers and used them to control the other Children

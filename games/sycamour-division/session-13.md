@@ -19,13 +19,11 @@
 
 ![](https://houseofyumm.com/wp-content/uploads/2015/02/Chocolate-Strawberry-Vanilla-Shake750name.jpg)
 
+## The Plan
 * Discussion of motives for museum robbery. Nick googles Museum website for events. There was an event scheduled for today, but it's been punted for tomorrow. Maybe they were going to plant something in the museum ahead of time?
 * Melody doesn't want to be asking all these questions - will tune into the Internet herself! Out of this world -> 6!
   * What's the speed comparison between Zephyr and Melody?
-* The museum is being broken apart? That's Nick's job (rest of the team: "no it's not")
-
-## Phasing Dude
-
+  * The museum is being broken apart? That's Nick's job (rest of the team: "no it's not")
 * Around 10:50, some dude are shambling over toward the museum. Police are challenging the guy. Nick gets a to-go box. M: where do you keep that box? Nick: haven't thought that far ahead. M: you've been hanging out with Laser Hawk. N: you are correct
 * Nick will casually head toward the situation in progress.
 
@@ -40,6 +38,7 @@
 
 [video](https://www.youtube.com/watch?v=niVzMcA3FNM){.youtube}
 
+# The Assault
 * Inside the museum, cloaked figure screaming at the top of his lungs, has his hands on the ground, museum flickers in and out.
 * Phasing dude looks at the museum, looks scared, runs away
 * Zephyr uses air powers to sweep the leg -> 5 NOPE
@@ -47,8 +46,6 @@
 * Zephyr tries to throw him toward Melody -> 15! Create an opportunity, resist/avoid blows.
 * Melody creates light-gauntlets on fists, spikes him into the ground volleyball style.
 * Cops are like "whaaaaaat"
-
-## Back in the Museum
 
 ![](https://cdn.discordapp.com/attachments/572184988272033792/604830178027372554/FYSM-1405B-Danielle-Kinsey-photo.jpeg.jpg)
 
@@ -58,7 +55,7 @@
 * Auster got sidetracked, wanted to get something done, underwent experiments. Can create barriers, making it impossible for people to phase through.
 * Nick: "did you get this from Sycamour?" Auster: "What? No." Nick: "other people have been given powers by them."
 * Nick tells Auster about the Children. Auster: "why aren't they here?" Nick: "We showed them the Home Alone movies."
-* Auster: "If you're Zephyr's friend, I'll trust you. What do you need?" (Zephyr OOC: "you can get me a drink.")
+* Auster: "If you're Zephyr's friend, I'll trust you." Nick: "What do you need?" (Zephyr OOC: "you can get me a drink.")
 * Auster: "Mom told me this place is going to get attacked, protect it. Don't bother trying to protect the artifacts." Nick is okay with that. Check security cameras: any movement or activity? Starts feeling a tingle across back, coming from the door. Some emotional pain, coming closer. Auster creates a barrier over the door.
 * Auster: "why fight it when you can avoid it?" Nick: "cause this is all I do." Auster: "you're gonna break the museum." Nick: "we can't let these people do what they want."
 * Nick texts his friends: "BRB fighting bad guys in museum."
@@ -90,11 +87,10 @@
 * So this was all an assassination? RS: that was my part in the plan.
 * Melody: what's the plan? Sycamour would get me my funds to start testing on people?
 * Melody: where's the rest of your friends? (does he have friends?) They're already here.
+
+## Hammer Time and Arcturus
 * We pan to: guy with a really big hammer trying to get into the Climate Changer's secured case
 * Mr. Auster is starting to struggle.
-
-## Arcturus
-
 * Hammer Time is trying to smash a giant fucking hammer into a tiny plastic case, it's not working
 * LH wants to disarm him -> 12 ("Everything looks like a nail"), shoulder-checking him while he's trying to make a phone call
 * HT tries to grab LH by the neck, LH avoids it
@@ -111,9 +107,6 @@
 * Melody teams up with Telecoast to take on Arcturus -> 5
 * Arcturus laughs, deploys a black hole to start sucking people in. Melody takes a powerful blow -> 5
 * The adult heroes fall down. Nick puts up a telekinetic counterforce to let them act -> 7
-
-## Meanwhile inside...
-
 * LH grabs HT's own hammer and takes a mighty swing! -> 12
   * LH: "I want you to remember it was me that beat you"
 * Z: "When you get outta the museum, hand yourself in!" HT: "or what?" Z points at LH. Provoke -> 11
@@ -121,7 +114,7 @@
 
 ## It's not over until the CGI lady sings
 
-* Auster points at Arcturus, tries to put her in a force-box, sort of working?
+* Auster points at Arcturus, tries to put her in a force-box, sort of working? Nope.
 * Melody does it the Marlone way, punching Arcturus from on light-rollerskates -> 6, Nick uses TK to hold Arcturus in place to take the hit, +1 from team
 * Arcturus tries to create a black hole to attack melody -> 7, marks Afraid & Angry
 * Nick throws Arcturus at her own black hole! -> 11

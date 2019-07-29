@@ -23,6 +23,11 @@
 
 > Nick, you know her too. When you were younger, you picked up a stray teddy bear on the street, since you were trying to get a hang of your powers. Unfortunately, when you grabbed it, you saw that same girl being beaten-- even shedding blood-- by what appear to be orphanage staff.
 
+> Dubium always wears her hair with a large ponytail, even casually. She honestly doesn't know why she's let it grow so much and why she even bothers taking care of it, but she does anyway for mysterious reasons. She can sometimes be seen with glasses, though ever since the orphanage burnt down she has never gotten the time to buy a new pair. Maybe she'll look for one someday.
+> Maybe.
+> She usually wears hoodies, and, more notably, she always has gloves on. Even in her sleep.
+> Maybe even when she showers.
+
 * Creates metal constructs from the iron in her own blood
 * May become anemic if she overloads her powers
 * May have inherited a power from [Iron Maiden](#iron-maiden)

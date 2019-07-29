@@ -28,7 +28,7 @@
 # Characters
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
 * [Mr. Black explains analog](sycamour-division/mr-black-explains-analog) - Nick's mentor talks about books, music, and old things
-* [The Intimidation Talk](./intimidation-talk) - Nick and Melody talk about scariness. Right now holds Nick's player's notes
+* [The Intimidation Talk](sycamour-division/intimidation-talk) - Nick and Melody talk about scariness. Right now holds Nick's player's notes
 
 ## Nick's diary entries
 * [On Ghosts](sycamour-division/on-ghosts) - memory is how the living interact with the dead

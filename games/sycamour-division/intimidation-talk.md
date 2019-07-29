@@ -14,3 +14,12 @@
 > If Nick sees those things, then she doesn't understand why he would think other people wouldn't think the way he does.
 > Her current theory is "Oh, it's because I'm not human, and Nick isn't scared of things that aren't human because he's a superhero; however, normal people will probably be scared of me for that reason"
 
+## Stuff Nick wants to talk about
+
+* Intimidation is being afraid of what _might_ happen
+* Imagine another girl comes to you. She wants to be a singer. She really needs to sing. Specifically, a duet. But .... she's inexperienced.
+  * And she's afraid if she tries to do a duet with a partner, they will be annoyed, or laugh.
+  * Whether or not they _would_, she's _afraid_ they will.
+  * If they don't like her singing, then every time she sings, she'll remember, and that would spoil singing for her.
+  * For her, it's easier to just keep _imagining_ singing, than to really sing.
+  * What advice would you give her?

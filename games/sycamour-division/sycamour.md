@@ -59,6 +59,10 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
 
+## Phaser
+![Rulenye](/uploads/sycamour-sycamour/rulenye.jpg "Rulenye")
+
+* Captured after the museum raid
 ## Person 3
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
 

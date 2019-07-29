@@ -19,6 +19,7 @@
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)
+  * [Children of the Night](sycamour-division/children-of-the-night)
 * [Independent heroes and villains](sycamour-division/independent)
 * [Friends and family](sycamour-division/friends-family)
 * [School characters](sycamour-division/school-characters)

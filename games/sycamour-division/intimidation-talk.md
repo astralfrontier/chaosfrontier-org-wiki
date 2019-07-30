@@ -16,8 +16,9 @@
 
 ## Stuff Nick wants to talk about
 
+* Nick thinks that Emily at the warehouse party wanted to ask Melody out, and feels bad for ruining it
 * Intimidation is being afraid of what _might_ happen
-* People might be scared of not impressing you
+  * People might be scared of not impressing you
 * The metaphor of the duet
   * Imagine another girl comes to you. She wants to sing a duet with someone very badly. But .... she's inexperienced.
   * She's afraid if she tries to do a duet with her chosen partner, they will be annoyed, or laugh.
@@ -27,3 +28,6 @@
   * What would you tell her to do?
 * Overcoming fear is hard. I tried to do that at the museum
   * Sometimes it doesn't work out. I thought Zephyr would like me summoning his mentor, but he didn't
+  * Mr. Auster didn't want me to go out and fight, but I did it anyway
+* When you want something badly enough, you'll overcome fear
+  * Nick went after Romanus without even thinking about it

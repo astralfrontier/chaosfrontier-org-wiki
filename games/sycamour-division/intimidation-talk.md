@@ -17,9 +17,13 @@
 ## Stuff Nick wants to talk about
 
 * Intimidation is being afraid of what _might_ happen
-* Imagine another girl comes to you. She wants to be a singer. She really needs to sing. Specifically, a duet. But .... she's inexperienced.
-  * And she's afraid if she tries to do a duet with a partner, they will be annoyed, or laugh.
-  * Whether or not they _would_, she's _afraid_ they will.
+* People might be scared of not impressing you
+* The metaphor of the duet
+  * Imagine another girl comes to you. She wants to sing a duet with someone very badly. But .... she's inexperienced.
+  * She's afraid if she tries to do a duet with her chosen partner, they will be annoyed, or laugh.
+  * Whether or not they _would_ make fun of her, she's _afraid_ they will.
   * If they don't like her singing, then every time she sings, she'll remember, and that would spoil singing for her.
   * For her, it's easier to just keep _imagining_ singing, than to really sing.
-  * What advice would you give her?
+  * What would you tell her to do?
+* Overcoming fear is hard. I tried to do that at the museum
+  * Sometimes it doesn't work out. I thought Zephyr would like me summoning his mentor, but he didn't

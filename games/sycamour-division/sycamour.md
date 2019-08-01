@@ -38,6 +38,8 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 ![Arcturus 1](/uploads/sycamour-sycamour/arcturus-1.jpg "Arcturus 1")
 ![Arcturus 2](/uploads/sycamour-sycamour/arcturus-2.jpg "Arcturus 2")
 
+Theme song: [Arcturus - Game Over](https://www.youtube.com/watch?v=kQmtcaI3VEs)
+
 * Fought during the museum raid
 * Can create black holes
 ## Hammer Time
@@ -51,18 +53,23 @@ Theme song: [King Gizzard & The Lizard Wizard - Alter Me / Altered Beast I-IV](h
 
 * Identified by Zephyr as someone with powers similar to [Dubium](#dubium)
 * Spotted in the apartment complex where Kieran's gang went to during Session 11, later arrested
+## Out of Body
+![Rulenye](/uploads/sycamour-sycamour/rulenye.jpg "Rulenye")
+
+Theme song: [Gorillaz - Out of Body](https://www.youtube.com/watch?v=gawKAeTayNY)
+
+* Captured after the museum raid
+
 ## Robot Stop
 ![Robot Stop](/uploads/sycamour-sycamour/robot-stop.jpg "Robot Stop")
+
+Theme song: [King Gizzard & the Lizard Wizard - Robot Stop](https://www.youtube.com/watch?v=9p_Si21ig7c)
 
 * Technopath with swords
 * Arrested by police during the museum attack
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
 
-## Phaser
-![Rulenye](/uploads/sycamour-sycamour/rulenye.jpg "Rulenye")
-
-* Captured after the museum raid
 ## Person 3
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
 

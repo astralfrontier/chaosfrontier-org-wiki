@@ -45,6 +45,8 @@ Theme song: [Arcturus - Game Over](https://www.youtube.com/watch?v=kQmtcaI3VEs)
 ## Hammer Time
 ![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
 
+Theme song: [MC Hammer - U Can't Touch This](https://www.youtube.com/watch?v=otCpCn0l4Wo)
+
 * Guy involved in the museum attack in session 13
 * Hammer taken by Laser Hawk
 * Arrested by the police

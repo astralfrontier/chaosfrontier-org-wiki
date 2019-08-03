@@ -76,3 +76,7 @@ Suggested names are taken from Norwegian heavy metal bands.
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
 
 Suggested names: Mayhem
+## Person 4
+![Filene](/uploads/sycamour-sycamour/filene.jpg "Filene")
+
+* Ice powers

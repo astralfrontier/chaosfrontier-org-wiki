@@ -16,6 +16,7 @@
 * [Session 11](sycamour-division/session-11) - Team vs. Romanus. Friendship is magic.
 * [Session 12](sycamour-division/session-12) - Team vs. Mom. We build up to the museum attack.
 * [Session 13](sycamour-division/session-13) - Team vs. Museum. Laser Hawk gets a hammer.
+* [Session 14](sycamour-division/session-14) - Team vs. Van. Two villains down, and a hospital stay.
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

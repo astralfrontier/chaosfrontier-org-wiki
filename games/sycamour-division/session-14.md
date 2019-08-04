@@ -26,7 +26,7 @@
 * What can LH use to stop the van? Assess -> 9
 * LH will bodycheck the van with super-amped physiology -> 10
 
-https://i.kym-cdn.com/photos/images/newsfeed/000/603/353/05f.gif
+![](https://i.kym-cdn.com/photos/images/newsfeed/000/603/353/05f.gif)
 
 * Van is totalled. Smoke coming out of the engine. LH finds himself knocking on the barrier around the vehicle.
 * There's an old man looking through the window, who ducks.
@@ -35,7 +35,7 @@ https://i.kym-cdn.com/photos/images/newsfeed/000/603/353/05f.gif
 * LH: "do you know the kids are in here?" LH: "not sure, we gotta get this guy out." Nick: "don't you have a hammer for this?"
 * LH extracts comically large hammer from backpack. Carnival strength test! ITS HAMMER TIME.
 
-https://i.imgur.com/l2ypsXd.png
+![](https://i.imgur.com/l2ypsXd.png)
 
 * LH puts the hammer down -> 2  - feedback into Laser Hawk.
 
@@ -138,7 +138,7 @@ https://i.imgur.com/l2ypsXd.png
 * Cut from the hospital to a dump/warehouse. A big empty area filled with dirtpiles, a house-like structure inside.
 * The drone from the battle is flying down. Awaiting it is a cloaked figure (Bathsheva) and the Master of Puppets
 
-https://cdn.discordapp.com/attachments/572184988272033792/607387458602270770/oz.jpg
+![](https://cdn.discordapp.com/attachments/572184988272033792/607387458602270770/oz.jpg)
 
 * MoP throws drone at the wall, destroying it. "God fucking dammit!"
 * Bath: "calm down. We'll get them back eventually."

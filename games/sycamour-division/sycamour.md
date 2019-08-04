@@ -72,11 +72,10 @@ Theme song: [King Gizzard & the Lizard Wizard - Robot Stop](https://www.youtube.
 # Unidentified Members
 Suggested names are taken from Norwegian heavy metal bands.
 
-## Person 3
+## Glitterfreeze
 ![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
 
-Suggested names: Mayhem
-## Person 4
+## Lillian
 ![Filene](/uploads/sycamour-sycamour/filene.jpg "Filene")
 
 * Ice powers

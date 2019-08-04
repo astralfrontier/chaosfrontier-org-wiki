@@ -136,17 +136,15 @@
 # Cutscene!
 
 * Cut from the hospital to a dump/warehouse. A big empty area filled with dirtpiles, a house-like structure inside.
-* The drone from the battle is flying down. Awaiting it is a cloaked figure (Bathsheva) and the Master of Puppets
 
 ![](https://cdn.discordapp.com/attachments/572184988272033792/607387458602270770/oz.jpg)
 
-* MoP throws drone at the wall, destroying it. "God fucking dammit!"
-* Bath: "calm down. We'll get them back eventually."
-* Grabs phone, reveals stills of the team (prior to unmasking)
-* Some mysterious shenanigans targeting the team?
-* Cut to another drone flying over the city. Anna's car heading toward the PD with Caesar in the back.
-* "We have to wait for the dust to settle."
-* "Why are you so infatuated with him, Marlum?" "He's important to me."
+> The drone from the battle flies down to a warehouse, where a cloaked figure, Bathsheba, and the Master of Puppets await. It flies down to the ground, and MOP grabs it, throwing it at the wall. "GOD DAMN IT!"
+The cloaked figure speaks up. "Calm down." They take their cloak away, and reveals their face. "We'll get them back eventually. But now..." Marlum grabs his phone, and it reveals a still of Nick, Laser Hawk and Melody. "...We know who to target." He smiles, and looks at Bathsheba. "Have you found him?" She shakes her head. "I'll personally make sure he's delivered to you." Bathsheba says. "And I also know exactly where he is." She shows him a picture of Anna's car, currently heading to the P.D. "Though obviously, we have to wait for the dust to settle." And Marlum simply nods.
+
+> "Why are you so infatuated with him, Marlum?" "He's important to me."
+
+> i actually made the last 2 lines up on the spot since i realized there was no way for yall to notice its marlum lol
 
 [video](https://youtu.be/JImUVN9bJNM){.youtube}
 

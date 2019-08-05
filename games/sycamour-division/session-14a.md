@@ -1,5 +1,5 @@
 <!-- TITLE: Session 14 A -->
-<!-- SUBTITLE: A quick summary of Session 14 A -->
+<!-- SUBTITLE: Melody and Nick vs. Intimidation. Crushes, fear, and pinky promises. -->
 
 # Session 14a (2019-08-04)
 Melody looks up from her phone and notices Laser Hawk asleep on the chair next to the hospital bed.  She glances over at Nick, who very much still seems awake.  “Hey Nick, when I read the Book of Nick, you wrote that people might be intimidated by me, but I’m friendly and approachable and everyone should know that.  That was… confusing to me.  If you know I’m friendly and think everyone should know that, why would you think they’re intimidated by me?  Did someone tell you they’re scared of me?  Is it because I’m not human?  Are you not scared of me because you’re a superhero?”
@@ -35,6 +35,8 @@ Nick thinks a moment, putting aside how wary he is of doing anything that looks 
 Melody extends her pinky and hooks it around Nick's pinky very uncharacteristically solemnly and seriously.  "I, Melody Kobayashi, pinky swear that I will always do what I can to help you smile and be happy, no matter what it takes."  And she gives his pinky a slight squeeze with her pinky before she releases it.   Then her face breaks out into a full grin.  "YOU HAVE SUCH A COOL MIDDLE NAME, NICK!  ...and I don't have a middle name.  BUT YOURS IS SO COOL!"   (You can tell it was hard for her to keep composed for that long without saying it)
 
 Nick isn't sure how to react to this at all. His face burns for a moment. "Uh, thanks. It's uh, a patronymic. My dad's name was Andrei Hel. You'd be like, uhh."  How much does she want to think about this? "Melody Kieranovich Kobayashi." Should I ask? Yes. "Um, can.. if it's okay, can I ask you about that? About Kieran?"
+
+> Nick is wrong, it should be Melody Kieranovna Kobayashi
 
 “Of course you can ask, Nick.  Best friends can talk about anything.”  She stops and thinks for a couple minutes.  “I think… I’m confused.  I don’t understand.  If he is a bad guy and makes bad things for bad people, why do I want to be a hero so much?  Was I supposed to be a bad guy?  Was he a good guy who became a bad guy?  Was he tricked?  Or was I supposed to be a good guy that he planned on tricking into doing bad things?  I’m… confused.  And I’m sad if he’s a bad guy.  If I had a choice, I would want my creator to be a good guy…”
 

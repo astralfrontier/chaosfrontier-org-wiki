@@ -18,6 +18,7 @@
 * Desires leadership
 ## Master of Puppets
 ![Professor Puppeteer](/uploads/sycamour/professor-puppeteer.jpg "Professor Puppeteer")
+![Puppet](/uploads/sycamour-sycamour/puppet.jpg "Puppet")
 
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team

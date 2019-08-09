@@ -8,6 +8,7 @@
 # Sycamour Members
 ## Boytoy
 ![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")
+![Boytoy 2](/uploads/sycamour-sycamour/boytoy-2.jpg "Boytoy 2")
 
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")

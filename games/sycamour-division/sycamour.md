@@ -42,6 +42,9 @@ Theme song: [Arcturus - Game Over](https://www.youtube.com/watch?v=kQmtcaI3VEs)
 
 * Fought during the museum raid
 * Can create black holes
+## Glitterfreeze
+![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
+
 ## Hammer Time
 ![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
 
@@ -55,6 +58,10 @@ Theme song: [MC Hammer - U Can't Touch This](https://www.youtube.com/watch?v=otC
 
 * Identified by Zephyr as someone with powers similar to [Dubium](#dubium)
 * Spotted in the apartment complex where Kieran's gang went to during Session 11, later arrested
+## Lillian
+![Filene](/uploads/sycamour-sycamour/filene.jpg "Filene")
+
+* Ice powers
 ## Out of Body
 ![Rulenye](/uploads/sycamour-sycamour/rulenye.jpg "Rulenye")
 
@@ -69,13 +76,3 @@ Theme song: [King Gizzard & the Lizard Wizard - Robot Stop](https://www.youtube.
 
 * Technopath with swords
 * Arrested by police during the museum attack
-# Unidentified Members
-Suggested names are taken from Norwegian heavy metal bands.
-
-## Glitterfreeze
-![Z 2 Afnbg](/uploads/sycamour-sycamour/z-2-afnbg.jpg "Z 2 Afnbg")
-
-## Lillian
-![Filene](/uploads/sycamour-sycamour/filene.jpg "Filene")
-
-* Ice powers

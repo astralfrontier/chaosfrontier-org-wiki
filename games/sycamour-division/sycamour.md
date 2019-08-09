@@ -6,6 +6,9 @@
 * Their higher-ups have developed a process of transferring powers from existing supers to new ones, such as the Children of the Night
 * The process might involve blood transfusion
 # Sycamour Members
+## Boytoy
+![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")
+
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 
@@ -20,8 +23,6 @@
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
 
-## Toyman
-![Toyman 1](/uploads/sycamour-sycamour/toyman-1.jpg "Toyman 1")
 # Captured Members
 ## Altered Beast
 ![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")

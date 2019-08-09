@@ -66,6 +66,7 @@ Theme song: [MC Hammer - U Can't Touch This](https://www.youtube.com/watch?v=otC
 * Spotted in the apartment complex where Kieran's gang went to during Session 11, later arrested
 ## Lillian
 ![Lillian 1](/uploads/sycamour-sycamour/lillian-1.jpg "Lillian 1")
+![Lillian 2](/uploads/sycamour-sycamour/lillian-2.jpg "Lillian 2")
 
 * Ice powers
 ## Out of Body

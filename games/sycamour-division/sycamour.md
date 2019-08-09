@@ -44,6 +44,7 @@ Theme song: [Arcturus - Game Over](https://www.youtube.com/watch?v=kQmtcaI3VEs)
 * Can create black holes
 ## Glitterfreeze
 ![Glitterfreeze 2](/uploads/sycamour-sycamour/glitterfreeze-2.jpg "Glitterfreeze 2")
+![Glitterfreeze 3](/uploads/sycamour-sycamour/glitterfreeze-3.jpg "Glitterfreeze 3")
 ## Hammer Time
 ![Hammer Time](/uploads/sycamour-sycamour/hammer-time.jpg "Hammer Time")
 

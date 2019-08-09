@@ -3,8 +3,7 @@
 
 # General Notes
 * Sycamour seems to be a villain organization
-* Their higher-ups have developed a process of transferring powers from existing supers to new ones, such as the Children of the Night
-* The process might involve blood transfusion
+* Their higher-ups have developed a process of surgically transferring powers from existing supers to new ones, such as the Children of the Night
 # Sycamour Members
 ## Boytoy
 ![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")

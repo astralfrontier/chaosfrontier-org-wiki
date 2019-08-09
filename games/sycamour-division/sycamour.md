@@ -65,7 +65,7 @@ Theme song: [MC Hammer - U Can't Touch This](https://www.youtube.com/watch?v=otC
 * Identified by Zephyr as someone with powers similar to [Dubium](#dubium)
 * Spotted in the apartment complex where Kieran's gang went to during Session 11, later arrested
 ## Lillian
-![Filene](/uploads/sycamour-sycamour/filene.jpg "Filene")
+![Lillian 1](/uploads/sycamour-sycamour/lillian-1.jpg "Lillian 1")
 
 * Ice powers
 ## Out of Body

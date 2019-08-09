@@ -19,6 +19,9 @@
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
+
+## Toyman
+![Toyman 1](/uploads/sycamour-sycamour/toyman-1.jpg "Toyman 1")
 # Captured Members
 ## Altered Beast
 ![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")

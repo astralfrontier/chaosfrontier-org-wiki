@@ -43,6 +43,7 @@ Theme song: [Arcturus - Game Over](https://www.youtube.com/watch?v=kQmtcaI3VEs)
 * Fought during the museum raid
 * Can create black holes
 ## Glitterfreeze
+![Glitterfreeze 1](/uploads/sycamour-sycamour/glitterfreeze-1.jpg "Glitterfreeze 1")
 ![Glitterfreeze 2](/uploads/sycamour-sycamour/glitterfreeze-2.jpg "Glitterfreeze 2")
 ![Glitterfreeze 3](/uploads/sycamour-sycamour/glitterfreeze-3.jpg "Glitterfreeze 3")
 ## Hammer Time

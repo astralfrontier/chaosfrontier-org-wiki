@@ -76,7 +76,7 @@
 * Melody calls 911, reports on situation.
 * LH: "what's he acting weird about?" M: points at LH. points at her face. Points at LH. LH touches face. Oh. OMG. M: why are you freaking out? You know what your face looks like. LH puts hood up over head.
 * LH: "uhh-" Nick: "Dallas, it's okay." LH now in shock. Nick, hand on shoulder, it's okay.
-* Nick: "it's okay, Dallas, I understand why you lied to me, it's fine."
+* Nick: "it's okay, Dallas, I understand why you lied to me, it's fine." Comfort and Support -> 2
 * Dallas on the ground, lay in the fetal position
 * Nick is gonna go put a hole in concrete you guys. Melody please help LH recover.
 * Melody mimics LH's fetal position. "Don't know how to take care of you, but you were really cool, good job saving kids from poison candy."

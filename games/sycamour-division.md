@@ -20,7 +20,7 @@
   * [Session 14a](sycamour-division/session-14a) - Melody and Nick vs. Intimidation. Crushes, fear, and pinky promises.
 # Season 2
 * [Session 15](sycamour-division/session-15) - Team vs. The Media. The future of the Children of the Night.
-# Background
+# Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)
   * [Children of the Night](sycamour-division/children-of-the-night)
@@ -28,8 +28,7 @@
 * [Friends and family](sycamour-division/friends-family)
 * [School characters](sycamour-division/school-characters)
 * [Other characters](sycamour-division/other-characters)
-
-# Characters
+# Background
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
 * [Mr. Black explains analog](sycamour-division/mr-black-explains-analog) - Nick's mentor talks about books, music, and old things
 * [Ships](sycamour-division/ships) - What relationships have been identified by the fans of the game?

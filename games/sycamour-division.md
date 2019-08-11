@@ -18,6 +18,8 @@
 * [Session 13](sycamour-division/session-13) - Team vs. Museum. Laser Hawk gets a hammer.
 * [Session 14](sycamour-division/session-14) - Team vs. Van. Two villains down, and a hospital stay.
   * [Session 14a](sycamour-division/session-14a) - Melody and Nick vs. Intimidation. Crushes, fear, and pinky promises.
+# Season 2
+* [Session 15](sycamour-division/session-15) - Team vs. The Media. The future of the Children of the Night.
 # Background
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

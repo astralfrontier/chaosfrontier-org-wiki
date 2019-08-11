@@ -4,6 +4,11 @@
 # Graph
 ![Ships](/uploads/sycamour-other/ships.png "Ships")
 # Votes
+## Most team-centric
+**Lightshipping** (Laser Hawk/Melody)
+
+**Lightspeed** (Laser Hawk/Zephyr)
+
 ## Most realistic
 **Dallex** (Absentia/Laser Hawk)
 

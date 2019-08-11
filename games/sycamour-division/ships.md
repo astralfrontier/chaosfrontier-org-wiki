@@ -35,4 +35,6 @@
 ## Most likely to make Nick uncomfortable
 **Momlone** (Anna Hel/Marlone)
 
+**Lights and Sirens** (Anna Hel/Laser Hawk) aka Hell-Hawk
+
 [Theme song](https://www.youtube.com/watch?v=YtKqUptJ5Fc){.youtube}

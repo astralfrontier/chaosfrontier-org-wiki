@@ -26,7 +26,7 @@ Their history, however, was not without its many controversies. The biggest of t
 
 ## Melody
 ![Melody 1](/uploads/sycamour-red-vox/melody-1.png "Melody 1")
-![Melody](/uploads/sycamour/melody.jpg "Melody")
+![Melody 2](/uploads/sycamour-red-vox/melody-2.jpg "Melody 2")
 
 Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://www.youtube.com/watch?v=tPp-U4QonnM)
 

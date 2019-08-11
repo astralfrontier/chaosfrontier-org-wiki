@@ -10,6 +10,8 @@
 ## Most entertaining
 **Grand Prix** (Dubium/Zephyr) aka Speed Metal
 
+[Theme song](https://www.youtube.com/watch?v=Y4QbJRAWvRU){.youtube}
+
 ## True master ship of the game
 **Defying Gravity** (Begonias/Melody)
 

@@ -1,9 +1,11 @@
 <!-- TITLE: Ships -->
 <!-- SUBTITLE: Let the love flow -->
 
-# Fan Ships
-* Dallex (Absentia/Laser Hawk)
-* Erica/Melody
-* Grand Prix (Dubium/Zephyr) aka Speed Metal
-# Actual Ships
-* Bobsled (Grando/Dubium)
+# Votes
+Voted **most realistic**: Dallex (Absentia/Laser Hawk)
+
+Voted **most entertaining**: Grand Prix (Dubium/Zephyr) aka Speed Metal
+
+Voted **true master ship of the game**: Defying Gravity (Begonias/Melody)
+
+Voted **best name**: Bobsled (Grando/Dubium)

@@ -1,6 +1,8 @@
 <!-- TITLE: Ships -->
 <!-- SUBTITLE: Let the love flow -->
 
+# Graph
+![Ships](/uploads/sycamour-other/ships.png "Ships")
 # Votes
 ## Most realistic
 **Dallex** (Absentia/Laser Hawk)

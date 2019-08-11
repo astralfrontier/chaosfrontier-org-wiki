@@ -6,4 +6,4 @@
 * Erica/Melody
 * Speed Metal (Dubium/Zephyr)
 # Actual Ships
-* Grando-Dubium
+* Bobsled (Grando-Dubium)

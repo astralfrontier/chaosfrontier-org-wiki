@@ -14,6 +14,9 @@
 
 [Theme song](https://www.youtube.com/watch?v=Y4QbJRAWvRU){.youtube}
 
+## Most musical
+**Ayamika** (Erica/Melody)
+
 ## True master ship of the game
 **Defying Gravity** (Begonias/Melody)
 

@@ -4,6 +4,6 @@
 # Fan Ships
 * Dallex (Absentia/Laser Hawk)
 * Erica/Melody
-* Speed Metal (Dubium/Zephyr)
+* Grand Prix (Dubium/Zephyr) aka Speed Metal
 # Actual Ships
-* Bobsled (Grando-Dubium)
+* Bobsled (Grando/Dubium)

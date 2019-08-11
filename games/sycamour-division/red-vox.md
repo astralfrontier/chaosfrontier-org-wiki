@@ -43,7 +43,8 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 * Son of a police detective hoping to put his powers to good use
 
 ## Zephyr
-![Gz Suit](/uploads/sycamour/gz-suit.png "Gz Suit")
+![Zephyr](/uploads/sycamour-red-vox/zephyr.png "Zephyr")
+
 
 * Legacy, speedster
 * Inheritor of power - and enemies - but doesn't know much about the legacy yet

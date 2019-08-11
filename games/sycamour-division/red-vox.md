@@ -44,7 +44,7 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 
 ## Zephyr
 ![Zephyr](/uploads/sycamour-red-vox/zephyr.png "Zephyr")
-
+![Zephyr 2](/uploads/sycamour-red-vox/zephyr-2.png "Zephyr 2")
 
 * Legacy, speedster
 * Inheritor of power - and enemies - but doesn't know much about the legacy yet

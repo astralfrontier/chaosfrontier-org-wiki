@@ -27,7 +27,7 @@ Why would you laugh at a life as real and important as your own? How could you p
 Vemödalen is a consequence of sonder. Our world is all the same, but all our minds are unique. We take the seeds of ideas and plant them in others' minds with language. But the plant that produced the seed, and the new blossom that arises, will never be quite the same. But we don't appreciate the uniqueness of each growing idea in its own soil, because we can't experience the reality of any idea but the one in our own minds.
 
 # But who am I?
-Melody, you taught me that it's okay to be irrepressably yourself, and be happy with it. Laser Hawk, you showed me that the only thing more important than keeping your secret was saving my life. Zephyr, you reminded me that even when people criticize you, doing what's right is more important.
+Melody, you taught me that it's okay to be irrepressibly yourself, and be happy with it. Laser Hawk, you showed me that the only thing more important than keeping your secret was saving my life. Zephyr, you reminded me that even when people criticize you, doing what's right is more important.
 
 Grando and Dubium and Absentia taught me stuff too. They're not bad people now. They were made to be bad people, but not by anyone who understood them. They were just tools of someone else's will. And when Grando punched me, it wasn't because he was being a bad guy. It was to protect someone important to him.
 

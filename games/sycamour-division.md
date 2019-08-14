@@ -41,6 +41,7 @@
 * [On Discipline](sycamour-division/on-discipline) - Zephyrus, boot camp, and anger
 * [On Accidents](sycamour-division/on-accidents) - Quantum Punch and the value of sentiment
 * [On Purpose](sycamour-division/on-purpose) - a second visit to the museum as a superhero
+* [On Laughter](sycamour-division/on-laughter) - villainy, loneliness, and hope
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

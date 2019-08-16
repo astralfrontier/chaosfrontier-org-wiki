@@ -5,10 +5,8 @@
 * Sycamour seems to be a villain organization
 * Their higher-ups have developed a process of surgically transferring powers from existing supers to new ones, such as the Children of the Night
 # Sycamour Members
-## Boytoy
-![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")
-![Boytoy 2](/uploads/sycamour-sycamour/boytoy-2.jpg "Boytoy 2")
-
+## Bathshena
+![Bathshena](/uploads/sycamour-sycamour/bathshena.jpg "Bathshena")
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 
@@ -27,6 +25,11 @@ Theme song: [The Dear Hunter - Mr. Malum](https://youtu.be/eGIUAyeCGS8)
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
+### Boytoys
+![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")
+![Boytoy 2](/uploads/sycamour-sycamour/boytoy-2.jpg "Boytoy 2")
+
+* Puppet soldiers used by Master of Puppets
 # Captured Members
 ## Altered Beast
 ![Werewolf](/uploads/sycamour/werewolf.jpg "Werewolf")

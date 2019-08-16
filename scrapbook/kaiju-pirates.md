@@ -2,24 +2,30 @@
 <!-- SUBTITLE: A quick summary of Kaiju Pirates -->
 
 # Kaiju Pirates
-I suggested this as a setting for a specific Fate game, but I might flesh it out into its own thing.
+## Background
+**Kaiju Pirates** is a steampunk world, somewhere between Earth's 1890 and 1915. The continents are slowly sinking into the sea - or is the sea level rising? The world powers ensure their survival by harnessing the power of *kaiju*: giant monsters, leviathans, behemoths, call them what you will.
 
-The world of Kaiju Pirates is a world where giant monsters and leviathans of all shapes, sizes, and descriptions fill the role of traditional towns, vehicles, and other infrastructure. Pirates sail submerged in the bellies of enormous sea creatures converted into steampunk cyborgs or controlled through powerful nature magic. Entire trading downs ride atop the shells of gargantuan sea turtles, their course dictated by the ocean currents. Overhead, the rare roc or pteranodon cruises the skies, and its mysterious riders watch, observe, and calculate.
+Pirates sail submerged in the bellies of enormous sea creatures converted into steampunk cyborgs, or controlled via chemical or occult means. Entire trading downs ride atop the shells of gargantuan sea turtles, their course dictated by the ocean currents. Overhead, the rare roc or pteranodon cruises the skies, and its mysterious riders watch, observe, and calculate.
 
-On land, many giant monsters still roam free. Others are kept at bay with supernatural wards around major cities, while more have been enslaved, or simply killed and harvested.
+Kaiju on land are kept at bay via complex wards and barriers, or enslaved as weapons or tools, or even killed and harvested for their exotic biology. Many roam free, endangering both people and the old world order.
 
-Players could be pirates, living just beneath the waves in their whaleship, attacking weaker civilian targets or running from the military kraken transports of the Empire. Such living ships do battle with weapons such as swarms of sharks launched like torpedoes to savagely devour an enemy craft.
+## What do players do?
 
-Things to do:
-* Trade in, carouse, or raid the turtle-towns
-* Brawl with the Imperial Krakens
+* Piracy! Surface your whaleship to attack civilian transports - or military krakens from half a dozen nations
+* Privateering! Fly the flag of a favored nation, pursuing seaborne criminals and scoundrels for honor or revenge
+* Trading, carousing, or raiding the turtle-towns
 * Loot deep-sea treasure or booty on lost islands
 * Fight giant sea monsters! While inside a giant sea monster!
 * Explore half-submerged dungeons
-* Venture onto the kaiju-infested lands of the world
-* Various and sundry other forms of piracy. See here if you need ideas.
+* Venture onto the kaiju-infested lands of the world, in the name of plunder and peril
 
-Suggested Factions:
-* "The Empire" - because there is always one
-* Undead and/or necromancers who use leviathan skeletons as their ships & vehicles
+## Suggested Factions
+
+* The Great Powers - the surviving land-bound nations
+* Refugees or desperate soldiers from half-lost territories
 * Independent turtle-towns
+* Independent privateers and pirates
+# Archetypes
+# Careers
+# Skills
+# Talents

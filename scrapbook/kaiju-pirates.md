@@ -26,6 +26,10 @@ Kaiju on land are kept at bay via complex wards and barriers, or enslaved as wea
 * Independent turtle-towns
 * Independent privateers and pirates
 # Archetypes
+[List of Archetypes](kaiju-pirates/archetypes)
 # Careers
+[List of Careers](kaiju-pirates/careers)
 # Skills
+[List of Skills](kaiju-pirates/skills)
 # Talents
+[List of Talents](kaiju-pirates/talents)

@@ -17,6 +17,8 @@
 * M: Who knows more about fashion? N: We should ask.
 * Nick tries to cheat his way out of the conversation by getting the school paperwork done for the Children.
 
+![](https://cdn.discordapp.com/attachments/568962590844387354/612440548434771990/tombstone.jpg)
+
 ## Vacation and Cooking
 * Marlone texts Z: Turn on the TV. On the news, a journalist is ranting. The Children are being made out to be villains (but they kind of are)
 * Z: thought heroics would be more punching and less thinking. M: but you're good at thinking stuff out. Z: just a convenient coincidence. M: TV says there's no such thing as coincidence. Z: In real life there's always coincidence.
@@ -57,6 +59,8 @@
 * Alex: banks aren't good. Melody: is that why there's always villains in them? A: Probably.
 * Nick: it'd be challenging to stop a bank robbery. Alex: you guys want to rob a bank and we'll stop you? Nick: it's just a matter of time in this town.
 * Discussion of robbing banks.
+
+## The Bear
 * Meanwhile Dubium is playing Dig Dug, Grando has a bunch of coins & is doing the claw machine, constantly failing. There's a lot of psychic energy emanating from this claw machine. A burning building.
 * Nick is going to try and subtly help -> 6! Melody is interested in what he's doing. "You know, it's just a matter of physics..." +1 team. Nick marks Afraid
 * Grando screams with excitement & happiness. Burning-building feeling turns into a field of roses.
@@ -66,6 +70,8 @@
 * Alex: "I could have gotten that a year ago." Grando: "It wouldn't have been the same!" Dubium looks at Grando.
 * People looking at Grando after he screeched. "It's okay, he's very excitable."
 
+![](https://i.imgur.com/r9ABG8e.gif)
+
 ## Food Court
 * Burger joint, greasier the better, also has BBQ. Flame-grilled burgers.
 * Zephyr orders the double-layer Dangerburger.
@@ -74,6 +80,8 @@
 * Melody: "I got you chinese! The waiter said I'm a brave girl!" Nick: (sweats) "Yeah you are." Melody: "Funny how he knew that." Nick: "You're famous!"
 
 ## BURN
+![](https://cdn.discordapp.com/attachments/568962590844387354/612443778795700252/unknown.gif)
+
 * Nick tries the chinese, take a powerful blow -> 12
 * Nick's mind tries to save itself, so he shares the load, telepathically broadcasts feeling of super spiciness. The team is safe, the Children are safe, but everyone else...
 * People go for milk, drink water, whatever.

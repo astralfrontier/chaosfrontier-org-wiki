@@ -84,6 +84,7 @@
 
 * Nick tries the chinese, take a powerful blow -> 12
 * Nick's mind tries to save itself, so he shares the load, telepathically broadcasts feeling of super spiciness. The team is safe, the Children are safe, but everyone else...
+* UNIVERSAL SUFFERING.
 * People go for milk, drink water, whatever.
 * Children: "What did you do this time?" Z: "Someone get Nick a milk drink please."
 * Melody retrieves milk (leaving money to pay for it), it helps a little.

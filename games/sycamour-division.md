@@ -20,6 +20,7 @@
   * [Session 14a](sycamour-division/session-14a) - Melody and Nick vs. Intimidation. Crushes, fear, and pinky promises.
 # Season 2
 * [Session 15](sycamour-division/session-15) - Team vs. The Media. The future of the Children of the Night.
+* [Session 16](sycamour-division/session-16) - Team vs. The Mall. General Tso devastates Stardust Mall. The return of Amy.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

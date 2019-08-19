@@ -43,6 +43,7 @@
 * [On Accidents](sycamour-division/on-accidents) - Quantum Punch and the value of sentiment
 * [On Purpose](sycamour-division/on-purpose) - a second visit to the museum as a superhero
 * [On Laughter](sycamour-division/on-laughter) - villainy, loneliness, and hope
+* [On Illness](sycamour-division/on-illness) - blame, responsibility, and masks
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

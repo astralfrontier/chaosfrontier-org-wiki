@@ -43,7 +43,7 @@ Three would-be superheroes:
 
 * Lucas aka Unreal. He can turn invisible.
 * Marie aka Skullgirl. Has Marrow/Spike/bone release-style power
-* Alex aka Earthrise. Can control sand.
+* Bruno aka Earthrise. Can control sand.
 # Other Students
 ## David Everman
 ![David Everman](/uploads/sycamour-school/david-everman.jpg "David Everman")

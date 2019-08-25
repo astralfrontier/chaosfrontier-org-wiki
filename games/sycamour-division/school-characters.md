@@ -39,6 +39,12 @@
 # The Bunny Brigade
 ![Bunnybrigade](/uploads/sycamour-school/bunnybrigade.png "Bunnybrigade")
 
+> Lucas is that one kid with the bowl cut in the class. He's darker-skinned, and is not exactly the healthiest when it comes to weight. He normally wears whatever his mom picks out for him, and has a nice tone of brown for his hair.
+
+> Marie (Skullgirl) wears a dress to school every. single. day. She says its for a 'tactical advantage' regarding her powers but she probably just likes wearing dresses. Her hair is long, like, goes to your back long, and she never ties it. It's also completely dark.
+
+> Bruno is similarly darker-skinned, though it's more of a tan than anything, really. His hair is short, and pretty much always a mess. Every shirt he wears to school looks like its something he'd sleep on, though he doesn't care. His hair's also completely dark.
+
 Three would-be superheroes:
 
 * Lucas aka Unreal. He can turn invisible.

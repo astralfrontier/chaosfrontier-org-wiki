@@ -67,7 +67,7 @@
 
 * LH and Zephyr are getting a suit.
 
-### Girl talk
+## Girl talk
 
 * M: "Lucy, who are you going with?" Lucy: "Jeremy. Who else is there?" M: "There's other people in the world!" Melody pierces the mask -> 3! Before that: "Why, who are _you_ going to prom with?" M: "I don't know! I have three best friends!" Lucy: "which one do you wanna go with?" M: "I don't want to be a bad best friend!"
 * Lucy scans the room. Whispers. "Laser Hawk's taken." M: "Taken where?" L: "To the prom." M: "He's at the suit shop."
@@ -79,7 +79,7 @@
 * L: "Fine. Okay." Sits down, clearly in pain. M: "Do you need tylenol? A drink?" (Z: an alcoholic one)
 * Lucy walks away. "oh my god." Outside, the boys are waiting. L: "How do you deal with her?" We think the word is "cope".
 
-### Guy talk
+## Guy talk
 
 [video](https://www.youtube.com/watch?v=z_AgCzt9zcM){.youtube}
 

@@ -197,3 +197,6 @@
 * Melody, closer to Dallas (+Savior -Superior)
 * Nick, closer to Zephyr because he opened up about prom choice (+Mundane -Freak)
 * Laser Hawk, closer to Melody for giving advice (+Savior -Freak)
+
+# Notes for next time
+* An unasked question. Zephyr: "Melody sees me as a brother" "is that how you want to be seen?" - Nick will talk to Zephyr

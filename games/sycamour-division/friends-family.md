@@ -22,7 +22,7 @@
 * Kieran's younger sister
 * Melody's current caretaker
 
-# Kieran Davis
+## Kieran Davis
 ![Kieran Davis](/uploads/sycamour/kieran-davis.jpg "Kieran Davis")
 
 * Fiona's older brother

@@ -29,7 +29,10 @@
 * Programmer/creator of Melody
 * Seen in Nick Knack's ESP vision as interacting with Sycamour, giving a thumb drive
 * Arrested in session 11 after aiding Sycamour with robot creation
+## Sakura Hayashi
+![Sakura Hayashi](/uploads/sycamour-friends-family/sakura-hayashi.jpg "Sakura Hayashi")
 
+The youngest member of Utau, age 13, rarely featured in solos but beloved by fans that have plastered the internet with cute chibi fanart of her likeness.  Her voice is youthful, sweet, and enthusiastic, but more limited in range than the other vocalists.  Her personality is bubbly and energetic, which is matched by her dance style.  “Adorable” is the word most commonly used to describe her.  Her bio in the CD jackets lists her favorite color as pink, her favorite instrument as the flute, and her favorite animal as bunnies.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

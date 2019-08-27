@@ -33,6 +33,10 @@
 ![Sakura Hayashi](/uploads/sycamour-friends-family/sakura-hayashi.jpg "Sakura Hayashi")
 
 The youngest member of Utau, age 13, rarely featured in solos but beloved by fans that have plastered the internet with cute chibi fanart of her likeness.  Her voice is youthful, sweet, and enthusiastic, but more limited in range than the other vocalists.  Her personality is bubbly and energetic, which is matched by her dance style.  “Adorable” is the word most commonly used to describe her.  Her bio in the CD jackets lists her favorite color as pink, her favorite instrument as the flute, and her favorite animal as bunnies.
+## Kyoko Miyazaki
+![Kyoko](/uploads/sycamour-friends-family/kyoko.jpg "Kyoko")
+
+Member of Utau, age 15.  Her voice possesses a soft, pleasing tone that is soothing to the ears.  Fans refer to her as “Lullaby” for the peaceful and serene sound she brings to ballads, where the majority of her featured solos lie.  She always seems to have a dreamy look on her face in photos, and she moves with a relaxed grace in a lot of her dancing.  Her bio lists her favorite color as blue, her favorite instrument as the koto, and her favorite animal as swans.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

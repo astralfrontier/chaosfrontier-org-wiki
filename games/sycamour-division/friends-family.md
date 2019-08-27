@@ -41,6 +41,11 @@ Member of Utau, age 15.  Her voice possesses a soft, pleasing tone that is sooth
 ![Akane](/uploads/sycamour-friends-family/akane.jpg "Akane")
 
 Spunky and high energy, do not mess with age 15 Akane, or she will make you regret it.  Her loud, enthusiastic voice can get any crowd clapping along to the rhythm.  She tends to be a featured soloist in a lot of high tempo rhythmic pieces, and her quick precise motions are attention-grabbing on stage.  She has an impressive range, but she prefers belting in a comfortable middle register.  She tends to grin mischievously more than she smiles in most of her photos.  While she is quick to laugh, she is also quick to aggravate, and her forthright personality will let everyone know which she is experiencing in the moment.  Her bio lists her favorite color as yellow, her favorite instrument as the bass drum, and her favorite animal as cheetahs.
+
+## Yukari Sano
+![Yukari](/uploads/sycamour-friends-family/yukari.jpg "Yukari")
+
+Age 16, member of Utau.  Standoffish to all but her closest friends, her clear, sharp tones are nothing short of perfection.  Hardworking, serious, and somewhat bossy, Yukari is known for amazing execution on vocally challenging solos and having the largest range of the Utau members.  She doesn’t always get along with Akane.  Her bio lists her favorite color as violet, her favorite instrument as the violin, and her favorite animal as bears.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

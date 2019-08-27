@@ -30,6 +30,8 @@ Their history, however, was not without its many controversies. The biggest of t
 
 Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://www.youtube.com/watch?v=tPp-U4QonnM)
 
+> Age 16, member of Utau.  Upbeat and cheerful, it’s hard to be sad when Melody is around.  Her range is impressive and she receives a fair amount of solos over a variety of different styles due to her flexibility.  Her voice is commonly described as “uplifting” by fans, and her beaming smile is iconic.  Her bio lists her favorite color as purple, her favorite instrument as the keyboard, and her favorite animal as hummingbirds.
+
 * Newborn, light and sound powers
 * Former pop idol turned superhero
 

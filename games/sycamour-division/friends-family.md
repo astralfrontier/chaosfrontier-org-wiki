@@ -50,6 +50,9 @@ Age 16, member of Utau.  Standoffish to all but her closest friends, her clear, 
 ## Riko Kojima
 ![Riko](/uploads/sycamour-friends-family/riko.jpg "Riko")
 Age 17, member of Utau.  Painfully shy offstage, Riko is only able to overcome her shyness when the spotlights hit the stage; that’s when her happy tones and positive personality shine through with confidence.  She is sensitive, kind, and has a tendency to cry easily.  Her bio lists her favorite color as peach, her favorite instrument as the panpipes, and her favorite animal as cats.
+## Megumi Sugimoto
+![Megumi](/uploads/sycamour-friends-family/megumi.jpg "Megumi")
+Age 17, leader of Utau.  As the main soloist of Utau, she is also the most famous member.  Confident, poised, and talented, Megumi is the unquestionable star of Utau.  Graceful on her feet and masterful with her vocals, she brings the audience to their feet and the tears to their eyes.  Her giggle is as melodic as her singing; her walk as elegant as her dancing.  She is the member the others  most often turn to for advice when they are troubled. Her bio lists her favorite color as red, her favorite instrument as the guitar, and her favorite animal as gazelles.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

@@ -46,6 +46,10 @@ Spunky and high energy, do not mess with age 15 Akane, or she will make you regr
 ![Yukari](/uploads/sycamour-friends-family/yukari.jpg "Yukari")
 
 Age 16, member of Utau.  Standoffish to all but her closest friends, her clear, sharp tones are nothing short of perfection.  Hardworking, serious, and somewhat bossy, Yukari is known for amazing execution on vocally challenging solos and having the largest range of the Utau members.  She doesn’t always get along with Akane.  Her bio lists her favorite color as violet, her favorite instrument as the violin, and her favorite animal as bears.
+
+## Riko Kojima
+![Riko](/uploads/sycamour-friends-family/riko.jpg "Riko")
+Age 17, member of Utau.  Painfully shy offstage, Riko is only able to overcome her shyness when the spotlights hit the stage; that’s when her happy tones and positive personality shine through with confidence.  She is sensitive, kind, and has a tendency to cry easily.  Her bio lists her favorite color as peach, her favorite instrument as the panpipes, and her favorite animal as cats.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

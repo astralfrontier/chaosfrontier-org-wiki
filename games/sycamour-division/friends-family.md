@@ -37,6 +37,10 @@ The youngest member of Utau, age 13, rarely featured in solos but beloved by fan
 ![Kyoko](/uploads/sycamour-friends-family/kyoko.jpg "Kyoko")
 
 Member of Utau, age 15.  Her voice possesses a soft, pleasing tone that is soothing to the ears.  Fans refer to her as “Lullaby” for the peaceful and serene sound she brings to ballads, where the majority of her featured solos lie.  She always seems to have a dreamy look on her face in photos, and she moves with a relaxed grace in a lot of her dancing.  Her bio lists her favorite color as blue, her favorite instrument as the koto, and her favorite animal as swans.
+## Akane Ishikawa
+![Akane](/uploads/sycamour-friends-family/akane.jpg "Akane")
+
+Spunky and high energy, do not mess with age 15 Akane, or she will make you regret it.  Her loud, enthusiastic voice can get any crowd clapping along to the rhythm.  She tends to be a featured soloist in a lot of high tempo rhythmic pieces, and her quick precise motions are attention-grabbing on stage.  She has an impressive range, but she prefers belting in a comfortable middle register.  She tends to grin mischievously more than she smiles in most of her photos.  While she is quick to laugh, she is also quick to aggravate, and her forthright personality will let everyone know which she is experiencing in the moment.  Her bio lists her favorite color as yellow, her favorite instrument as the bass drum, and her favorite animal as cheetahs.
 # Nick Knack
 ## Anna Hel
 ![Anna Hel](/uploads/sycamour/anna-hel.jpg "Anna Hel")

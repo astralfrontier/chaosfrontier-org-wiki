@@ -28,6 +28,8 @@ https://docs.google.com/spreadsheets/d/1UtCzFk86ikOY41o00cIDqhfMOFvwmnjoDagAhr-6
 **Lights and Sirens** (Anna Hel/Laser Hawk) aka Hell-Hawk
 
 # Songs
+## Melodnick
+[Theme song](https://www.youtube.com/watch?v=VGbsrrkZm1s){.youtube}
 ## Dallex
 
 [Theme song](https://www.youtube.com/watch?v=FaY5-LGYJKc){.youtube}

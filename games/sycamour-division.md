@@ -28,6 +28,7 @@
   * [Children of the Night](sycamour-division/children-of-the-night)
 * [Independent heroes and villains](sycamour-division/independent)
 * [Friends and family](sycamour-division/friends-family)
+  * [Utau](sycamour-division/utau)
 * [School characters](sycamour-division/school-characters)
 * [Other characters](sycamour-division/other-characters)
 # Background

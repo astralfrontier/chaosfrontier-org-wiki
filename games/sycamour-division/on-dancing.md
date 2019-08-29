@@ -6,7 +6,7 @@ I asked a girl to go to a dance with me. She said yes. And she said she was goin
 
 I said earlier we could go as friends, because I don't think she really gets what feelings of love are, or what romance really is. But of course, going dancing with someone means I'll start thinking about those things myself.
 
-One time I was on my phone and my mom said, "that must be something really good on there." I looked up and realized she was staring at me with a smile. And I knew I was grinning, and just hadn't realized it. What was causing it? Melody was asking why shower curtains don't come in pull-up style, like Venetian blinds. And I had no answer, but it was such a great question. But I was just happy to be talking to her.
+One time I was on my phone and my mom said, "that must be something really good on there." I looked up and realized she was staring at me with a smile. And I knew I was grinning, and just hadn't realized it. What was causing it? Melody was asking why shower curtains don't come in pull-up style, like Venetian blinds, the way window curtains do. And I had no answer, but it was such a great question. But I was just happy to be talking to her.
 
 I have different feelings for all the people I call "best friend".
 

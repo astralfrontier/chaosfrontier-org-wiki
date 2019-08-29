@@ -26,6 +26,10 @@ And I'm scared that I'd be selfish with that. It's no good if she's my lantern, 
 
 Now that I know what it feels like, maybe I could stumble my way through the dark, or find another source of light inside my own heart. But I don't know if anyone would see me one day and ask, "hey, why do you have a big goofy grin on your face?"
 
+It felt like Begonias had a light that went out for her. It felt like she was shut up in the dark, in a house that was a prison. I think she wants to find her own light again, and I couldn't stand the thought that she wouldn't. I don't know how I can help her, but with my friends with me, I know that I have to try.
+
+Is that also love?
+
 I don't know.
 
 It might be that I'm feeling something someone else does.

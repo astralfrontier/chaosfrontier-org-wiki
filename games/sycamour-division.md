@@ -45,6 +45,7 @@
 * [On Purpose](sycamour-division/on-purpose) - a second visit to the museum as a superhero
 * [On Laughter](sycamour-division/on-laughter) - villainy, loneliness, and hope
 * [On Illness](sycamour-division/on-illness) - blame, responsibility, and masks
+* [On Dancing](sycamour-division/on-dancing) - the question, the prom, and the self
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

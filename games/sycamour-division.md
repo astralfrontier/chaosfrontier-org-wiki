@@ -36,6 +36,7 @@
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
 * [Mr. Black explains analog](sycamour-division/mr-black-explains-analog) - Nick's mentor talks about books, music, and old things
 * [Ships](sycamour-division/ships) - What relationships have been identified by the fans of the game?
+* [NickNotes](sycamour-division/nick-notes) - assorted notes for Nick
 
 ## Nick's diary entries
 * [On Ghosts](sycamour-division/on-ghosts) - memory is how the living interact with the dead

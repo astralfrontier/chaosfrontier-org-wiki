@@ -19,7 +19,7 @@ Session is now starting at 4:30 Pacific/7:30 Eastern.
 ## The conversation!
 
 * Nick is gonna track down Zephyr. Z: Whole team? N: Nope.
-* Nick: you said Melody sees you as a brother. How do you want to see you?
+* Nick: you said Melody sees you as a brother. How do you want her to see you?
 * Z: That's not really important. We have to deal with Sycamour
 * N: If you don't resolve this, Melody's gonna pick up on it. She'll blame herself & be hurt.
 * Z: You can be a bit of a bastard. N: I'm being her best friend right now

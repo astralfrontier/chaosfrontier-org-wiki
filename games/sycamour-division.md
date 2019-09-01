@@ -22,6 +22,7 @@
 * [Session 15](sycamour-division/session-15) - Team vs. The Media. The future of the Children of the Night.
 * [Session 16](sycamour-division/session-16) - Team vs. The Mall. General Tso devastates Stardust Mall. The return of Amy.
 * [Session 17](sycamour-division/session-17) - Team vs. Dresses. Prom dates are made.
+* [Session 18](sycamour-division/session-18) - Team vs. Craig. We kidnap a kid on the orders of the world's most indecisive mother.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

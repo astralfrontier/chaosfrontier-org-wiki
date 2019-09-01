@@ -181,3 +181,6 @@ Session is now starting at 4:30 Pacific/7:30 Eastern.
 * Dallas, closer to Melody for the puppet save (+Freak -Superior)
 * Nick, closer to Zephyr for the talk (+Freak -Savior)
 * Melody, closer to LH for being the most normal (+Freak -Mundane)
+
+# Notes for next time
+Prom soundtrack: https://www.youtube.com/playlist?list=PLeTBp222I-q3kYT4kFE7Q7Jkv2zmvb-6L

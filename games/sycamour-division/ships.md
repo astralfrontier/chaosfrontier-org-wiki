@@ -28,6 +28,8 @@ https://docs.google.com/spreadsheets/d/1UtCzFk86ikOY41o00cIDqhfMOFvwmnjoDagAhr-6
 **Lights and Sirens** (Anna Hel/Laser Hawk) aka Hell-Hawk
 
 # Songs
+## Dallas Taxes
+[Theme song](https://www.youtube.com/watch?v=-9GW-09bBVc){.youtube}
 ## Melodnick
 [Theme song](https://www.youtube.com/watch?v=VGbsrrkZm1s){.youtube}
 ## Dallex

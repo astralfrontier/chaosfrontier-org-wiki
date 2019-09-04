@@ -53,6 +53,7 @@
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)
+* [ROMANUS Lyrics](sycamour-division/romanus-lyrics)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

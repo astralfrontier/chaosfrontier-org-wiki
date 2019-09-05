@@ -50,6 +50,7 @@
 * [On Laughter](sycamour-division/on-laughter) - villainy, loneliness, and hope
 * [On Illness](sycamour-division/on-illness) - blame, responsibility, and masks
 * [On Dancing](sycamour-division/on-dancing) - the question, the prom, and the self
+  * [On Dancing Update](sycamour-division/on-dancing-update) - how is learning to dance working out?
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

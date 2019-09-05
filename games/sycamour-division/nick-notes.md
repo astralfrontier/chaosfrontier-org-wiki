@@ -18,3 +18,5 @@
 * "Because we are your friends, if you get taken away from us, we would come get you the same way."
 * "The whole world couldn't stop me, if I was coming to find you."
 * "But we don't get to reprogram you either. You get to choose what you want to do."
+* "Romanus used his mind control on me too. I couldn't fight back, all I could do was run away. I know what it's like to not be yourself."
+* "But when that happened to me, all of you came and saved me."

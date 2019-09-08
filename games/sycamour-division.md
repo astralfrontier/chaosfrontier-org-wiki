@@ -23,6 +23,7 @@
 * [Session 16](sycamour-division/session-16) - Team vs. The Mall. General Tso devastates Stardust Mall. The return of Amy.
 * [Session 17](sycamour-division/session-17) - Team vs. Dresses. Prom dates are made.
 * [Session 18](sycamour-division/session-18) - Team vs. Craig. We kidnap a kid on the orders of the world's most indecisive mother.
+* [Session 19](sycamour-division/session-19) - Team vs. Prom. Dancing, fears, and kidnapping.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

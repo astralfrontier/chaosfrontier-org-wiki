@@ -56,6 +56,7 @@
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)
 * [ROMANUS Lyrics](sycamour-division/romanus-lyrics)
+* [Can't Tell Ma I'm Laser Lyrics](sycamour-division/cant-tell-ma-im-laser-lyrics)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

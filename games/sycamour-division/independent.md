@@ -12,6 +12,8 @@
 Pronounciation:
 
 [video](https://www.youtube.com/watch?v=e_lhPd372I8){.youtube}
-
+## Superbug
+* Detective, mentioned in session 19.
+* Fans are shipping them with Begonias.
 ## Telecoast
 ![Begonias](/uploads/sycamour-independent/begonias.jpg "Begonias")

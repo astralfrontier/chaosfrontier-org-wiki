@@ -16,7 +16,7 @@
 ### Vanya Novikov
 ![Vanya](/uploads/sycamour-school/vanya.jpg "Vanya")
 
-* Brother of Hans, who was threatened by Sycamour
+* Sister of Hans, who was threatened by Sycamour
 * Knows Laser Hawk's secret ID and talked to him in session 19
 ## Library
 ### Emily Ambrose

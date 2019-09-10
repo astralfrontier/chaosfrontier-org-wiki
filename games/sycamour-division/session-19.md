@@ -51,7 +51,7 @@
 
 * Dallas is dancing with Alex! Girl photographer! "This one's going in the books!"
 
-![](https://cdn.discordapp.com/attachments/572184988272033792/620046850833252372/20190907_191249.jpg)
+![Vanya](/uploads/sycamour-school/vanya.jpg "Vanya")
 
 * Dallas knows her! She's Vanya, head (not leader) of Journalism club.
 * V to Dallas: "Can we talk? Privately?" A: "don't be surprised if I get taken."

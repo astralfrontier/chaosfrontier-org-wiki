@@ -10,3 +10,5 @@ You get to know somebody by observing them. When you do that enough, you build u
 In our minds, we don't interact with the real person, but with the ghost. You can try it, yourself. Think of someone close to you. Say something that you think they _would_ say, but that they've never said. Can you do it?
 
 We know something is wrong with our friends and family when the ghost doesn't agree with the real person. Should she be smiling right now? She's not. Why not? That is also empathy.
+
+Sometimes we want to impress other people. We don't always want everything about ourselves to be known. We _want_ them to see only part of us - the best parts. They'll fill in the rest themselves, hopefully with good things.

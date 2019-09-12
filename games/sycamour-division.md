@@ -24,6 +24,7 @@
 * [Session 17](sycamour-division/session-17) - Team vs. Dresses. Prom dates are made.
 * [Session 18](sycamour-division/session-18) - Team vs. Craig. We kidnap a kid on the orders of the world's most indecisive mother.
 * [Session 19](sycamour-division/session-19) - Team vs. Prom. Dancing, fears, and kidnapping.
+  * [Session 19a](sycamour-division/session-19a) - Melody and Nick vs. Mind Control. Love, supervillainy, and John Legend.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

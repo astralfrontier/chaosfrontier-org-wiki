@@ -38,7 +38,6 @@
 * [Nick Knack equipment](sycamour-division/nick-knack-equipment) - what does Nick carry around and use for his powers?
 * [Mr. Black explains analog](sycamour-division/mr-black-explains-analog) - Nick's mentor talks about books, music, and old things
 * [Ships](sycamour-division/ships) - What relationships have been identified by the fans of the game?
-* [NickNotes](sycamour-division/nick-notes) - assorted notes for Nick
 * [New Moves](sycamour-division/new-moves) - suggestions for custom moves
 
 ## Nick's diary entries
@@ -53,7 +52,6 @@
 * [On Illness](sycamour-division/on-illness) - blame, responsibility, and masks
 * [On Dancing](sycamour-division/on-dancing) - the question, the prom, and the self
   * [On Dancing Update](sycamour-division/on-dancing-update) - how is learning to dance working out?
-* [On Empathy](sycamour-division/on-empathy) - what is love? Baby don't hurt me
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

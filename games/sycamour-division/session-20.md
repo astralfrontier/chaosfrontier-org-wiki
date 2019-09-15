@@ -5,15 +5,10 @@
 ## Love Letter
 
 > Dear Lewis,
-
 > "Hey kid. Remember when I told you I was going to train you? Yeah, it was less than just being able to do some crummy old swords." Roll me +Superior, and, on a hit, choose one. On a 10+ choose two instead!
-
 > * "Being able to not be touched is just the beginning. You're turning into air, and air is rather... Dangerous in your hands. So why don't we try to incorporate that?" You focused on your phasing powers in one training session, and managed to unlock a new power relating to your phasing powers, specifically, a way to turn defense into offense too. What's that power, and how did you knock Auster off his feet when you first used it?
-
 > * "My new barrier powers and wind manipulation are less different than you'd think. So why don't you take a page from my book, and try to get some more defense going into your arsenal?" You and Auster had a training session that focused solely on copying his new powers. Looking back, you can make some pretty good wind walls if you really try now. From now on, you can make nearly impassable wind walls at a whim, and, as a plus, how did you teach Auster something about his powers not even he knew about?
-
 > * "You wanted to learn how to incorporate your powers into a proper Zephyrous fighting style with those swords, but that's only for close range combat. Sometimes, you'll fight people you can't get close to. So what better thing to do, than finding a way to weaponize those swords from a range?" You and Auster had a training session where all you did was try to touch Auster with those swords of yours, and you found a pretty ingenious way to get through his defenses at a range. What was that way, and where did you end up cutting Auster in when you finally got your hit?
-
 * Lewis rolls -> 10!
   * Idea might change by the time the session comes around, but for the moment I'm thinking of phasing out of sight (a ninjas presence should be like the wind; felt, but never seen) provided that's allowed.
   * And with the wind walls, I was thinking the application that Zephyr figured out that Auster hadn't, is using mini barriers as platforms in order to effectively 'run on air'

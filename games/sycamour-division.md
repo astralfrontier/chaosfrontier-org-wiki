@@ -25,6 +25,7 @@
 * [Session 18](sycamour-division/session-18) - Team vs. Craig. We kidnap a kid on the orders of the world's most indecisive mother.
 * [Session 19](sycamour-division/session-19) - Team vs. Prom. Dancing, fears, and kidnapping.
   * [Session 19a](sycamour-division/session-19a) - Melody and Nick vs. Mind Control. Love, supervillainy, and John Legend.
+* [Session 20](sycamour-division/session-20) - Team vs. Dates. Zephyr defeats Nightquake. Vanya defeats Dallas.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

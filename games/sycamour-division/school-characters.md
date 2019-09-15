@@ -41,6 +41,10 @@
 * Working on a takeover of all sports-related club activity at school
 
 ## Track Club
+### Abby
+![Abby](/uploads/sycamour-school/abby.jpg "Abby")
+
+* Danced with Lewis in session 20
 ### Lance Hopper
 ![Lance Hopper](/uploads/sycamour-school/lance-hopper.jpg "Lance Hopper")
 

@@ -25,6 +25,7 @@ Theme song: [The Dear Hunter - Mr. Malum](https://youtu.be/eGIUAyeCGS8)
 * Introduced during Session 7 at the Sycamour Factory
 * Sent numerous puppets to attack the team
 * Escaped via rocket before he could be caught
+* Identified by Superbug as "Cliff Burton" in session 20
 ### Boytoys
 ![Boytoy 1](/uploads/sycamour-sycamour/boytoy-1.jpg "Boytoy 1")
 ![Boytoy 2](/uploads/sycamour-sycamour/boytoy-2.jpg "Boytoy 2")

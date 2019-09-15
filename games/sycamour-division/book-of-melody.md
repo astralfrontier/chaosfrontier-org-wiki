@@ -94,6 +94,7 @@ Nick agreed to help me with my plan!  And he also had a really great plan, too. 
 The rest of the night was really confusing.
 ## Friendship Rules
 I'm so confused. What am I supposed to do? I assume I try to act normal? But we just broke a whole bunch of friend rules? Think, Aya, think.
+
 So I didn't know there were friend rules. And I broke them. If I had felt I was doing something wrong, I wouldn't have done it. I would have put a stop to it. But even after I knew, I -still- knowingly participated in rule-breaking behavior.
 
 What happens when you deliberately decide to break friend rules? What does that mean? I really need to talk to someone. Until I can, I will have to do my best. Everything was okay in the end, after all. I'll figure it out. And I'll just have to continue to be Aya in the meantime. I did promise tonight I would do what I want to do and not what I think I'm supposed to do. I guess that means even if I break rules. Maybe that's the best thing I can do for now.

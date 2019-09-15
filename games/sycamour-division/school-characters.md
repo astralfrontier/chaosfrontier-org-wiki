@@ -36,7 +36,7 @@
 ![Sports Club](/uploads/sycamour/sports-club.jpg "Sports Club")
 
 * Sophia, Amy, Judie, Laura
-  * Amy is dating Eleanor (tennis club)
+  * Amy was dating Eleanor (tennis club), but they broke up for non-Nick reasons
 * Recruited Melody to join them
 * Working on a takeover of all sports-related club activity at school
 

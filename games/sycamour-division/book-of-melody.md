@@ -87,7 +87,13 @@ Grando referred to Nick as my "translator". After talking to Dallas about dates 
 I also have determined and verified "more than friends" means "friends" is there, too. Being a teammate and being a friend are two different things, but you can be a teammate without being a friend, or a friend without being a teammate. I don't think you can be "more than friends" without being friends. I think this is an important conclusion. Overall, I'm proud of what I have learned today.
 ## Dallas as Savior
 Dallas also verified my plan to help the team save me if I'm in trouble is a good plan. I'm relieved. If he thinks it will work, then it definitely should. I hope I never ever need help from my friends like that. I hope they never have to rescue me from being something I never wanted to become. Dallas told me they wouldn't let it happen. I believe him, and I do feel better, because I know he's right. But I'll feel even better once I have finished my plan. Because then I will know I've given them every possible tool to stop the worst case scenario. I'm so lucky I have a friend like Dallas. I think in a way he's also like a member of my family. And I know he really will do anything to help me if he feels like I need help. He will do his best to help me always if he can. That really means a lot to me. I hope he knows how much I appreciate him.
+# Post-Prom
 ## Prauma
 Nick agreed to help me with my plan!  And he also had a really great plan, too.  He’s going to help train me to resist being reprogrammed and other types of mind control!  I’m so happy that I can actively try to do something to protect myself so that the worst-case scenario might not ever happen!  I feel so much better knowing that I can work toward being stronger and maybe prevent something like that from ever happening!
 
 The rest of the night was really confusing.
+## Friendship Rules
+I'm so confused. What am I supposed to do? I assume I try to act normal? But we just broke a whole bunch of friend rules? Think, Aya, think.
+So I didn't know there were friend rules. And I broke them. If I had felt I was doing something wrong, I wouldn't have done it. I would have put a stop to it. But even after I knew, I -still- knowingly participated in rule-breaking behavior.
+
+What happens when you deliberately decide to break friend rules? What does that mean? I really need to talk to someone. Until I can, I will have to do my best. Everything was okay in the end, after all. I'll figure it out. And I'll just have to continue to be Aya in the meantime. I did promise tonight I would do what I want to do and not what I think I'm supposed to do. I guess that means even if I break rules. Maybe that's the best thing I can do for now.

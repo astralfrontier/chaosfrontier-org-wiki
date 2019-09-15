@@ -18,6 +18,8 @@
 
 * Sister of Hans, who was threatened by Sycamour
 * Knows Laser Hawk's secret ID and talked to him in session 19
+* Knows Zephyr's secret ID as of session 20
+* Lesbian, shot down Lewis at prom
 ## Library
 ### Emily Ambrose
 ![Emily Ambrose](/uploads/sycamour-school/emily-ambrose.jpg "Emily Ambrose")
@@ -34,6 +36,7 @@
 ![Sports Club](/uploads/sycamour/sports-club.jpg "Sports Club")
 
 * Sophia, Amy, Judie, Laura
+  * Amy is dating Eleanor (tennis club)
 * Recruited Melody to join them
 * Working on a takeover of all sports-related club activity at school
 

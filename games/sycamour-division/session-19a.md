@@ -2,7 +2,7 @@
 <!-- SUBTITLE: Melody and Nick vs. Mind Control. Love, supervillainy, and John Legend. -->
 
 # Session 19a (2019-09-11)
-> The timing of this has yet to be determined, but it's sometime during the night of prom
+> Happens midway through session 20
 
 "Hey Nick?  Can I talk to you for a few minutes?"
  

@@ -110,6 +110,7 @@ The game explores different definitions of "monster", and illustrate how power a
 # Incomplete Story Ideas
 * [Control and Chaos](scrapbook/control-and-chaos) - a two character comedy about psychic powers and domestication
 * [Road Trip](scrapbook/road-trip) - a post-apoc story
+* [Silverline Five](scrapbook/silverline-five) - a solo-play Masks game turned into a story
 
 ## Disney animated variants
 

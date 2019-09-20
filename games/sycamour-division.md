@@ -58,7 +58,7 @@
 * [The Book of Melody](sycamour-division/book-of-melody)
 * [ROMANUS Lyrics](sycamour-division/romanus-lyrics)
 * [Can't Tell Ma I'm Laser Lyrics](sycamour-division/cant-tell-ma-im-laser-lyrics)
-* [Lewis' Mom Lyrics](sycamour-division/lewis-mom-lyrics)
+* [Zephyr's Mom Lyrics](sycamour-division/zephyrs-mom-lyrics)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

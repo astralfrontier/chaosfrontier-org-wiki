@@ -36,6 +36,8 @@ Theme song: [The Good Place Song | Pobody’s Nerfect | Whitney Avalon](https://
 * Former pop idol turned superhero
 
 ## Nick Knack
+![Nick Knack](/uploads/sycamour-red-vox/nick-knack.png "Nick Knack")
+
 ![Nick Knack](/uploads/sycamour/nick-knack.png "Nick Knack")
 
 ![Nicholai Hel](/uploads/sycamour/nicholai-hel.jpg "Nicholai Hel")

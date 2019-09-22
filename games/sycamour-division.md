@@ -26,6 +26,7 @@
 * [Session 19](sycamour-division/session-19) - Team vs. Prom. Dancing, fears, and kidnapping.
   * [Session 19a](sycamour-division/session-19a) - Melody and Nick vs. Mind Control. Love, supervillainy, and John Legend.
 * [Session 20](sycamour-division/session-20) - Team vs. Dates. Zephyr defeats Nightquake. Vanya defeats Dallas.
+* [Session 21](sycamour-division/session-21) - Team vs. Lunch. Lewis is given an ultimatum. Ayami is given advice. Dallas and Nick are given hugs.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

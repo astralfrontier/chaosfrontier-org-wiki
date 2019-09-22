@@ -54,6 +54,7 @@
 * [On Illness](sycamour-division/on-illness) - blame, responsibility, and masks
 * [On Dancing](sycamour-division/on-dancing) - the question, the prom, and the self
   * [On Dancing Update](sycamour-division/on-dancing-update) - how is learning to dance working out?
+* [On Love](sycamour-division/on-love) - confessions and confessions about confessions
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

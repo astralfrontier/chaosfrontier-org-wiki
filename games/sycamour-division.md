@@ -61,6 +61,7 @@
 * [ROMANUS Lyrics](sycamour-division/romanus-lyrics)
 * [Can't Tell Ma I'm Laser Lyrics](sycamour-division/cant-tell-ma-im-laser-lyrics)
 * [Zephyr's Mom Lyrics](sycamour-division/zephyrs-mom-lyrics)
+* [Team Irish drinking song](sycamour-division/team-irish-drinking-song)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

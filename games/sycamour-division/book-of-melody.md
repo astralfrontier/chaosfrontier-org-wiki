@@ -112,3 +112,13 @@ I need to figure things out.
 They can't take Zephyr away from the team. I won't allow it. I'm going to work really hard so that doesn't happen. I'm going to train harder than ever, and I'm going to show them I deserve to be promoted, too. Zephyr had a great idea about the rest of us getting publicity. I have to make sure I do something notable so I can talk to Vanya and be in the paper. I need to make sure everyone knows our team should stay together. I'm going to make sure I show my best, like Zephyr said, but I also have to make sure I show everyone else's best in this interview, too. I need to make sure my words reach people who read them.
 
 Zephyr doesn't want to be on a team without us, and I don't want to be on a team without Zephyr. I'm going to do everything I can to show them why we all belong here together.
+## Hug Ratings
+Today I learned how to bro hug! Zephyr taught me how after he bro-hugged Dallas! It was great!
+
+After having a big talk about what happened at the park and hugs, I think I understand a few things a lot better than I did before. Firstly, hugs aren't all the same. Bro hugs with Zephyr are fun and full of happy energy. Hugs with Dallas are friendly and confident, full of strength and encouragement. Nick hugs are warm and safe, like nothing bad could ever happen to me there.
+
+I thought there were rules about hugs, and maybe there still are. I asked Dallas about a time limit, but he couldn't give me a straight answer. After hugging all my teammates, I think I understand a bit better why that is. Hugs just... aren't all the same. They're all special, just in different ways. I think it might be better that way. I don't think I would want them to all be the same.
+
+Maybe that's what Dallas and Nick have been trying to explain to me.
+
+Nick has the best hugs. Maybe that's okay.

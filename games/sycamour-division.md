@@ -65,6 +65,8 @@
 * [Can't Tell Ma I'm Laser Lyrics](sycamour-division/cant-tell-ma-im-laser-lyrics)
 * [Zephyr's Mom Lyrics](sycamour-division/zephyrs-mom-lyrics)
 * [Team Irish drinking song](sycamour-division/team-irish-drinking-song)
+* [Grando, Zephyr, and Dubium](sycamour-division/grando-zephyr-dubium-lyrics)
+* [Ayami Lyrics](sycamour-division/ayami-lyrics)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

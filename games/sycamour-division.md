@@ -55,6 +55,7 @@
 * [On Dancing](sycamour-division/on-dancing) - the question, the prom, and the self
   * [On Dancing Update](sycamour-division/on-dancing-update) - how is learning to dance working out?
 * [On Love](sycamour-division/on-love) - confessions and confessions about confessions
+* [On Metaphysics](sycamour-division/on-metaphysics) - the soul, consciousness, and telepathy
 
 ## Melody's diary entries
 * [The Book of Melody](sycamour-division/book-of-melody)

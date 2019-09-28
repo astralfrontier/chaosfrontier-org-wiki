@@ -20,3 +20,7 @@ My dad was a writer and my mom is a cop. They do those things as their jobs. But
 Another way to look at the soul is the idea of removing things. If you took away all my psychic props, took me away from my family and my friends, even took my memories away, what would be left? As a human being, I would have a body. But I would also be conscious, and make choices. What would I do? The sorts of things I would choose to do could also be called "my soul". Maybe I would be afraid. Maybe I would be bold, and try to find out the mystery of why I was alone and amnesiac. Maybe I would quietly accept it.
 
 Right now, Caesar is going through the same thing. He's forgotten part of his life. He has people telling him different things. Whatever is in his soul will determine what he does next.
+# The Heart
+Sometimes people talk about "the heart" or "the human heart". Humans have a physical organ called the heart in our chests, and it pumps blood. That's not always what people are talking about.
+
+Humans used to think that the heart was the organ of thought and feeling, rather than the brain. It was centrally located in the body. When our emotions are strong, our hearts race, because our bodies are preparing to give us the energy we need to react to those strong emotions. So for these reasons, people got confused. But we still talk about "the heart" when we are talking about "the part of ourselves and our experience that is primarily emotional".

@@ -68,6 +68,7 @@
 * [Team Irish drinking song](sycamour-division/team-irish-drinking-song)
 * [Grando, Zephyr, and Dubium](sycamour-division/grando-zephyr-dubium-lyrics)
 * [Ayami Lyrics](sycamour-division/ayami-lyrics)
+* [It’s Because He’s a Psychic Lyrics](sycamour-division/its-because-hes-a-psychic-lyrics)
 
 ## Sycamour Comics
 * [Comics 1](sycamour-division/comics-1)

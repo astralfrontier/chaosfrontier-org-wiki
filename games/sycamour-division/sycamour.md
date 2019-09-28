@@ -5,8 +5,8 @@
 * Sycamour seems to be a villain organization
 * Their higher-ups have developed a process of surgically transferring powers from existing supers to new ones, such as the Children of the Night
 # Sycamour Members
-## Bathshena
-![Bathshena](/uploads/sycamour-sycamour/bathshena.jpg "Bathshena")
+## Bathsheba
+![Bathsheba](/uploads/sycamour-sycamour/bathshena.jpg "Bathsheba")
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 

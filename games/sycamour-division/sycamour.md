@@ -10,6 +10,8 @@
 ## Cockroach King
 ![Cockroach King](/uploads/sycamour/cockroach-king.jpg "Cockroach King")
 
+![Marcus](/uploads/sycamour-sycamour/marcus.jpg "Marcus")
+
 * Real name: Marcus
 * Lost his parents in a mysterious accident
 * Recruited by Sycamour with an offer that "it would never happen again"

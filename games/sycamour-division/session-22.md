@@ -94,7 +94,7 @@ Zephyr's player is out today
 ![](https://vignette.wikia.nocookie.net/dragonball/images/b/bc/Dragon-Ball-Super-Episode-92-000093-Caulifla-Super-Saiyan.jpg)
 
 * Bathsheba books it, tries to grab Master of Puppets.
-* Nick gets in telepathic control of Melody, gives her control of his powers.
+* Nick gets in telepathic contact with Melody, gives her control of his powers.
 * Using a combination of Nick's powers and her own hard-light to fill in the missing pieces, Melody tears the armor off MoP and traps Bathsheba! Spends 2 burn on a 10+ result. "You trapped me in darkness, I'm trapping you in a world of light"
 * When the first armor piece (glove) lands on her, she stands completely still. She allows herself to be entombed by it.
 * MoP has given up. Bathsheba is still in the armor (Melody makes sections transparent). She's looking up at the roof. Melody continues applying force to keep her from getting away.

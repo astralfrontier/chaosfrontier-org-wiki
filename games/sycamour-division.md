@@ -63,6 +63,7 @@
 * [The Book of Melody](sycamour-division/book-of-melody)
 * [The Book of Melody, Prom Edition](sycamour-division/book-of-melody-prom)
 * [The Book of Melody, Post-Prom Edition](sycamour-division/book-of-melody-post-prom)
+* [The Book of Melody, Bathsheba Edition](sycamour-division/book-of-melody-bathsheba)
 ## Filk
 * [ROMANUS Lyrics](sycamour-division/romanus-lyrics)
 * [Can't Tell Ma I'm Laser Lyrics](sycamour-division/cant-tell-ma-im-laser-lyrics)

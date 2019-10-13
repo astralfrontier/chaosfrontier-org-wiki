@@ -28,6 +28,7 @@
 * [Session 20](sycamour-division/session-20) - Team vs. Dates. Zephyr defeats Nightquake. Vanya defeats Dallas.
 * [Session 21](sycamour-division/session-21) - Team vs. Lunch. Lewis is given an ultimatum. Ayami is given advice. Dallas and Nick are given hugs.
 * [Session 22](sycamour-division/session-22) - Team vs. Bathsheba. Hugs, bed cleaning, and supervillain arrests.
+* [Session 23](sycamour-division/session-23) - Team vs. Interviews. Mask questions, detective reporters, and house arrest.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

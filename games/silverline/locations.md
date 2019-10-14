@@ -54,9 +54,11 @@ Even these brave and desperate hunters risk much. No official maps of the sector
 
 Three factions dominate the exploration of Sector Zero. Novice superheroes cut their teeth (or disappear) tangling with their members.
 
-Autogang is a criminal cartel that makes extensive use of robots and powered suits. They prefer flashy, high-speed vehicles. They loot Sector Zero for wheels and weapons. They engage in street and aerial races in Silverline City when they aren't spelunking. A street racer and smuggler named Drifter is their leader.
-The Laughing Bandits are a group of high-tech thieves. Their leader is Lupin X, who adopts the pose of a classic "gentleman burglar". They specialize in high-stakes capers, using stolen Sector Zero devices to get in and out. They avoid conflict, but will fight if necessary. They sell their services, and findings, to the highest bidder. They keep the best loot for themselves, of course.
-The Red Brotherhood is the most dangerous gang. They focus on weapons and combat gear. They are stupid, crazy, or brave enough to occupy parts of Sector Zero full time. They trade captured tech with foreign governments and hostile powers.
+**Autogang** is a criminal cartel that makes extensive use of robots and powered suits. They prefer flashy, high-speed vehicles. They loot Sector Zero for wheels and weapons. They engage in street and aerial races in Silverline City when they aren't spelunking. A street racer and smuggler named **Drifter** is their leader.
+
+The **Laughing Bandits** are a group of high-tech thieves. Their leader is **Lupin X**, who adopts the pose of a classic "gentleman burglar". They specialize in high-stakes capers, using stolen Sector Zero devices to get in and out. They avoid conflict, but will fight if necessary. They sell their services, and findings, to the highest bidder. They keep the best loot for themselves, of course.
+
+The **Red Brotherhood** is the most dangerous gang. They focus on weapons and combat gear. They are stupid, crazy, or brave enough to occupy parts of Sector Zero full time. They trade captured tech with foreign governments and hostile powers.
 
 > Answer the following questions:
 > Do any of you have a personal involvement with the science pirates (rivalry with a member, a family member in one of the gangs, etc.)?

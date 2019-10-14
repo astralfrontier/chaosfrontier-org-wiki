@@ -7,11 +7,10 @@ When the children of Silverline aren't off playing (or being) heroes, they go to
 Outside of school, there are malls, movie theaters, arcades, parks, and more. Silverline has high-tech attractions the rest of the world dreams of. If you're bored, you're doing it wrong.
 
 > Answer the following questions:
-> What kind of music do people like? What do the kids like but their parents hate?
-> What performing arts - concerts, theater, opera, etc. - can be found?
-> Are there arts that don't exist elsewhere, like virtual reality, holographic idol singers, etc. that can be found here?
-> What sort of local business or culture exists here, comparable to a New York bodega, that has its own atmosphere and history? What's it like?
-
+> * What kind of music do people like? What do the kids like but their parents hate?
+> * What performing arts - concerts, theater, opera, etc. - can be found?
+> * Are there arts that don't exist elsewhere, like virtual reality, holographic idol singers, etc. that can be found here?
+> * What sort of local business or culture exists here, comparable to a New York bodega, that has its own atmosphere and history? What's it like?
 > Once you have answered a question, take ownership of your answer, and inject your ideas into the ongoing game when you feel the time is right.
 
 Aside from the usual holidays, Silverline citizens celebrate Gray Day. Part memorial, part fierce affirmation of life and hope, Gray Day is the anniversary of the day on which the alien ship crashed. The dead are eulogized, while the living are celebrated.

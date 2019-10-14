@@ -18,7 +18,7 @@ Aside from the usual holidays, Silverline citizens celebrate Gray Day. Part memo
 Most residential areas are "up top", or the more elevated parts of the crash. This provides a panoramic and spectacular view of the major sectors. Many adults ride on "slidewalks" to the funiculars in the morning, then ride down the hill and take buses or walk the rest of the way to work. Their children take buses to school up top. Major-league games, concerts, and so on happen "downtown" as well.
 
 > Answer the following questions:
-> Do you live in a classy mansion, a squalid apartment, one of many identical adjacent brownstones, or something similar?
-> Do you live alone, with family, other?
-> If someone visited your room, what would you be most proud to show off?
-> If someone visited, what would you be most worried that they'd find?
+> * Do you live in a classy mansion, a squalid apartment, one of many identical adjacent brownstones, or something similar?
+> * Do you live alone, with family, other?
+> * If someone visited your room, what would you be most proud to show off?
+> * If someone visited, what would you be most worried that they'd find?

@@ -29,3 +29,4 @@
   * That would be Athena
   * but this one is neat for the versatility. Are they a mage today because they ingested a million grimoires over the years? Is their patron god really fucking annoyed because there's nothing but Internet shitposting now? etc.
   * Athena goes to war against internet shitposting
+  * Previous Legacy members: basically the cast of Read or Die

@@ -11,7 +11,6 @@
 * Force attackers to escalate violence
 * Destroy or undermine civilized things
 * Reciprocate kindness or vulnerability
-* ~~Turn weak attacks into collateral damage~~
 
 The Neural Knowledge Interface Distribution Unit, or NKIDU, was a system that would transfer a human mind into an immortal robot body. Unfortunately, the inventor attempted the transfer before the technology was perfected. Now an unstoppable robot juggernaut, cursed with mad impulses and more beast than man, he seeks a cure - or perhaps just a friend.
 

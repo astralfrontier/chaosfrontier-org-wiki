@@ -5,7 +5,7 @@
 ## NKIDU
 **Generation**: Bronze
 **Drive**: To have his agony understood
-**Abilities**: Super-durable armor (or kinetic redirection), typical robot gadgets (e.g. rockets, radio)
+**Abilities**: Super-durable armor (or kinetic redirection), typical robot gadgets (e.g. rockets, weapons)
 **Conditions**: Angry, Hopeless, Insecure
 **Moves**:
 * Force attackers to escalate violence

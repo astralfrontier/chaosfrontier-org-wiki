@@ -27,6 +27,7 @@
   * [Session 19a](sycamour-division/session-19a) - Melody and Nick vs. Mind Control. Love, supervillainy, and John Legend.
 * [Session 20](sycamour-division/session-20) - Team vs. Dates. Zephyr defeats Nightquake. Vanya defeats Dallas.
 * [Session 21](sycamour-division/session-21) - Team vs. Lunch. Lewis is given an ultimatum. Ayami is given advice. Dallas and Nick are given hugs.
+  * [Session 21a](sycamour-division/session-21a) - Ayami vs. Mind Control.
 * [Session 22](sycamour-division/session-22) - Team vs. Bathsheba. Hugs, bed cleaning, and supervillain arrests.
 * [Session 23](sycamour-division/session-23) - Team vs. Interviews. Mask questions, detective reporters, and house arrest.
 # Characters

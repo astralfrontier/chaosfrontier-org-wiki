@@ -31,17 +31,17 @@ Make a GM move on a 6 or less, even on a "passive" move like Assess the Situatio
 ## Examples
 The PCs are fighting a new Sycamour villain, called Stone Mask.
 
-1. You don't have to let the PCs charge in immediately. Maybe Stone Mask has a force field or wall that the PCs must use their powers to get through. Maybe they have hostages which must be rescued safely. Make the PCs do those things first.
-2. When a PC successfully Directly Engages, make a condition move! For example, Dallas hits Stone Mask and the villain marks Angry.
+* You don't have to let the PCs charge in immediately. Maybe Stone Mask has a force field or wall that the PCs must use their powers to get through. Maybe they have hostages which must be rescued safely. Make the PCs do those things first.
+* When a PC successfully Directly Engages, make a condition move! For example, Dallas hits Stone Mask and the villain marks Angry.
   * Angry moves include "vent through unthinking violence", "lash out at any vulnerability", or "escalate the situation dangerously"
   * Maybe someone gets mind-controlled and we have to deal with it
   * Maybe a bunch of henchmen show up and threaten the hostages
   * Whatever makes sense for the villain, immediately make that move!
-3. GM, Villain, and Condition moves can change the entire battlefield. For example:
+* GM, Villain, and Condition moves can change the entire battlefield. For example:
   * Maybe the whole building comes down, or catches fire
   * Maybe the villain flees into the sewers, or onto the rooftop, and we have to catch up
   * Villain superpowers or gadgets can put up barriers, transform everything into glass or swords, or whatever makes sense
-4. Your villains should have 2-4 villain moves. They get to make those moves any time it feels right!
+* Your villains should have 2-4 villain moves. They get to make those moves any time it feels right!
   * Example villain moves are "summon robotic minions", "threaten innocents", or "steal away something valuable"
   * Maybe Stone Mask powers up whenever he tastes blood, so if he injures a PC (or a hostage), he gets stronger
 # Specific Encounters

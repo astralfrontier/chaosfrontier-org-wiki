@@ -7,6 +7,7 @@
 
 # Combat and Action
 * [In Defense of Defense](https://imgur.com/gallery/0RSCYdr) - depicting combat as more than just sword-swings and blood
+* [Unwinnable Fights in Masks](advice/unwinnable-fights-in-masks) - how to set up scenarios where the PCs don't just beat the NPC into the dirt
 
 # Game Design
 * [essays and pamphlets work better than books ](https://threadreaderapp.com/thread/1014319417461575680.html)

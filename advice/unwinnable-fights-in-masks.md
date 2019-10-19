@@ -1,7 +1,7 @@
 <!-- TITLE: Unwinnable Fights In Masks -->
 <!-- SUBTITLE: How to create encounters where the PCs don't just beat up the NPCs -->
 
-# Game Rules
+# Making Fights Harder
 ## Agendas and Principles
 The Agendas and Principles of the game are actual rules. Here are some important ones:
 
@@ -45,4 +45,12 @@ The PCs are fighting a new Sycamour villain, called Stone Mask.
   * Example villain moves are "summon robotic minions", "threaten innocents", or "steal away something valuable"
   * Maybe Stone Mask powers up whenever he tastes blood, so if he injures a PC (or a hostage), he gets stronger
 # Specific Encounters
-* TODO: talk about the Caesar situation
+What was the problem with the Caesar situation?
+
+1. It wasn't a fight we _could_ have won, it was a fight we were _going_ to lose. That means there's still no challenge to it.
+2. Anyone who knows us should have known we'd try to grab Caesar and fight Cockroach King.
+3. If we can't do those things, but you want us to communicate with Caesar, don't give us intel revealing Caesar's location - instead, maybe he makes anonymous calls and/or sends texts to us, like he did with Alex.
+4. The "symbol of authority" move that Lewis made wasn't respected. Marcus didn't freeze, in the sense that the move talks about. He just ignored the move and kept doing his thing.
+5. The method that Bathsheba used to keep them under control - psychic dust - _should_ have been vulnerable to the powers we brought to the encounter, wind manipulation and strong psychic gifts. We should have reasonably been able to do something about them, but every use of our powers was just ignored.
+
+How could it have been done differently? That depends on what we were supposed to accomplish.

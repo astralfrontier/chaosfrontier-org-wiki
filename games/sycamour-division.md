@@ -30,6 +30,7 @@
   * [Session 21a](sycamour-division/session-21a) - Ayami vs. Mind Control.
 * [Session 22](sycamour-division/session-22) - Team vs. Bathsheba. Hugs, bed cleaning, and supervillain arrests.
 * [Session 23](sycamour-division/session-23) - Team vs. Interviews. Mask questions, detective reporters, and house arrest.
+* [Session 24](sycamour-division/session-24) - Team vs. Kieran. Otaku on parole and werehouses.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

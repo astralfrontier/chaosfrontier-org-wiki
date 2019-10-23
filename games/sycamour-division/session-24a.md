@@ -2,14 +2,15 @@
 <!-- SUBTITLE: Melody and Nick vs. Telepathy. Night-time conversations. -->
 
 # The Book-Light
+![Sycamour 02 017](/uploads/sycamour-24-a/sycamour-02-017.png "Sycamour 02 017")
 Nick's room has a certain order to it, that only he can sense. Things are sorted not by their visible attributes, but their invisible auras, and the emotions imprinted on them. To Nick, it's perfectly sensible. To anyone else, it's a typical teenager's messy room. That makes it tough to attach a book-light where it'll do the most good, but Nick finally manages it. And as he lays down to try and sleep, he reaches out a curious hand to touch the self-sustaining light, and smiles. "I know you don't sleep, but sweet dreams anyway."
- 
+
 Ayami is in her room, sitting on her floor near her chair, putting together a scrapbook.  It seemed like a fun enough activity to work on, and she had never made one before.  Photos and paper were scattered about the otherwise clean plush carpeted floor.  As she applied a sticker to a corner, she stopped, thinking she was hearing things.  She shook her head twice to clear it.  "Wow, I think I'm hearing things.  I swore I just heard Nick.  Bug?  Malfunction?  Maybe I should power down and run a scan..."
- 
+
 "Nope. It's me." Nick is back in his room, but he's present anyway. "I reached out to you telepathically, I guess! I put your book-light up, and made contact with it. And, um, was thinking about you. So here we are."
- 
+
 "Oh!  Um, wow!  That's... pretty neat!  Did you know you could do that?"
- 
+
 "Telepathy? Oh yeah, I think so." Nick sounds very confident of himself. "I mean I do it all the time. But usually it's conscious, you know? The rest of the time, it's like.... the mall. Accidental, and not good. I think this is the first good accidental mind-link I've made. And you're coming through super-clear. Maybe because the light isn't just, y'know, something of yours, but you."
  
 "Oh, uh, I knew you could use telepathy, but I thought normally you had to use that ring.  Did you know the light would work that way?  I'm guessing not since you said 'accidental'.  But I'm glad I'm your first good accidental mind-link!"

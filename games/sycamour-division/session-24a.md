@@ -154,3 +154,4 @@ Nick feels impish glee, but beyond that is an ocean of happiness. He finally fee
 "That sounds really interesting!  We should try it sometime!  ...but make sure you get some sleep.  You being tired would be pretty bad if we have to fight unexpectedly," she says.  "We'll definitely talk again like this!  And, um, I love you.  Good night."
  
 Nick doesn't realize how much he needed this until he thinks it back. "I love you too, Aya. Talk to you soon."
+

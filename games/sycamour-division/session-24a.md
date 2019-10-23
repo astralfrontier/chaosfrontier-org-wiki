@@ -155,3 +155,4 @@ Nick feels impish glee, but beyond that is an ocean of happiness. He finally fee
  
 Nick doesn't realize how much he needed this until he thinks it back. "I love you too, Aya. Talk to you soon."
 
+![Sycamour 02 018](/uploads/sycamour-24-a/Sycamour02_018.png "Sycamour 02 018")

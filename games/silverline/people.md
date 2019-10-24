@@ -6,7 +6,7 @@
 **Generation**: Modern
 **Drive**: To impress senior villains with her abilities
 **Abilities**: Autonomous Robot Hands
-**Conditions**: Afraid, Guilty, Hopeless
+**Conditions**: Afraid, Guilty
 **Moves**:
 * Swarm the area with an army of handbots
 * Reveal a handbot anywhere the heroes don't want one

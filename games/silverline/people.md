@@ -10,9 +10,11 @@
 **Moves**:
 * Swarm the area with an army of handbots
 * Reveal a handbot anywhere the heroes don't want one
-* Evacuate the scene with the aid of her handbots
+* Escape the scene with the aid of her handbots
 
-The villain known as Handmaid wants to become a great inventor, and become the trusted lieutenant of some major villain. The bad news is that she's only good at inventing one thing: autonomous robot hands. The good news (for her) is that she's very good at it. Handmaid can show up at any time, cheerfully revealing a mob of handbots ready to give good guys the finger.
+The villain known as Handmaid wants to become a great inventor, and become the trusted lieutenant of some major villain. The bad news is that she's only good at inventing one thing: autonomous robot hands. The good news (for her) is that she's very good at it. Handmaid can show up at any time, cheerfully revealing a mob of handbots ready to give heroes the finger.
+
+She often has handbots stationed around the scene, recording footage of her fights. These can capture interesting and unexpected footage.
 
 Art Inspiration: https://danganronpa.fandom.com/wiki/Miu_Iruma
 ## NKIDU

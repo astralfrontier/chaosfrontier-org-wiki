@@ -33,6 +33,7 @@
 * [Session 24](sycamour-division/session-24) - Team vs. Kieran. Otaku on parole and werehouses.
   * [Session 24a](sycamour-division/session-24a) - Melody and Nick vs. Telepathy. Night-time conversations.
 * [Session 25](sycamour-division/session-25) - Team vs. Radioactive. We trash the werewolf heroin factory.
+* [Session 26](sycamour-division/session-26) - Team vs. Prescriptions. Can we mind control the doctor? Someone beat us to it.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

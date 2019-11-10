@@ -66,6 +66,8 @@
 
 [video](https://www.youtube.com/watch?v=RSUJeMKgAWw){.youtube}
 
+* At skate park, Dallas feels a hand on his shoulder. It's Torchbearer....
+
 # End of Session
 * Nick, closer to Melody (+Freak -Superior)
 * Melody, closer to Nick (+Savior -Freak)

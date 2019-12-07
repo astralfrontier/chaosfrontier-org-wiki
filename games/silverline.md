@@ -8,3 +8,4 @@
 * [Daily Life](silverline/daily-life)
 * [People of Note](silverline/people)
   * [Rival Heroes](silverline/rival-heroes)
+  * [Supervillains](silverline/supervillains)

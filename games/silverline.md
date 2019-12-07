@@ -6,6 +6,6 @@
 * [The City Today](silverline/the-city-today)
 * [Locations](silverline/locations)
 * [Daily Life](silverline/daily-life)
-* [People of Note](silverline/people)
+* People of Note
   * [Rival Heroes](silverline/rival-heroes)
   * [Supervillains](silverline/supervillains)

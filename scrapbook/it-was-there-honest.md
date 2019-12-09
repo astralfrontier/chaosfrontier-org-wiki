@@ -7,6 +7,7 @@
 **Actions**:
 * Adult: poke holes in a story; ask for more detail; teach a life lesson
 * Kids: try to earn respect; impress the other kids; protect another kid from adult scrutiny
+
 **Scenarios**:
 * "Katie didn't touch the dangerous glowing rock, I did" (keep the heat off another kid, or direct it to another kid)
 * "Of course I didn't let Timmy out of sight the whole time!" (earn respect from the Adult)

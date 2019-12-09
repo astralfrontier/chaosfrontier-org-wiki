@@ -103,6 +103,7 @@ When you roll, you can get one of three outcomes: Success, Surprise, or Salvage.
 * [Kaiju Pirates](scrapbook/kaiju-pirates)
 * [The Peacock Throne](scrapbook/peacock-throne)
 * [Rifts Revised](scrapbook/rifts-revised)
+* [It Was There, Honest!](scrapbook/it-was-there-honest)
 ## Universal Exports
 A small team of monsters (vampire, werewolf, etc.) get together to hunt down and stop human criminals that are untouchable by conventional law - rich industrialists polluting the earth, well-placed senators who got away with murder or abuse, genius serial killers who can outwit the police, that sort of thing.
 

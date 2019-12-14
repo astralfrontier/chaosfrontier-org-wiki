@@ -9,7 +9,7 @@
 **Conditions**: Angry, Afraid, Hopeless, Insecure
 **Moves**:
 * Seize control of nearby technology
-* Spring a trap out of a string of coincidences
+* Manipulate coincidental or mundane events
 * Outsmart any mortal intellect
 * Bring ARES Consortium assets to bear
 

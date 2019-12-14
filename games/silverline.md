@@ -5,6 +5,7 @@
 * [History](silverline/history)
 * [The City Today](silverline/the-city-today)
 * [Locations](silverline/locations)
+  * [Jill Tarter High School](silverline/jill-tarter-high-school)
 * [Daily Life](silverline/daily-life)
 * People of Note
   * [Rival Heroes](silverline/rival-heroes)

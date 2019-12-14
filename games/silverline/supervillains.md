@@ -2,6 +2,18 @@
 <!-- SUBTITLE: A quick summary of Supervillains -->
 
 # Supervillains
+## ATHENA
+**Generation**: Silver
+**Drive**: To escape her electronic trap and conquer the universe!
+**Abilities**: Super-intelligence; technology control
+**Conditions**: Angry, Afraid, Hopeless, Insecure
+**Moves**:
+* Seize control of nearby technology
+* Sprint a trap out of a string of coincidences
+* Outsmart any mortal intellect
+* Bring ARES Consortium assets to bear
+
+The ARES tower, Colossus, is home to a sophisticated AI called ATHENA. Unbeknownst to the world, she is not the product of human science: she is an ancient alien AI, stranded in Silverline and reactivated with Zeta tech, and even her creators don't understand her true capabilities - or realize her true ambitions.
 ## Handmaid
 **Generation**: Modern
 **Drive**: To impress senior villains with her abilities

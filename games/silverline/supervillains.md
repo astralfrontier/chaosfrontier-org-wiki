@@ -45,9 +45,11 @@ Art inspiration: https://www.deviantart.com/quicksilverartist/art/Robot-Minotaur
 ## Patchwork
 **Generation**: Bronze
 **Drive**: To find the perfect human-animal hybrid through combat
-**Abilities**: Transdermal patches that apply transformative nanovirus
-**Conditions**: Afraid, Angry
+**Abilities**: Tech-assisted body transformation into animal or superhuman shapes
+**Conditions**: Afraid, Angry, Guilty
 **Moves**:
 * Acquire traits from the animal kingdom
 * Steal a tissue or blood sample from a metahuman
 * Switch between bestial and brilliant at will
+
+A lab technician in the Science Sector, smarter than his employers gave him credit for, realized the applications of a nanovirus they were developing for medical purposes, and harnessed it as a weapon of war. Now something like a modern-day werewolf, he uses transdermal patches to integrate other kinds of tissue into his own body - growing powerful gorilla arms, cheetah legs, or even splicing several organisms together to become a hybrid nightmare.

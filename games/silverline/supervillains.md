@@ -42,3 +42,12 @@ Art Inspiration: https://danganronpa.fandom.com/wiki/Miu_Iruma
 The Neural Knowledge Interface Distribution Unit, or NKIDU, was a system that would transfer a human mind into an immortal robot body. Unfortunately, the inventor attempted the transfer before the technology was perfected. Now an unstoppable robot juggernaut, built and rebuilt like a metal Frankenstein's monster, cursed with mad impulses and more beast than man, he seeks a cure - or perhaps just a friend.
 
 Art inspiration: https://www.deviantart.com/quicksilverartist/art/Robot-Minotaur-364687030
+## Patchwork
+**Generation**: Bronze
+**Drive**: To find the perfect human-animal hybrid through combat
+**Abilities**: Transdermal patches that apply transformative nanovirus
+**Conditions**: Afraid, Angry
+**Moves**:
+* Acquire traits from the animal kingdom
+* Steal a tissue or blood sample from a metahuman
+* Switch between bestial and brilliant at will

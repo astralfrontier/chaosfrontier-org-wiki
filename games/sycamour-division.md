@@ -36,6 +36,7 @@
 * [Session 26](sycamour-division/session-26) - Team vs. Prescriptions. Can we mind control the doctor? Someone beat us to it.
 * [Session 27](sycamour-division/session-27) - Team vs. Pharmacy. Nick brings down the house, Dallas brings down his life.
 * [Session 28](sycamour-division/session-28) - Team vs. Worries. The stresses of family & other relationships.
+* [Session 29](sycamour-division/session-29) - Team vs. Prison. Breaking Marlone out, breaking two villains down.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

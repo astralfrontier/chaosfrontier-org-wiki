@@ -37,6 +37,7 @@
 * [Session 28](sycamour-division/session-28) - Team vs. Worries. The stresses of family & other relationships.
 * [Session 29](sycamour-division/session-29) - Team vs. Prison. Breaking Marlone out, breaking two villains down.
   * [Session 24a](sycamour-division/session-24a) - Melody and Nick vs. Telepathy. Night-time conversations.
+* [Session 30](sycamour-division/session-30) - Team vs. Master of Puppets. Torchbearer and an angry city.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

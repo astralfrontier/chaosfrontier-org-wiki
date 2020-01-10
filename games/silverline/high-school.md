@@ -20,6 +20,11 @@
 * Friend of Pelagos, as good as him at scholastics
 * Rival of Sabine, better than her at sports or extracurriculars
 ## Gabriella Everett
+![Gabriella Everett](/uploads/silverline-high-school/gabriella-everett.jpg "Gabriella Everett")
+
+* popular fashionista girl
+* Ghost crushes on her
+* She crushes on Sabine, admires Sabine's cool
 ## Jacob Kirby
 ![Jacob Kirby](/uploads/silverline-high-school/jacob-kirby.jpg "Jacob Kirby")
 

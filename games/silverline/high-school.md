@@ -3,7 +3,10 @@
 
 # Students
 ## Ethan Edwards
-![C 5 Beddeecfddef 0 E 654 B 3 E 24 B 9 A 866 B 3](/uploads/silverline-high-school/c-5-beddeecfddef-0-e-654-b-3-e-24-b-9-a-866-b-3.jpg "C 5 Beddeecfddef 0 E 654 B 3 E 24 B 9 A 866 B 3")
+![Ethan Edwards](/uploads/silverline-high-school/ethan-edwards.jpg "Ethan Edwards")
+
+* Friend of Pelagos, as good as him at scholastics
+* Rival of Sabine, better than her at sports or extracurriculars
 # Pending Images
 ![00 D 9655 Bfc 456966 A 1 E 95 F 2 A 5 E 905 Ec 5](/uploads/silverline-high-school/00-d-9655-bfc-456966-a-1-e-95-f-2-a-5-e-905-ec-5.jpg "00 D 9655 Bfc 456966 A 1 E 95 F 2 A 5 E 905 Ec 5")
 

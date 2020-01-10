@@ -48,6 +48,8 @@
 * Thinks Pelagos should party more, do more stuff for friends at school
 * Hangs out with Miguel as his Normal Friend.
 
+# Chart
+![2020 01 10](/uploads/silverline-high-school/2020-01-10.png "2020 01 10")
 # Mermaid
 ```
 graph LR

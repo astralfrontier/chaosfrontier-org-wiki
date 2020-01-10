@@ -4,6 +4,8 @@
 # Students
 ## Eliza and Beth David
 ![Eliza Davis](/uploads/silverline-high-school/eliza-davis.jpg "Eliza Davis")
+
+![Beth Davis](/uploads/silverline-high-school/beth-davis.jpg "Beth Davis")
 ## Ethan Edwards
 ![Ethan Edwards](/uploads/silverline-high-school/ethan-edwards.jpg "Ethan Edwards")
 

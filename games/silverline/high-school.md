@@ -3,6 +3,10 @@
 
 # Students
 ## Faith Caldwell
+![Faith Caldwell](/uploads/silverline-high-school/faith-caldwell.jpg "Faith Caldwell")
+
+* Theater person, someone Ghost looks up to.
+* Not good at sports, envies Astralis.
 ## Eliza and Beth David
 ![Eliza Davis](/uploads/silverline-high-school/eliza-davis.jpg "Eliza Davis")
 

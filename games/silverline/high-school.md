@@ -37,6 +37,10 @@
 * Someone Astralis is tutoring
 * Crushes on Sprout.
 ## James Pearson
+![James Pearson](/uploads/silverline-high-school/james-pearson.jpg "James Pearson")
+
+* Wants to tutor Sprout
+* Doesn't like Pelagos for his money.
 ## Lauren Schultz
 ![Lauren Schultz](/uploads/silverline-high-school/lauren-schultz.jpg "Lauren Schultz")
 

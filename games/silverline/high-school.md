@@ -27,5 +27,9 @@
 * Sabine crushes on them, they crush on Astralis
 
 ## Caleb Matthews
+![Caleb Matthews](/uploads/silverline-high-school/caleb-matthews.jpg "Caleb Matthews")
+
+* Someone Astralis is tutoring
+* Crushes on Sprout.
 ## James Pearson
 ## Lauren Schultz

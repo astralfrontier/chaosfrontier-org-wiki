@@ -2,11 +2,15 @@
 <!-- SUBTITLE: A quick summary of High School -->
 
 # Students
+## Eliza and Beth David
+![Eliza Davis](/uploads/silverline-high-school/eliza-davis.jpg "Eliza Davis")
 ## Ethan Edwards
 ![Ethan Edwards](/uploads/silverline-high-school/ethan-edwards.jpg "Ethan Edwards")
 
 * Friend of Pelagos, as good as him at scholastics
 * Rival of Sabine, better than her at sports or extracurriculars
+
+
 # Pending Images
 ![00 D 9655 Bfc 456966 A 1 E 95 F 2 A 5 E 905 Ec 5](/uploads/silverline-high-school/00-d-9655-bfc-456966-a-1-e-95-f-2-a-5-e-905-ec-5.jpg "00 D 9655 Bfc 456966 A 1 E 95 F 2 A 5 E 905 Ec 5")
 

@@ -47,3 +47,29 @@
 * On a scholarship, struggling. Popular.
 * Thinks Pelagos should party more, do more stuff for friends at school
 * Hangs out with Miguel as his Normal Friend.
+
+# Mermaid
+```
+graph LR
+Miguel --> |admires| Faith
+Faith --> |envies| Hisako
+Miguel --> |crushes on| Gabriella
+Gabriella --> |crushes on| Mia
+Mia --> |crushes on| Jacob
+Jacob --> |crushes on| Hisako
+Hisako --> |tutors| Caleb
+Caleb --> |crushes on| Midge
+James --> |tutors| Midge
+James --> |dislikes| Ricky
+Lauren --> |dislikes| Ricky
+Miguel --- |friends with| Lauren
+Eliza-Beth --> |teases| Midge
+Ethan --- |friends with| Ricky
+Mia --> |rival with| Ethan
+Hisako>Hisako/Astralis]
+Miguel>Miguel/Ghost]
+Ricky>Ricky/Pelagos]
+Mia>Mia/Sabine]
+Midge>Midge/Sprout]
+```
+

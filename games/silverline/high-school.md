@@ -38,3 +38,8 @@
 * Crushes on Sprout.
 ## James Pearson
 ## Lauren Schultz
+![Lauren Schultz](/uploads/silverline-high-school/lauren-schultz.jpg "Lauren Schultz")
+
+* On a scholarship, struggling. Popular.
+* Thinks Pelagos should party more, do more stuff for friends at school
+* Hangs out with Miguel as his Normal Friend.

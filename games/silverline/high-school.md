@@ -21,6 +21,11 @@
 * Rival of Sabine, better than her at sports or extracurriculars
 ## Gabriella Everett
 ## Jacob Kirby
+![Jacob Kirby](/uploads/silverline-high-school/jacob-kirby.jpg "Jacob Kirby")
+
+* Smartest guy in school, good at everything - Sakamoto.
+* Sabine crushes on them, they crush on Astralis
+
 ## Caleb Matthews
 ## James Pearson
 ## Lauren Schultz

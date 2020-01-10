@@ -7,6 +7,9 @@
 ![Eliza Davis](/uploads/silverline-high-school/eliza-davis.jpg "Eliza Davis")
 
 ![Beth Davis](/uploads/silverline-high-school/beth-davis.jpg "Beth Davis")
+
+* Rivals with Sprout, enjoy lightly teasing them for how plainly they dress.
+* The twins like dressing people up.
 ## Ethan Edwards
 ![Ethan Edwards](/uploads/silverline-high-school/ethan-edwards.jpg "Ethan Edwards")
 

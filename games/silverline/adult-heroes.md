@@ -11,7 +11,7 @@
 * ZEUS, interplanetary probe AI turned hero
 # Quinn-Tet
 Dr. Quinn and his Famous Four, a team of science-based heroes.
-# The Cosmic Counterattack
+# Revanche (unofficial)
 Heroes who participated in the raid on the Zeta Emperor.
 
 Clarence Weston was apprentice to one of them.

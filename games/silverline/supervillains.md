@@ -61,3 +61,24 @@ A team of villains following a weather theme. Their powers are not literally wea
 * Sleet: ranged blaster
 * Snow: battlefield controller
 * Hail: brick, bruiser
+# Independent Villains
+## Redline
+Generation: Modern
+Drive: Keep having fun, whatever the cost
+Conditions: Angry, Guilty, Insecure
+Moves: TBD
+
+A Hulk-like character but who only transforms into a monster when they don’t have enough adrenaline in their system. If they get bored they literally become a destructive monster, but otherwise they are a redline action junkie. For purposes of this story, they’re a villain because they’re giving in to either of two flavors of destructiveness, and they don’t have a better alternative.
+## Void
+Generation: Modern
+Drive: Lash out at an evil-filled world
+Conditions: Angry, Afraid, Hopeless
+Moves:
+* Turn hidden wickedness into destructive chaos
+* TBD
+
+Void’s power is to draw the emotional darkness out of other people, and transmute it into psychokinetic energy. Void’s victims are usually exhausted by this siphoning, but lose (temporarily at least?) whatever darkness was taken from them, making them hopefully better people in the process. So in a crowd of bad people, Void is amazing. Alone, or surrounded by saints, Void is in trouble.
+
+Well, maybe. Void can also siphon their own inner darkness as an emergency reserve. This means, of course, that they become less evil as they draw on more and more of their own power!
+
+Void has a handler or mentor [TBD] who’s forcing them into more and more evil acts, giving them a bigger personal reserve. This mentor will also send depraved henchmen/lackeys to support Void, to act as a primary fuel source. Void has been convinced to retreat rather than exert too much power. So in principle they can be redeemed, starting by forcing them to use all of their own darkness as energy and working with them for a long time. The trick is keeping them from retreating before that process can be started. Alternately, a PC can try to establish a personal bond with Void, to get them to have second thoughts or doubts about attacking the PC.

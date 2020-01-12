@@ -38,9 +38,9 @@
 * [Session 29](sycamour-division/session-29) - Team vs. Prison. Breaking Marlone out, breaking two villains down.
   * [Session 24a](sycamour-division/session-24a) - Melody and Nick vs. Telepathy. Night-time conversations.
 * [Session 30](sycamour-division/session-30) - Team vs. Master of Puppets. Torchbearer and an angry city.
-* [Session 31](sycamour-division/session-31) - Melody and Nick vs. the Cult. Housewarming.
 # Season 3
 * [Session 31](sycamour-division/session-31) - Team vs. Philosophy. What is truth? What is reality? What is the assignment again?
+* [Session 32](sycamour-division/session-32) - Melody and Nick vs. the Cult. Housewarming.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

@@ -41,6 +41,7 @@
 # Season 3
 * [Session 31](sycamour-division/session-31) - Team vs. Philosophy. What is truth? What is reality? What is the assignment again?
 * [Session 32](sycamour-division/session-32) - Melody and Nick vs. the Cult. Housewarming.
+* [Session 33](sycamour-division/session-33) - Team vs. Sandcastles. Resolution for Cockroach King and Caesar.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

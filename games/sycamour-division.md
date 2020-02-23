@@ -43,6 +43,7 @@
 * [Session 32](sycamour-division/session-32) - Melody and Nick vs. the Cult. Housewarming.
 * [Session 33](sycamour-division/session-33) - Team vs. Sandcastles. Resolution for Cockroach King and Caesar.
 * [Session 34](sycamour-division/session-34) - Team vs. Black Rainbow. Shadow, skateboards, and chocolate.
+* [Session 35](sycamour-division/session-35) - Team vs. Eyeballs. We help Marlum with his divorce.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

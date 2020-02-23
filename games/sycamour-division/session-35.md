@@ -1,5 +1,5 @@
 <!-- TITLE: Session 35 -->
-<!-- SUBTITLE: We help Marlum with his divorce. -->
+<!-- SUBTITLE: Team vs. Eyeballs. We help Marlum with his divorce. -->
 
 # Session 35 (2020-02-22)
 

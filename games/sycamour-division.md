@@ -44,6 +44,8 @@
 * [Session 33](sycamour-division/session-33) - Team vs. Sandcastles. Resolution for Cockroach King and Caesar.
 * [Session 34](sycamour-division/session-34) - Team vs. Black Rainbow. Shadow, skateboards, and chocolate.
 * [Session 35](sycamour-division/session-35) - Team vs. Eyeballs. We help Marlum with his divorce.
+* Session 36 - Team vs. Psychic Plants. No notes.
+* [Session 35](sycamour-division/session-35) - Team vs. Philosophy. Star Wars, group projects, and the ephemerality of paint.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

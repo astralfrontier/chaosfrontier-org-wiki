@@ -45,7 +45,7 @@
 * [Session 34](sycamour-division/session-34) - Team vs. Black Rainbow. Shadow, skateboards, and chocolate.
 * [Session 35](sycamour-division/session-35) - Team vs. Eyeballs. We help Marlum with his divorce.
 * Session 36 - Team vs. Psychic Plants. No notes.
-* [Session 37](sycamour-division/session-37) - Team vs. Philosophy. Star Wars, group projects, and the ephemerality of paint.
+* [Session 37](sycamour-division/session-37) - Team vs. Painting. Star Wars, group projects, and ephemerality.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

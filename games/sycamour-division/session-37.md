@@ -1,5 +1,5 @@
 <!-- TITLE: Session 37 -->
-<!-- SUBTITLE: Team vs. Philosophy. Star Wars, group projects, and the ephemerality of paint. -->
+<!-- SUBTITLE: Team vs. Painting. Star Wars, group projects, and ephemerality. -->
 
 # Session 37 (2020-03-07)
 

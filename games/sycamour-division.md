@@ -46,6 +46,7 @@
 * [Session 35](sycamour-division/session-35) - Team vs. Eyeballs. We help Marlum with his divorce.
 * Session 36 - Team vs. Psychic Plants. No notes.
 * [Session 37](sycamour-division/session-37) - Team vs. Painting. Star Wars, group projects, and ephemerality.
+* [Session 38](sycamour-division/session-38) - Team vs. Sycamour. Conclusion of the game.
 # Characters
 * [Red Vox](sycamour-division/red-vox)
 * [Sycamour](sycamour-division/sycamour)

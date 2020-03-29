@@ -8,3 +8,4 @@
 
 # Games I'm playing
 * [Sycamour Division](games/sycamour-division)
+* [Phoenix Academy Brazil](games/pa-brazil)

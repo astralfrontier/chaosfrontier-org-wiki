@@ -12,8 +12,10 @@ And he was my friend and kind of like big brother, so there's that.
 
 > Willow: We saved the life of someone important, either to the city or to us. Who was it? Why are they important?
 
-We saved a former superhero at a place where Levi volunteers. Mr. Auster's old crony, some old inventor dude. Statler & Waldorf style relationship. Waldo/In-Cog-Nito.
+We saved a former superhero at a place where Levi volunteers. Mr. Auster's old crony, some Gold Generation inventor dude. Statler & Waldorf style relationship. Waldo/In-Cog-Nito.
 
 > Riptide: We totally broke some major rules to win the fight. What rules did we break? Whose rules were they?
+
+PA students are supposed to not use their powers without teacher supervision.
 
 > Leviathan: Our victory secured an important resource for A.E.G.I.S. What was it?

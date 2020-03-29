@@ -12,7 +12,7 @@ And he was my friend and kind of like big brother, so there's that.
 
 > Willow: We saved the life of someone important, either to the city or to us. Who was it? Why are they important?
 
-We saved Waldo - "Incognito", a crabby old inventor-type super who is part of the program Levi assists with for retired/disabled supers.
+We saved Waldo - "Incognito", a crabby old inventor-type super who is part of the program Levi assists with for retired/disabled supers. He was at a science fair.
 
 > Riptide: We totally broke some major rules to win the fight. What rules did we break? Whose rules were they?
 

@@ -8,6 +8,8 @@ There was an older kid, someone else with powers, that Lifehack had powered up e
 
 And he was my friend and kind of like big brother, so there's that.
 
+*Sebastian has Fire-based powers, centered around destructive fireballs.*
+
 > Willow: We saved the life of someone important, either to the city or to us. Who was it? Why are they important?
 
 We saved a former superhero at a place where Levi volunteers. Mr. Auster's old crony, some old inventor dude. Statler & Waldorf style relationship. Waldo/In-Cog-Nito.

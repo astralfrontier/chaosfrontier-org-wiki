@@ -13,7 +13,7 @@ Niles Berman
 ## New
 Doctor Gilgamesh - an immortal Doctor Who type mixed with Fate's Gilgamesh, calls everyone "mongrel"
 
-![](https://cdn.discordapp.com/attachments/673990096885907458/693621587408322600/fuckwad.jpg)
+![](https://a-static.besthdwallpaper.com/gilgamesh-fate-zero-wallpaper-32152_L.jpg)
 
 Captain Corsair - a former pirate king who rescued a princess and settled down
 
@@ -29,7 +29,7 @@ Rivet asks Riptide: **Which teacher do you have a secret crush on?** - Glynda Go
 
 Which teacher do you believe is secretly a supervillain?
 
-Which teachers do you think are hooking up?
+Riptide asks Willow: **Which teachers do you think are hooking up?** - x
 
 Which teacher do you think do you think should retire?
 

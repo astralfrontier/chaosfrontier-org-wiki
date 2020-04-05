@@ -50,11 +50,11 @@ https://static.tvtropes.org/pmwiki/pub/images/GK_7731.png
 * Alfie is setting up medbay stuff. Quinn is extracting civilians.
 * Gil sneers at Levi & Rivet. Points big sword at us.
 * Rivet is on board with this. Ferrokinesis to attack with captured swords. -> 4
-* Gil teleports some of the swords back through his gates of Babylon. He swings big sword, giant gust of wind manifests. Riptide defends -> 7
-* Riptide takes a powerful blow -> 6
+* Gil teleports some of the swords back through his gates of Babylon. He swings big sword, giant gust of wind manifests. Levi defends -> 7
+* Levi takes a powerful blow -> 6
 * He starts cutting with wind, inflicting paper cuts.
 * Rivet catches Gil's sword on the downswing, using powers to trap sword in the rubble for a moment. -> 7, resists or avoids blows.
-* Riptide flanks, attacks. -> 7, creates opportunity for allies. Distracting grapple.
+* Levi flanks, attacks. -> 7, creates opportunity for allies. Distracting grapple.
 * Cut to Teddy Urso! He charges in, punches Gil, who goes down.
 * Cut back to team 1. Willow picks up a ping from the ghost lady. W: "I could have helped at the other fight, but we're getting another ping, so pissed at you is gonna have to wait." RT: (superhuman battles, not my thing...) W: "This is the coordinates, let's go."
 * There's one person who's completely stuck. Whole area caved in thanks to falling building. There's a problem with getting them unburied. RT: "Should I get Rivet?" W: "Don't pull someone vital out of a combat."

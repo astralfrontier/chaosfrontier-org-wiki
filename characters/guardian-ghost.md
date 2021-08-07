@@ -1,5 +1,12 @@
-<!-- TITLE: The Guardian Ghost -->
-<!-- SUBTITLE: A fourth-generation Mystery Man -->
+---
+title: The Guardian Ghost
+description: A fourth-generation Mystery Man
+published: true
+date: 2021-08-07T23:33:18.811Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:28:20.444Z
+---
 
 # Background
 Great-grandson of "The Shadow", with the powers but lacking with the guidance to use them. Issues to hit:
@@ -35,9 +42,9 @@ While the public doesn't know too much about the specifics of the Ghosts, or tha
 Miguel is enough of a Murphy to feel obliged to use what powers he has in the cause of justice. But if he's not able to hear the Voice, can he really be one of the Ghosts? Should he even try? Or - perhaps, like his mother wants - should he put it away, and live a normal life? For now, he associates with other heroes, hoping that maybe this will get the Voice's attention, or at least give him some kind of direction.
 
 # Fiction
-* [Miguel learns about using his powers](guardian-ghost/lesson-1)
-* [Miguel's family, costume, and school life](guardian-ghost/lesson-2)
-* [Miguel's graduation as the Ghost](guardian-ghost/lesson-3)
+* [Miguel learns about using his powers](lesson-1)
+* [Miguel's family, costume, and school life](lesson-2)
+* [Miguel's graduation as the Ghost](lesson-3)
 # Gallery
 ![](/uploads/guardian-ghost/sam-murphy.jpg)
 

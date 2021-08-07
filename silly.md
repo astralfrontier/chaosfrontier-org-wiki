@@ -1,5 +1,12 @@
-<!-- TITLE: Silly Ideas -->
-<!-- SUBTITLE: Goofball RPG ideas, dumb mashups, and other shenanigans -->
+---
+title: Silly Ideas
+description: Goofball RPG ideas, dumb mashups, and other shenanigans
+published: true
+date: 2021-08-07T23:36:39.022Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:28:10.801Z
+---
 
 # Weird character ideas
 * Ninja Culinarian - slice and dice monsters, cook delicious food, wield incredibly sharp kitchen knives, and disappear without a trace.
@@ -27,4 +34,4 @@
 * **Maid: the Ascension** - a mashup of [Mage](https://whitewolf.fandom.com/wiki/Mage:_The_Ascension) and [Maid](http://www.maidrpg.com/)
 
 ## Waifu: the Shipping
-Now has its own page at [Waifu: the Shipping](silly/waifu-the-shipping)
+Now has its own page at [Waifu: the Shipping](waifu-the-shipping)

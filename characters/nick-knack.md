@@ -1,8 +1,15 @@
-<!-- TITLE: Nick Knack -->
-<!-- SUBTITLE: A psychic powered by memories -->
+---
+title: Nick Knack
+description: A psychic powered by memories
+published: true
+date: 2021-08-07T23:32:11.979Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:28:23.120Z
+---
 
 # The Nova
-* [Advancement Ideas](nick-knack/advancement)
+* [Advancement Ideas](advancement)
 ## Character Sheet
 **Hero Name**: Nick Knack
 **Real Name**: Nicholai Hel

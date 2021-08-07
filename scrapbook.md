@@ -1,8 +1,15 @@
-<!-- TITLE: The Scrapbook -->
-<!-- SUBTITLE: Where semi-serious ideas incubate -->
+---
+title: The Scrapbook
+description: Where semi-serious ideas incubate
+published: true
+date: 2021-08-07T23:37:41.444Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:28:08.123Z
+---
 
 # General
-[Balancing Creative Debt](scrapbook/balancing-creative-debt)
+[Balancing Creative Debt](balancing-creative-debt)
 # Characters
 ## Fantasy
 I had a dream about a weird pulp-fantasy Summoner character with a crystal eye. She wore an eyepatch over it most of the time, but the eye could be used to summon or conjure fantastic creatures - if she'd seen them with the eye. So her reason for adventuring was to find and confront all these amazing potential summons and thus add their power to her own.
@@ -11,9 +18,9 @@ I'm normally a fan of summoners as a character type, but for some reason I alway
 ## Scifi
 **Induction tattoos**: do your cyberpunk world's bouncers and bodyguards all have cybernetic arms? Why not something different: specialized tattoos made of conductive ink that allow you to supercharge muscles via electrical induction. Their coats have a power source and double as body armor. When they aren't pushing the PCs around, they're at the gym (or the surgeon), where those induction systems help in bodybuilding and regeneration. It's cheaper to clone new arms than manufacture cyberware, anyway, and what's a bodyguard if not disposable? As a bonus, you can see how jacked your goon is by how much of their skin is covered in the stuff.
 ## Supers
-More here: [Masks Characters](scrapbook/masks-characters)
+More here: [Masks Characters](masks-characters)
 
-[The Kingdom and the Throne](scrapbook/kingdom-throne)
+[The Kingdom and the Throne](kingdom-throne)
 
 **Wolverine clone**: a fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
 
@@ -99,19 +106,19 @@ When you roll, you can get one of three outcomes: Success, Surprise, or Salvage.
 * **Surprise** means sacrificing something you wanted, or a way to get what you wanted. The door opens, but not because you did it - maybe you pass to someone else.
 * **Salvage** lets you extract one thing of value from the roll, but the rest is in the GM's hands. Maybe you get a final shot at the boss before collapsing in the burning temple. Maybe you eject, but your plane blows up. The game will acknowledge your attempt and let you be true to who you are.
 # Games
-* [Blood and Thunder](scrapbook/blood-and-thunder) - a Conan-esque game setting for Genesys
-* [Kaiju Pirates](scrapbook/kaiju-pirates)
-* [The Peacock Throne](scrapbook/peacock-throne)
-* [Rifts Revised](scrapbook/rifts-revised)
-* [It Was There, Honest!](scrapbook/it-was-there-honest)
+* [Blood and Thunder](blood-and-thunder) - a Conan-esque game setting for Genesys
+* [Kaiju Pirates](kaiju-pirates)
+* [The Peacock Throne](peacock-throne)
+* [Rifts Revised](rifts-revised)
+* [It Was There, Honest!](it-was-there-honest)
 ## Universal Exports
 A small team of monsters (vampire, werewolf, etc.) get together to hunt down and stop human criminals that are untouchable by conventional law - rich industrialists polluting the earth, well-placed senators who got away with murder or abuse, genius serial killers who can outwit the police, that sort of thing.
 
 The game explores different definitions of "monster", and illustrate how power and instinct can work for both good or bad purposes. You could do this easily enough by dusting off your White Wolf books and running a cross-splat campaign, of course. But I imagine it might benefit from more recent innovations in game design (like how to make planning a caper fun for players).
 # Incomplete Story Ideas
-* [Control and Chaos](scrapbook/control-and-chaos) - a two character comedy about psychic powers and domestication
-* [Road Trip](scrapbook/road-trip) - a post-apoc story
-* [Silverline Five](scrapbook/silverline-five) - a solo-play Masks game turned into a story
+* [Control and Chaos](control-and-chaos) - a two character comedy about psychic powers and domestication
+* [Road Trip](road-trip) - a post-apoc story
+* [Silverline Five](silverline-five) - a solo-play Masks game turned into a story
 
 ## Disney animated variants
 

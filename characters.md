@@ -1,11 +1,18 @@
-<!-- TITLE: Characters -->
-<!-- SUBTITLE: RPG characters I've played or am playing -->
+---
+title: Characters
+description: RPG characters I've played or am playing
+published: true
+date: 2021-08-08T00:04:40.186Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:27:47.609Z
+---
 
 # Characters
 ## Masks
-* [Armiger](characters/armiger)
-* [Guardian Ghost](characters/guardian-ghost)
-* [Nick Knack](characters/nick-knack)
+* [Armiger](armiger)
+* [Guardian Ghost](guardian-ghost)
+* [Nick Knack](nick-knack)
 ## Dan Thursday
 **Aspects**: Exiled Jovian prince exploring the solar system; The world is full of wonders!; Adept of North Polar Jupiter; Primitive does not mean ineffective; Sensitive to sub-etheric vibration
 

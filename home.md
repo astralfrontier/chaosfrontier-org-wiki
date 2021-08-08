@@ -2,7 +2,7 @@
 title: Chaos Frontier
 description: The wiki of the weird and fantastical
 published: true
-date: 2021-08-08T05:15:44.475Z
+date: 2021-08-08T06:31:40.100Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T04:42:06.350Z
@@ -22,4 +22,3 @@ The site is running [wiki.js](https://wiki.js.org/) version 1 in Docker. It's ba
 * [Pandora's Lair RPG Logs](logs)
 * [The Scrapbook](scrapbook) where semi-serious ideas are incubated
 * [Silly ideas](silly) like goofy one-shot games or bizarre mashups
-* [Worlds](worlds) or parts of them, done by myself or others

@@ -2,7 +2,7 @@
 title: Bookmarks
 description: A quick summary of Bookmarks
 published: true
-date: 2021-08-08T23:51:29.053Z
+date: 2021-08-08T23:51:51.156Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:27:44.935Z

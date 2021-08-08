@@ -1,5 +1,12 @@
-<!-- TITLE: Bookmarks -->
-<!-- SUBTITLE: A quick summary of Bookmarks -->
+---
+title: Bookmarks
+description: A quick summary of Bookmarks
+published: true
+date: 2021-08-08T06:31:01.738Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:27:44.935Z
+---
 
 # Game Creation
 [The six emotional arcs of most stories](https://qz.com/726057/researchers-say-nearly-all-books-follow-one-of-these-six-emotional-arcs/)
@@ -45,6 +52,10 @@ I also like to talk about things that are uncomfortable, because they are usuall
 * [LHR to SFO in 4 minutes](https://www.youtube.com/watch?v=CwQ_DVtOESI) - time-lapse from an airplane cockpit
 * [Mathematician Discusses The 'Recamán Sequence' And Why It Gives Him The Chills](https://digg.com/video/recaman-sequence-explained)
   * [Online Encyclopedia of Integer Sequences](https://oeis.org)
+
+## Worlds
+* [Imagine if the oceans were replaced by forests...](https://imgur.com/gallery/jFmnAOt)
+  * [The followup](https://www.reddit.com/r/WritingPrompts/comments/7bv5oo/ot_thanks_to_rwritingprompts_i_spent_the_last_25/)
 
 ## Kittens
 * https://imgur.com/gallery/yuRaz - Sleepy Time

@@ -1,9 +1,16 @@
-<!-- TITLE: Flip A Card -->
-<!-- SUBTITLE: A quick summary of Flip A Card -->
+---
+title: Flip A Card
+description: A quick summary of Flip A Card
+published: true
+date: 2021-08-08T02:58:43.002Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:28:35.145Z
+---
 
 # Card Text
-* [2019 March Prototype](flip-a-card/2019-march-prototype) - the current state of the "core rule" cards
-* [Quickstart and Examples](flip-a-card/quickstart-examples) - hopefully some advice on how to play
+* [2019 March Prototype](2019-march-prototype) - the current state of the "core rule" cards
+* [Quickstart and Examples](quickstart-examples) - hopefully some advice on how to play
 # Unsorted Notes from G+
 A brief stupid thing I showed to a couple friends this week:
 

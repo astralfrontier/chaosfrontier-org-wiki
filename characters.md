@@ -2,7 +2,7 @@
 title: Characters
 description: RPG characters I've played or am playing
 published: true
-date: 2021-08-08T00:04:40.186Z
+date: 2021-08-08T00:05:16.801Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:27:47.609Z
@@ -10,7 +10,7 @@ dateCreated: 2021-08-07T05:27:47.609Z
 
 # Characters
 ## Masks
-* [Armiger](armiger)
+* [Armiger](/en/scrapbook/masks-characters/armiger)
 * [Guardian Ghost](guardian-ghost)
 * [Nick Knack](nick-knack)
 ## Dan Thursday

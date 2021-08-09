@@ -1,5 +1,12 @@
-<!-- TITLE: Page And Antares -->
-<!-- SUBTITLE: A quick summary of Page And Antares -->
+---
+title: Page And Antares
+description: A quick summary of Page And Antares
+published: true
+date: 2021-08-09T01:14:27.182Z
+tags: orphaned
+editor: markdown
+dateCreated: 2021-08-07T05:28:29.955Z
+---
 
 # Page and Antares
 

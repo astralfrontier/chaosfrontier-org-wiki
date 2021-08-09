@@ -1,19 +1,14 @@
 ---
-title: Characters
-description: RPG characters I've played or am playing
+title: Dan Thursday
+description: 
 published: true
-date: 2021-08-08T00:05:16.801Z
-tags: 
+date: 2021-08-09T01:38:15.690Z
+tags: character, fate
 editor: markdown
 dateCreated: 2021-08-07T05:27:47.609Z
 ---
 
-# Characters
-## Masks
-* [Armiger](/en/scrapbook/masks-characters/armiger)
-* [Guardian Ghost](guardian-ghost)
-* [Nick Knack](nick-knack)
-## Dan Thursday
+# Dan Thursday
 **Aspects**: Exiled Jovian prince exploring the solar system; The world is full of wonders!; Adept of North Polar Jupiter; Primitive does not mean ineffective; Sensitive to sub-etheric vibration
 
 **Skills**: Athletics +4, Physique & Survival +3, Notice, Psychic, Stealth +2, Fight, Empathy, Provoke, Shoot, Will +1

@@ -1,5 +1,12 @@
-<!-- TITLE: Ex-Factor -->
-<!-- SUBTITLE: an alternate angle for in-character romance in Masks -->
+---
+title: Ex-Factor
+description: an alternate angle for in-character romance in Masks
+published: true
+date: 2021-08-09T01:22:52.394Z
+tags: orphaned
+editor: markdown
+dateCreated: 2021-08-07T05:28:15.535Z
+---
 
 # Ex-Factor
 I had a simple idea: you can get plenty of interesting drama from two characters in a game if they've already had a romantic relationship, and sometimes more, than if they're going to have one.

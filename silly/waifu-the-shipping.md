@@ -1,5 +1,12 @@
-<!-- TITLE: Waifu The Shipping -->
-<!-- SUBTITLE: A quick summary of Waifu The Shipping -->
+---
+title: Waifu The Shipping
+description: A quick summary of Waifu The Shipping
+published: true
+date: 2021-08-09T01:20:55.775Z
+tags: orphaned
+editor: markdown
+dateCreated: 2021-08-07T05:30:23.789Z
+---
 
 # Waifu: the Shipping
 

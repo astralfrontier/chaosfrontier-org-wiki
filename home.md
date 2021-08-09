@@ -2,7 +2,7 @@
 title: Chaos Frontier
 description: The wiki of the weird and fantastical
 published: true
-date: 2021-08-08T23:51:48.791Z
+date: 2021-08-09T01:15:30.179Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T04:42:06.350Z
@@ -15,7 +15,6 @@ This is the dumping ground for all the creative and gaming stuff I've done for t
 * [Advice](advice) on how to play or write, mine or other peoples'
 * [Bookmarks](bookmarks) of random third-party links
 * [Characters](characters) that I've played or am playing
-* [Fiction](fiction) of all kinds
 * [Games](games) for notes on specific games
 * [Pandora's Lair RPG Logs](logs)
 * [The Scrapbook](scrapbook) where semi-serious ideas are incubated

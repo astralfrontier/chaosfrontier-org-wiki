@@ -1,5 +1,12 @@
-<!-- TITLE: Armiger -->
-<!-- SUBTITLE: He coulda been a contender -->
+---
+title: Armiger
+description: He coulda been a contender
+published: true
+date: 2021-08-09T01:34:39.206Z
+tags: masks, character
+editor: markdown
+dateCreated: 2021-08-07T06:28:27.827Z
+---
 
 # Background
 Adonis Creed, if he joined a group like the Green Lanterns, but instead of magic green rings, it's Thor's hammer, but a fantasy sword.

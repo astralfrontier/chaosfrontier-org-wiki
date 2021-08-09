@@ -1,15 +1,14 @@
 ---
-title: Characters
-description: 
+title: Helping Hand Characters
+description: Sample superheroes for the Helping Hand setting
 published: true
-date: 2021-08-09T09:47:23.107Z
+date: 2021-08-09T09:57:03.869Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-09T09:47:23.107Z
 ---
 
-# Helping Hand Characters
-## Sotiera
+# Sotiera
 **Position**: Ninja. Sotiera sneaks around, imitates other people, and hides using natural camouflage.
 
 **Past**: Sotiera's real name is unrevealed. Ne made contact with the others as a member of Life Force, but has not gone into more detail about nir history.
@@ -21,7 +20,7 @@ dateCreated: 2021-08-09T09:47:23.107Z
 **Problems**: If anything, Sotiera's air of mystery works as often against nem. Ne is reluctant to share personal details or confess moments of weakness.
 
 **Notes**: "Sotiera" is Greek for "savior", and is an alias of the goddess Hecate.
-## Oni
+# Oni
 **Position**: Brute. Oni becomes big, tough, strong, and fast, and uses her physical attributes to lift, break, grab, or move stuff while taking heavy hits.
 
 **Past**: Mitsuko Nemoto was always small and cute. She wore the cutest outfits, she had the cutest smile, and the boys at school would hang out with their girlfriends and sometimes ask about "the cute one". Gradually, Mitsuko got very tired of being cute. When Life Force offered her a Hand, she jumped at the chance.
@@ -33,7 +32,7 @@ dateCreated: 2021-08-09T09:47:23.107Z
 **Problems**: Mitsuko's chosen power is a result of her feelings of dismissal and belittlement. As a result, she can be too enthusiastic in applying her strength. Dignity and recognition are important to her, and being ridiculed (or simply looking ridiculous) can anger or frustrate her.
 
 **Notes**: An Oni is an ogre-like creature from Japanese mythology
-## Vikala
+# Vikala
 **Position**: Wizard. Vikala solves a variety of problems by summoning useful plant life.
 
 **Past**: Chanthavy Phan grew up hoping for good things. She was bright, eager, and motivated. Her love of plants and her native intelligence would have made her a formidable botanist, if money or opportunity were available. Unfortunately, the rampant corruption in her homeland meant she had to study in secret, and abide by the feminine ideals expected of her.
@@ -45,7 +44,7 @@ dateCreated: 2021-08-09T09:47:23.107Z
 **Problems**: Chanthavy has been raised to please other people, and put their concerns first. It sometimes takes some urging to break her out of that mold, and pursue her own interests. She is often slow to devise really novel uses of her plants, but she's amazing at taking others' suggestions and finding ways to make them work.
 
 **Notes**: named for a "yakshini", or nature-spirit or god from Buddhist mythology.
-## Horus
+# Horus
 **Position**: Vigilante. Nour uses animal allies to scout, track, and spy. He prefers to match wits with his enemies.
 
 **Past**: Nour Nader was destined for greatness. The son of a prominent man in government, he was trained with the heirs to fortune and the scions of leadership. While his father rode in the limousine and stared at his Blackberry, Nour rode beside him and stared out the window, seeing how the less well-off toiled and sweated. He felt an instinctive empathy with the people his father's companions called 'animals' or 'beasts of the field'. When it came time for him to take a position, he took one - as a member of Life Force.
@@ -57,7 +56,7 @@ dateCreated: 2021-08-09T09:47:23.107Z
 **Problems**: Nour's attitude sometimes seems like arrogance, or verges onto it. He can get exasperated with people who don't see things from his lofty perspective, and his drive to get things done can push him into impatience when things don't move quickly enough.
 
 **Notes**: named for the Egyptian god of the hunt.
-## Baldur
+# Baldur
 **Position**: Paragon. Eric is difficult to injure, and constantly evolves himself into a newer, better state.
 
 **Past**: Eric Brand lost his parents at a young age. He grappled with his grief in many ways, finally settling on art and music. The raw potency of the Vikings, the bloody passion of the Church, and the subjective distortions of expressionism all spoke to him. Gradually he grew out of his consuming grief, but not out of his art. When Life Force came to him, he saw it as a new medium on which to paint his stark dreams, and a way to protect others from losing loved ones.

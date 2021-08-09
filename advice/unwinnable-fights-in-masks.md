@@ -1,5 +1,12 @@
-<!-- TITLE: Unwinnable Fights In Masks -->
-<!-- SUBTITLE: How to create encounters where the PCs don't just beat up the NPCs -->
+---
+title: Unwinnable Fights In Masks
+description: How to create encounters where the PCs don't just beat up the NPCs
+published: true
+date: 2021-08-09T01:23:22.667Z
+tags: orphaned
+editor: markdown
+dateCreated: 2021-08-07T05:28:17.868Z
+---
 
 # Making Fights Harder
 ## Agendas and Principles

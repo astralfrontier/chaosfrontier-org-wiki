@@ -2,7 +2,7 @@
 title: Helping Hand
 description: An unconventional superhero setting
 published: true
-date: 2021-08-09T09:40:43.773Z
+date: 2021-08-09T09:52:24.895Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-09T09:40:43.773Z

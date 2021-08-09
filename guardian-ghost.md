@@ -2,8 +2,8 @@
 title: The Guardian Ghost
 description: A fourth-generation Mystery Man
 published: true
-date: 2021-08-07T23:33:18.811Z
-tags: 
+date: 2021-08-09T01:35:41.975Z
+tags: masks, character
 editor: markdown
 dateCreated: 2021-08-07T05:28:20.444Z
 ---

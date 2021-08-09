@@ -2,7 +2,7 @@
 title: Bookmarks
 description: A quick summary of Bookmarks
 published: true
-date: 2021-08-08T23:51:51.156Z
+date: 2021-08-09T06:07:09.805Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:27:44.935Z
@@ -17,7 +17,6 @@ dateCreated: 2021-08-07T05:27:44.935Z
 3. https://fonts.google.com/ - the site itself, where I can download web fonts.
 
 ## Artwork
-* [Discord Art Offer](discord-art-offer)
 * [Using CC art in RPGs](https://www.youtube.com/watch?v=ETbmbjH84nw)
 # Clever
 * [Superman with a GoPro](https://www.youtube.com/watch?v=H0Ib9SwC7EI)

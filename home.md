@@ -2,7 +2,7 @@
 title: Chaos Frontier
 description: The wiki of the weird and fantastical
 published: true
-date: 2021-08-09T09:59:33.616Z
+date: 2021-08-10T23:02:47.681Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T04:42:06.350Z
@@ -16,6 +16,7 @@ This is the dumping ground for all the creative and gaming stuff I've done for t
 * [Helping Hand](helping-hand) - a rescue-focused superhero setting
 * [Silverline Five](silverline-five) - a writing project using the Masks: a New Generation rules
 * [Talispire](talispire) - an unconventional take on conventional fantasy
+* [The Wake](the-wake) - a fantasy world where real and dream collided
 
 # Legacy content
 This is stuff that isn't properly sorted yet.

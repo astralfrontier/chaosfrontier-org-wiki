@@ -1,25 +1,32 @@
-<!-- TITLE: Masks Characters -->
-<!-- SUBTITLE: A quick summary of Masks Characters -->
+---
+title: Masks Characters
+description: A quick summary of Masks Characters
+published: true
+date: 2021-08-10T10:05:44.611Z
+tags: 
+editor: markdown
+dateCreated: 2021-08-07T05:30:12.349Z
+---
 
 # By Playbook
 ## Beacon
-* [Ghost](masks-characters/ghost) - a character who thinks they died, and couldn't be happier
-* [Rebel](masks-characters/rebel) - a foreign spy raised under cover of a circus
+* [Ghost](ghost) - a character who thinks they died, and couldn't be happier
+* [Rebel](rebel) - a foreign spy raised under cover of a circus
 ## Bull
-* [Deus Volt](masks-characters/deus-volt) - a crusading electrokinetic
+* [Deus Volt](deus-volt) - a crusading electrokinetic
 ## Delinquent
-* [Exodus](masks-characters/exodus) - a joyriding Jewish teleporter
-* [Sabine](masks-characters/sabine) - a blind speedster
+* [Exodus](exodus) - a joyriding Jewish teleporter
+* [Sabine](sabine) - a blind speedster
 ## Legacy
-* [Armiger](masks-characters/armiger) - wielder of Excalibur
+* [Armiger](armiger) - wielder of Excalibur
 ## Nova
-* [Jung Justice](masks-characters/jung-justice) - a shapeshifter who becomes myths instead of animals
+* [Jung Justice](jung-justice) - a shapeshifter who becomes myths instead of animals
 ## Outsider
-* [Sprout](masks-characters/sprout) - a size-changing, animal-controlling character
+* [Sprout](sprout) - a size-changing, animal-controlling character
 ## Reformed
-* [Durandal](masks-characters/durandal) - a mind-controlled ex-villain who now fights with muscle memory
+* [Durandal](durandal) - a mind-controlled ex-villain who now fights with muscle memory
 ## Transformed
-* [Kudzu](masks-characters/kudzu) - a plant ninja
+* [Kudzu](kudzu) - a plant ninja
 # Other or Undecided
 * a thrill-seeker who manifests powers with enough adrenaline
 * a beastmaster/animal-controller

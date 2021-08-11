@@ -2,7 +2,7 @@
 title: Chaos Frontier
 description: The wiki of the weird and fantastical
 published: true
-date: 2021-08-10T23:02:47.681Z
+date: 2021-08-11T01:46:42.712Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T04:42:06.350Z

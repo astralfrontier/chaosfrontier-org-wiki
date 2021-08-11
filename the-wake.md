@@ -2,13 +2,13 @@
 title: The Wake
 description: A world where dreams and reality have collided
 published: true
-date: 2021-08-10T23:57:56.232Z
+date: 2021-08-11T00:01:47.446Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-10T23:57:56.232Z
 ---
 
-# The Wake
+# Setting
 ## The World
 We have a saying. "Tell me your story." It's an invitation to share yourself with strangers. Your dreams, your hopes, your journey. Dreams are powerful things to us. I'll tell you my story, if you tell me yours.
 

@@ -2,7 +2,7 @@
 title: Game Design Diary
 description: Thoughts on what people do in the Wake
 published: true
-date: 2021-08-12T08:12:22.229Z
+date: 2021-08-12T08:15:39.169Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-12T08:12:22.229Z
@@ -30,3 +30,10 @@ dateCreated: 2021-08-12T08:12:22.229Z
 * There are tiers of skill in using familiars, including:
   * Maintaining multiple familiars
   * Controlling the "slider" on how fused you are
+
+## Phantom equipment
+
+* You can acquire artifacts powered by imagination or the Wake
+* Often these are ordinary items, like a stick or a rock, that have been transformed
+* These are the equivalents of magic items, but they will always be unique, never just a "+1 sword"
+* They cannot be deliberately crafted, only discovered

@@ -2,7 +2,7 @@
 title: Game Design Diary
 description: Thoughts on what people do in the Wake
 published: true
-date: 2021-08-12T08:16:04.026Z
+date: 2021-08-12T08:18:00.310Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-12T08:12:22.229Z
@@ -38,3 +38,12 @@ dateCreated: 2021-08-12T08:12:22.229Z
 * These are the equivalents of magic items, but they will always be unique, never just a "+1 sword"
 * They cannot be deliberately crafted, only discovered
 * Some objects only become magically effective in areas of high Wake concentration
+
+# Inspirations and notes
+
+* Dog Days - the Petting Zoo People are awesome characters, and how their societies fit together is interesting.
+* Tera - the world & setting is basic J- or K-Fantasy, but a lot of it is very overtly in-your-face MAGICAL, starting with the sky.
+* Mage: the Awakening - the metaphysical concept of Atlantis is distantly related to the Wake of this world.
+* Numenera - dream drops are a nod to that game's "cyphers", supplying a solidly backed reason why your magic items are one-shot items with unique quirks attached.
+* The Animatrix / Beyond - a world of dreams and wonders and beauty and risk, sometimes dangerous but mostly weird, threatened by outside-context faceless agents.
+* Furry fandom - the characters aren't necessarily "furry characters". They're humans who can do a Fusion Dance to become were-creatures. But there's some of that sort of thing going on.

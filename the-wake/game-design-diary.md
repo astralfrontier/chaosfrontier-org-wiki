@@ -2,7 +2,7 @@
 title: Game Design Diary
 description: Thoughts on what people do in the Wake
 published: true
-date: 2021-08-12T08:15:39.169Z
+date: 2021-08-12T08:16:04.026Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-12T08:12:22.229Z
@@ -37,3 +37,4 @@ dateCreated: 2021-08-12T08:12:22.229Z
 * Often these are ordinary items, like a stick or a rock, that have been transformed
 * These are the equivalents of magic items, but they will always be unique, never just a "+1 sword"
 * They cannot be deliberately crafted, only discovered
+* Some objects only become magically effective in areas of high Wake concentration

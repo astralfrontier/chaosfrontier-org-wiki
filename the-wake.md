@@ -2,7 +2,7 @@
 title: The Wake
 description: A world where dreams and reality have collided
 published: true
-date: 2021-08-12T07:58:06.638Z
+date: 2021-08-12T08:19:30.721Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-10T23:57:56.232Z
@@ -139,4 +139,5 @@ If the character has an unknown dream drop, they can "sample" it without fully c
 
 Use of a dream drop is noticeable for miles when outside on a clear day or at night. The beam will harmlessly pass through any intervening obstacle between the character and the sky, such as a roof or cave ceiling. Almost everyone is familiar enough with the concept to recognize the shaft of light from ground to sky. Seeing the beam only tells the observer that a dream drop user is at that spot, not who they are or what sort of drop they used. If the weather is bad (fog, clouds, heavy rain, and so on), or if line of sight to the sky is blocked by something, an Overcome action with Notice is necessary to notice it.
 # Other material
+* [Example Dream Drops](example-dream-drops)
 * [Game Design Diary](game-design-diary)

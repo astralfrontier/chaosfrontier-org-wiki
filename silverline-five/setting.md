@@ -2,15 +2,13 @@
 title: Setting
 description: The setting of the Silverline Five world
 published: true
-date: 2021-09-07T08:20:07.070Z
+date: 2021-09-07T08:20:34.159Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T08:20:07.070Z
 ---
 
-# Setting
-
-## History
+# History
 
 Almost sixty years ago, the world met its first public superhuman: a test pilot code-named Apollo. Almost fifty years ago, America put him on the Moon, and ushered in the Space Race.
 
@@ -32,7 +30,7 @@ Today, heroes and villains soar the skies, doing battle with each other. Marvels
 > 
 > *   The ship was built by supervillains or super-scientists. Maybe it started as a vehicle for conquest, but was shot down. The builders might be long gone, or scheming to get it back.
 
-## The City today
+# The City today
 
 Silverline City's population is international and exceptional. Many people around the world live with the risk of bombs or land mines. It takes something extra to live inside a giant sleeping weapon. As a result, only the best of the best live and work here. The ramen chef by the train station knows he could die, or worse, if some Zeta weapon goes off. Then again, he gets to greet world-renowned physicists by first name in the morning. The city's populace is a close-knit family, thanks to shared danger and common purpose.
 
@@ -62,7 +60,7 @@ The city's architecture reflects its international character. North American, As
 > *   Has anyone attacked it, and how did it work out if so?
 > *   Is the city floating, anchored in place (or resting on a continental shelf), or entirely underwater?
 
-## Daily Life
+# Daily Life
 
 When the children of Silverline aren't off playing (or being) heroes, they go to school. Marie Curie Academy is a private school for the gifted, super or not. A mysterious benefactor sometimes sponsors those whose families can't afford tuition. College-age students attend Heywood Floyd University (or "Hey U").
 

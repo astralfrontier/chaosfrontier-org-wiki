@@ -2,7 +2,7 @@
 title: Silverline Five
 description: A fiction series using Masks: a New Generation to guide the creation of the story
 published: true
-date: 2021-09-07T08:20:48.370Z
+date: 2021-09-07T19:44:47.356Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T08:12:55.905Z

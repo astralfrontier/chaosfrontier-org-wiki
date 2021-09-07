@@ -2,7 +2,7 @@
 title: Guardian Ghost
 description: The heir to a Mystery Man legacy
 published: true
-date: 2021-09-07T21:09:11.669Z
+date: 2021-09-07T21:13:42.160Z
 tags: masks, character
 editor: markdown
 dateCreated: 2021-09-07T21:09:11.669Z
@@ -50,12 +50,14 @@ TBD
 
 **Influence**: Give three teammates influence
 
-**Legacy Moves**:
+## Legacy Moves
 
-- I know what I am (the one thing he knows is that he wants to help people)
-- Words of the past (figuring out what to do is a big deal for Miguel)
+**I know what I am** (the one thing he knows is that he wants to help people)
 
-**Legacy**: Your legacy is an important part of Halcyon City. Name the different members of your legacy (at least two):
+**Words of the past** (figuring out what to do is a big deal for Miguel)
+
+## Your Legacy
+Your legacy is an important part of Halcyon City. Name the different members of your legacy (at least two):
 
 - David Murphy (Miguel's father) is still active and prominent in the city.
 - Sam Murphy (the original Guardian Ghost) is retired and quite judgmental.

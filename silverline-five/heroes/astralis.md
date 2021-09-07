@@ -2,7 +2,7 @@
 title: Astralis
 description: An alien space princess
 published: true
-date: 2021-09-07T21:06:36.822Z
+date: 2021-09-07T21:13:03.526Z
 tags: masks, character
 editor: markdown
 dateCreated: 2021-09-07T21:06:36.822Z
@@ -33,6 +33,8 @@ TBD
 - You'd love to kiss Sabine before your doom comes
 
 **Influence**: Give two teammates influence
+
+## Your Doom
 **Nemesis**: The adult heroes of Earth attacked her father. She must find out who led the attack, and why, and retrieve the scepter from them.
 **Doom**: Astralia's Chancellor and bodyguard are overprotective, and wary of giving away her true identity. Facing danger alone, and talking about it openly, bring her doom closer.
 **Doomsigns**: The princess's ship provides an emergency teleport service, but this risks discovery, granting her Portal.

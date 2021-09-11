@@ -2,7 +2,7 @@
 title: The Scrapbook
 description: Where semi-serious ideas incubate
 published: true
-date: 2021-09-11T10:49:49.302Z
+date: 2021-09-11T10:52:21.758Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:28:08.123Z
@@ -19,8 +19,6 @@ I'm normally a fan of summoners as a character type, but for some reason I alway
 **Induction tattoos**: do your cyberpunk world's bouncers and bodyguards all have cybernetic arms? Why not something different: specialized tattoos made of conductive ink that allow you to supercharge muscles via electrical induction. Their coats have a power source and double as body armor. When they aren't pushing the PCs around, they're at the gym (or the surgeon), where those induction systems help in bodybuilding and regeneration. It's cheaper to clone new arms than manufacture cyberware, anyway, and what's a bodyguard if not disposable? As a bonus, you can see how jacked your goon is by how much of their skin is covered in the stuff.
 ## Supers
 More here: [Masks Characters](masks-characters)
-
-[The Kingdom and the Throne](kingdom-throne)
 
 **Wolverine clone**: a fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
 

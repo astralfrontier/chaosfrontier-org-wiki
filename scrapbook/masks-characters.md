@@ -2,7 +2,7 @@
 title: Masks Characters
 description: A quick summary of Masks Characters
 published: true
-date: 2021-09-11T09:31:39.608Z
+date: 2021-09-11T09:32:04.010Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:30:12.349Z
@@ -16,13 +16,8 @@ dateCreated: 2021-08-07T05:30:12.349Z
 * [Deus Volt](deus-volt) - a crusading electrokinetic
 ## Delinquent
 * [Exodus](exodus) - a joyriding Jewish teleporter
-* [Sabine](sabine) - a blind speedster
-## Legacy
-* [Armiger](armiger) - wielder of Excalibur
 ## Nova
 * [Jung Justice](jung-justice) - a shapeshifter who becomes myths instead of animals
-## Outsider
-* [Sprout](sprout) - a size-changing, animal-controlling character
 ## Reformed
 * [Durandal](durandal) - a mind-controlled ex-villain who now fights with muscle memory
 ## Transformed

@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T09:36:12.481Z
+date: 2021-09-11T09:41:11.862Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -25,6 +25,10 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Nova
 
 * [Nick Knack](nick-knack) - a psychic powered by memories and emotions
+
+## Reformed
+
+* [Rivet](rivet) - a cheerful not-so-ex-villain
 
 # Other Projects
 

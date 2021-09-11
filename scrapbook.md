@@ -2,7 +2,7 @@
 title: The Scrapbook
 description: Where semi-serious ideas incubate
 published: true
-date: 2021-09-11T10:58:07.842Z
+date: 2021-09-11T11:06:50.160Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:28:08.123Z
@@ -19,18 +19,6 @@ I'm normally a fan of summoners as a character type, but for some reason I alway
 **Induction tattoos**: do your cyberpunk world's bouncers and bodyguards all have cybernetic arms? Why not something different: specialized tattoos made of conductive ink that allow you to supercharge muscles via electrical induction. Their coats have a power source and double as body armor. When they aren't pushing the PCs around, they're at the gym (or the surgeon), where those induction systems help in bodybuilding and regeneration. It's cheaper to clone new arms than manufacture cyberware, anyway, and what's a bodyguard if not disposable? As a bonus, you can see how jacked your goon is by how much of their skin is covered in the stuff.
 ## Supers
 More here: [Masks Characters](masks-characters)
-
-**Wolverine clone**: a fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
-
-**The Domestic Teleport**: X (fill in name later) discovered an alien artifact buried under their house, exposed by digging in the basement or somesuch. The artifact can lock onto and teleport objects near by - so basically, X can teleport anything that's in their house to another location, and back. Either this is to wherever X is located, or there's some kind of targeting system, or you can send out teleport beacons, or whatever.
-
-So X can equip themselves using anything in the house, but can't teleport anything that won't fit in there, and can't teleport anything back that'll cause problems (so none of this endless-spigots-of-water-from-the-ocean nonsense, or teleporting things into the sun). And X is also facing eviction, or eminent domain claims on the property, or something, that puts long term pressure on them.
-
-**Sam Echevarra** is a professional attorney, and superhuman. She has a variety of super-powers: increased intelligence, enhanced senses, flight, super-durability, and more.
-
-While some super-intelligent supers focus on science or technology, Echevarra devotes her amazing brain power to law. She has an encyclopedic knowledge of the law at different levels. She has devised numerous innovative legal strategies. She has argued in front of the Supreme Court on a few occasions. Her proposals for clarifying amendments to existing law have frequently been accepted by legislators.
-
-Echevarra specializes in prosecuting hard-to-reach crime bosses or influential public figures. She has been both prosecutor and defender. She has successfully repelled several hits on her from the underworld. She has no long-term relationships due to the danger of her job, and often keeps even her coworkers at arm's length to protect them. Despite this social distance, she remains committed to her job.
 
 ## Subversions of Superhero Tropes
 

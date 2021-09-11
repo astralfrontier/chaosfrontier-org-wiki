@@ -2,13 +2,17 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T08:40:30.280Z
+date: 2021-09-11T08:47:31.915Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
 ---
 
 # By Playbook
+
+## Bull
+
+* [Reckoner](reckoner) - a human kaiju
 
 ## Janus
 

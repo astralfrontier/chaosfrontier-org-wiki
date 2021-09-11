@@ -2,7 +2,7 @@
 title: Unstatted Heroes
 description: 
 published: true
-date: 2021-09-11T11:10:07.880Z
+date: 2021-09-11T12:36:50.086Z
 tags: character
 editor: markdown
 dateCreated: 2021-09-11T11:10:07.880Z
@@ -16,9 +16,7 @@ Inspired by Marvel's Wolverline.
 
 ## Breakthrough
 
-A war vet becomes a second-generation superhero, thanks to a buried alien artifact under his parents' house. The artifact infuses him with nanotechnology capable of regenerating any injury, along with fully functional (if obviously alien) prosthetics. However, to keep the nanotech powered and himself healthy, he must return to the house once every 24 hours.
-
-This is complicated by his wife, who needs to live closer to her work, and their daughter, as well as neighborhood gentrification, increasing property taxes, and other challenges to home ownership.
+Background: [Breakthrough](breakthrough)
 
 ## Sam Echevarra
 

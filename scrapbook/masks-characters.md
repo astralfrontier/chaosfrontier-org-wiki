@@ -2,7 +2,7 @@
 title: Masks Characters
 description: A quick summary of Masks Characters
 published: true
-date: 2021-09-11T09:32:04.010Z
+date: 2021-09-11T09:39:29.071Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:30:12.349Z
@@ -11,11 +11,8 @@ dateCreated: 2021-08-07T05:30:12.349Z
 # By Playbook
 ## Beacon
 * [Ghost](ghost) - a character who thinks they died, and couldn't be happier
-* [Rebel](rebel) - a foreign spy raised under cover of a circus
 ## Bull
 * [Deus Volt](deus-volt) - a crusading electrokinetic
-## Delinquent
-* [Exodus](exodus) - a joyriding Jewish teleporter
 ## Nova
 * [Jung Justice](jung-justice) - a shapeshifter who becomes myths instead of animals
 ## Reformed

@@ -2,13 +2,17 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T09:46:56.138Z
+date: 2021-09-11T10:39:31.919Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
 ---
 
 # By Playbook
+
+## Beacon
+
+* [Happy Phantom](happy-phantom) - a self-described ghost
 
 ## Bull
 

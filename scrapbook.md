@@ -2,7 +2,7 @@
 title: The Scrapbook
 description: Where semi-serious ideas incubate
 published: true
-date: 2021-09-11T10:52:21.758Z
+date: 2021-09-11T10:58:07.842Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:28:08.123Z
@@ -44,8 +44,6 @@ The ridiculously buxom and well-built Amazon who's shrouded in mystic mist. She'
 
 The muscular, grizzled male hero with a gem for one eye, and wearing dozens of pouches. In each one is a set of cards, or rune stones, or something else that really does justify dozens of separate pouches. He's not a gun-toting cyborg, he's a mage.
 
-Jacques Rabbit, the Belgian super-soldier enhanced with animal DNA. It was in fact rabbit DNA, making him amazingly nimble, fast, and hyper-sensitive to his surroundings, along with a great kick. Unfortunately he gets no respect, so he compensates by an exaggerated code of honor and cultivates a reputation as a mercenary. Inspired by Batroc the Leaper.
-
 The tortured spirit sent to Hell and offered power in exchange for service on Earth. The catch? She's a sacred soul, sent to Hell to offer redemption to the very damned. She can wield infernal power without corrupting herself, as long as she stays pure in her intentions.
 
 The mystic ninja? Nobody else on the team knows there is one. They don't wear black wraps or highly visible Japanese costumes. It's the team butler, or the valet for the super-vehicles. It's the strangely knowledgeable or lucky civilian the team rescues on the scene, who happens to have the clue they need, or have picked up the vital dingus from the ground, or surreptitiously gets them out of the way of an energy blast just in time, whatever. There was that time, just once, when Noonsister opened a door and thought she saw somebody changing clothes, but there was a cloud of smoke and a log there instead. She shrugged. Weirder things had happened.
@@ -63,12 +61,6 @@ If the scientist ever becomes too calm, alien emotions and knowledge will flood 
 ### Magic Hammer part 2, the Pen of the Bard.
 
 A struggling writer receives a magic quill pen, reputed to be used by Shakespeare and/or other famous authors. Now they can use it to create profoundly persuasive and beautifully scribed works. They develop - or are taught - a system of mystic calligraphy. Using written spells on specially prepared paper, they wield a variety of powers related to paper, ink, letters, and writing in general. If they lose the quill pen, they lose much of their power - which can also happen if they ever cease to pursue the beauty of writing!
-
-### Combining "alien comes to earth" and "kid swears vengeance":
-
-Some time ago, a band of cosmic heroes defeated a Space Empire and its Emperor. While the Emperor was an expansionist ruler, he was also a loving family man, and all that his 8-year-old child knows is that one day aliens from this "Earth" came and shattered their family. Now one child has sworn vengeance: travel to this planet, blend in with the natives, track down the people responsible, and make them pay. How to get close without arousing suspicion? It seems there are these beings called "superheroes", and the angry young heir's quarry is among them...
-
-As an added bonus, for political, religious, or super-physics reasons, whoever defeats the Emperor inherits the throne, but the heroes returned to their home planet and broke the line of succession. The heir must save their Empire from the scheming plans of other heirs or aristocrats by defeating the original cosmic supers and thus claiming the right of inheritance.
 
 ### It's not the vow of vengeance, but a kid's life changed at a young age:
 

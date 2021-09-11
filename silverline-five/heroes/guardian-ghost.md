@@ -2,11 +2,14 @@
 title: Guardian Ghost
 description: The heir to a Mystery Man legacy
 published: true
-date: 2021-09-07T21:13:42.160Z
+date: 2021-09-11T09:37:04.028Z
 tags: masks, character
 editor: markdown
 dateCreated: 2021-09-07T21:09:11.669Z
 ---
+
+> Import content from /guardian-ghost
+{.is-info}
 
 # Background
 Great-grandson of "The Shadow", with the powers but lacking with the guidance to use them.

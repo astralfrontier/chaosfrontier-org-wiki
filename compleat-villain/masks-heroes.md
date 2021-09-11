@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T10:39:31.919Z
+date: 2021-09-11T10:51:21.783Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -33,6 +33,10 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Reformed
 
 * [Rivet](rivet) - a cheerful not-so-ex-villain
+
+# Premade Teams
+
+* [The Kingdom and the Throne](kingdom-throne)
 
 # Other Projects
 

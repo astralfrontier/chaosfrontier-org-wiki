@@ -2,7 +2,7 @@
 title: The Scrapbook
 description: Where semi-serious ideas incubate
 published: true
-date: 2021-08-07T23:37:41.444Z
+date: 2021-09-11T10:49:49.302Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T05:28:08.123Z
@@ -118,7 +118,6 @@ The game explores different definitions of "monster", and illustrate how power a
 # Incomplete Story Ideas
 * [Control and Chaos](control-and-chaos) - a two character comedy about psychic powers and domestication
 * [Road Trip](road-trip) - a post-apoc story
-* [Silverline Five](silverline-five) - a solo-play Masks game turned into a story
 
 ## Disney animated variants
 

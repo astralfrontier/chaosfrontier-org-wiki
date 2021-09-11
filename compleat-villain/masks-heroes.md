@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T09:33:56.917Z
+date: 2021-09-11T09:36:12.481Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -29,11 +29,11 @@ dateCreated: 2021-09-11T08:33:06.258Z
 # Other Projects
 
 * [Silverline Five characters](/silverline-five/heroes)
-  * Astralis - a Doomed space princess
-  * Guardian Ghost - a Mystery Man Legacy
-  * Pelagos - a hydrokinetic Beacon
-  * Sabine - a Delinquent blind speedster
-  * Sprout - an Outsider Borrower with size-shifting powers
+  * [Astralis](/silverline-five/heroes/astralis) - a Doomed space princess
+  * [Guardian Ghost](/silverline-five/heroes/guardian-ghost) - a Mystery Man Legacy
+  * [Pelagos](/silverline-five/heroes/pelagos) - a hydrokinetic Beacon
+  * [Sabine](/silverline-five/heroes/sabine) - a Delinquent blind speedster
+  * [Sprout](/silverline-five/heroes/sprout) - an Outsider Borrower with size-shifting powers
 
 ----
 

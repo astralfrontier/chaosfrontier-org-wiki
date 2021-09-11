@@ -1,8 +1,8 @@
 ---
-title: Masks Heroes character template
-description: 
+title: Reckoner
+description: A human kaiju
 published: true
-date: 2021-09-11T08:53:36.942Z
+date: 2021-09-11T08:55:13.692Z
 tags: masks, character
 editor: markdown
 dateCreated: 2021-09-11T08:53:36.942Z

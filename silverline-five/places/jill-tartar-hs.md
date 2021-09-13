@@ -2,13 +2,13 @@
 title: Jill Tartar High School
 description: 
 published: true
-date: 2021-09-07T19:50:02.684Z
+date: 2021-09-13T04:24:12.686Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-07T19:50:02.684Z
 ---
 
-Named for a famous astronomer known for her work on intelligent life in the universe, this high school is more like a private academy.
+Named for a [famous astronomer](https://en.wikipedia.org/wiki/Jill_Tarter) known for her work on intelligent life in the universe, this high school is more like a private academy.
 
 # Students and Faculty
 The school serves Silverline City's population, and admits students whether or not they have super-powers. Power use is regulated and monitored, but not forbidden outright. Although the school is privately funded, the city has set aside enough money that any middle-school student with good grades and an endorsement from _someone_ can get sponsored.

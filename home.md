@@ -2,7 +2,7 @@
 title: Chaos Frontier
 description: The wiki of the weird and fantastical
 published: true
-date: 2021-10-11T16:45:28.312Z
+date: 2021-11-05T11:39:05.834Z
 tags: 
 editor: markdown
 dateCreated: 2021-08-07T04:42:06.350Z
@@ -14,6 +14,7 @@ This is the dumping ground for all the creative and gaming stuff I've done for t
 # Projects
 
 * [The Compleat Villain](compleat-villain) - a roster of heroes, villains, and other superhero stuff
+* [Constellation Cards](constellation-cards) - details about the worlds of the game
 * [Helping Hand](helping-hand) - a rescue-focused superhero setting
 * [Silverline Five](silverline-five) - a writing project using the Masks: a New Generation rules
 * [The Wake](the-wake) - a fantasy world where real and dream collided

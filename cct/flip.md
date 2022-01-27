@@ -2,7 +2,7 @@
 title: Flip
 description: Replacing a Bit with its opposite
 published: true
-date: 2022-01-27T19:31:06.747Z
+date: 2022-01-27T19:31:31.165Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T19:31:06.747Z
@@ -12,7 +12,7 @@ JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | **Fl
 
 # The Process
 
-Flipping is replacing a Bit with its opposite. You can reverse a traditional dynamic or relationship. You can examine something familiar via contrast. x
+Flipping is replacing a Bit with its opposite. You can reverse a traditional dynamic or relationship, or examine something familiar via contrast.
 
 What does "opposite" mean? It means a word, letter, term, concept, etc. that's on the other end of a **dimension**.
 

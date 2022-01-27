@@ -2,7 +2,7 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T19:32:38.236Z
+date: 2022-01-27T20:00:44.874Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
@@ -55,3 +55,5 @@ You can create colorful and interesting names by transposing a few letters in a 
 You can inject an element of mystery or strangeness by replacing a more common Bit with a rarer one. You created a mysterious clan of moth assassins who worship a dark god, and named the clan the "Tamba". By Drifting T to X, a rarer letter, you get "Xamba". Does that sound creepy enough?
 
 You can randomly replace syllables by rolling 1d100 and looking at the table in the link above. For example, you are creating an underwater realm in a fantasy world. You Split "Atlantis" into "at", "lan", and "tis" as syllables. Rolling 1d100 gives you 97, or "gou". You give your new realm the name "Goulantis", or just "Goulant".
+
+You can also create original starting points by searching for anagrams of words, using tools like this: https://wordsmith.org/anagram/

@@ -2,7 +2,7 @@
 title: Split
 description: Dividing your inventory into usable pieces, called Bits
 published: true
-date: 2022-01-27T17:10:09.881Z
+date: 2022-01-27T17:12:47.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:52:58.881Z
@@ -20,7 +20,7 @@ How you Split depends on what you're trying to achieve. If you want to *name* so
 
 Your goal is to come up with words you can manipulate later on. To do this, look for the interesting nouns, verbs, adjectives, and adverbs in your inventory. The result are your **Bits**.
 
-For example, maybe your Pitch was "A war story about good and evil space knights". Your Bits are "war", "good", "evil", "space", and "knights".
+For example, your Pitch was "A war story about good and evil space knights". Your Bits are "war", "good", "evil", "space", and "knights".
 
 > It's okay to include both a noun or verb by itself, and that word plus any modifiers. For example, you might include "space", "knights", and "space knights".
 {.is-success}

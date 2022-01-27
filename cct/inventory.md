@@ -2,7 +2,7 @@
 title: Inventory
 description: Coming up with your raw creative materials
 published: true
-date: 2022-01-27T20:05:10.635Z
+date: 2022-01-27T22:02:59.033Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:49:37.646Z
@@ -34,6 +34,10 @@ Example pitches:
 If you are writing the plot of your story, the Pitch is also called a "logline". There is an excellent Twitter thread on how to write these:
 
 https://twitter.com/juliayorks/status/1371872855173050370?s=20&t=OKx9Bj1sRlZrRDD4JU_9Rw
+
+This page lists 101 loglines from famous films, which can be useful starting points:
+
+https://screencraft.org/blog/101-best-movie-loglines-screenwriters-can-learn-from/
 
 ## The Menu
 

@@ -2,13 +2,13 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T18:54:19.140Z
+date: 2022-01-27T18:55:53.696Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
 ---
 
-JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
+JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | **Drift** | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
 
 # The Process
 

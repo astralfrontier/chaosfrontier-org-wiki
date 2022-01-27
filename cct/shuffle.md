@@ -2,7 +2,7 @@
 title: Shuffle
 description: Changing the position or relationship between Bits
 published: true
-date: 2022-01-27T22:16:23.808Z
+date: 2022-01-27T22:28:20.634Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T22:16:23.808Z
@@ -27,3 +27,7 @@ Consider "Beauty and the Beast": "A prince cursed to spend his days as a hideous
 ## Shuffles as Twist Endings
 
 A common trope in TV series "The Twilight Zone" was the twist ending. The story would subvert expectations at the last minute, such as having a seemingly alien invasion turn out to be humans from Earth.
+
+## Shuffling Names
+
+If a name doesn't work for you, you can Shuffle the syllables or letters. For example, if calling your underwater continent "Atlantis" is too obvious, "Attislan" may be a step in the right direction.

@@ -2,7 +2,7 @@
 title: Inventory
 description: Coming up with your raw creative materials
 published: true
-date: 2022-01-27T16:49:37.646Z
+date: 2022-01-27T16:51:33.095Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:49:37.646Z
@@ -28,7 +28,7 @@ Example pitches:
 * "A war story about good and evil space knights"
 * "A landmark that would appear in a comic-book superhero city"
 
-> **Don't** try to write your _ending_ pitch! The process you're going through will help you get there. Just write the parts you're already sure of.
+> **Don't** try to write your _ending_ pitch! The process you're going through will help you get there. Only write the parts you're already sure of.
 {.is-warning}
 
 ## The Menu
@@ -36,9 +36,9 @@ Example pitches:
 You can't always write a pitch. This usually happens in two cases:
 
 1. Your pitch would be very generic ("a teenage superhero character")
-2. When you want to take parts from multiple inspirations ("Babylon 5 meets Law & Order")
+2. When you want to take parts from more than one inspiration ("Babylon 5 meets Law & Order")
 
 A good menu will have between two and five items on it. These are the inspirations or examples that are a vital part of your idea.
 
-> You might have more items in mind. Instead of adding them to the main menu, think of them as garnish, to be added later after your idea has taken shape. For example, you might say "I want Babylon 5 meets Law & Order, but with Star Wars lightsabers". Star Wars doesn't go on the menu.
+> You might have more items in mind. Instead of adding them to the main menu, think of them as garnish that you add once your idea has taken shape. For example, you might say "I want Babylon 5 meets Law & Order, but with Star Wars lightsabers". Star Wars doesn't go on the menu.
 {.is-success}

@@ -2,7 +2,7 @@
 title: Flip
 description: Replacing a Bit with its opposite
 published: true
-date: 2022-01-27T20:04:44.876Z
+date: 2022-01-27T22:17:20.794Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T19:31:06.747Z

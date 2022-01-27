@@ -2,7 +2,7 @@
 title: Creative Cooking Toolkit
 description: A process to create characters, situations, themes, and anything else, just from a few starting points
 published: true
-date: 2022-01-27T20:05:23.960Z
+date: 2022-01-27T22:16:34.330Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:15:26.505Z

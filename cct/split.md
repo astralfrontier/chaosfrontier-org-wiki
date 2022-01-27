@@ -2,7 +2,7 @@
 title: Split
 description: Dividing your inventory into usable pieces, called Bits
 published: true
-date: 2022-01-27T17:19:10.459Z
+date: 2022-01-27T17:21:52.603Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:52:58.881Z
@@ -18,14 +18,14 @@ How you Split depends on what you're trying to achieve. If you want to *name* so
 
 ## Splitting by language
 
-To split a sentence or paragraph by language, look for the interesting nouns, verbs, adjectives, and adverbs in your inventory. The result are your **Bits**.
+Look for the interesting nouns, verbs, adjectives, and adverbs in your inventory. The result are your **Bits**. Skip over articles such as "a", "and", or "the", and conjunctions such as "and", "or", and "but".
 
 For example, your Pitch was "A war story about good and evil space knights". Your Bits are "war", "good", "evil", "space", and "knights".
 
 > It's okay to include both a noun or verb by itself, and that word plus any modifiers. For example, you might include "space", "knights", and "space knights".
 {.is-success}
 
-You can create interesting and evocative names by Splitting along syllables or individual letters, then working with those. Many names are anagrams of something else, for example.
+You can create evocative names by Splitting along syllables and individual letters. Many names are anagrams of something else, for example.
 
 ## Splitting by properties
 

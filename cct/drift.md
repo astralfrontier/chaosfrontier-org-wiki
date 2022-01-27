@@ -2,7 +2,7 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T20:25:22.091Z
+date: 2022-01-27T20:42:43.880Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
@@ -27,7 +27,7 @@ What is a dimension? It's any kind of connection. Every Bit has many dimensions.
 * Synonyms ("another word for sword is blade")
 * Rhymes ("pray and play") or soundalikes ("chopper and copper")
 
-You can use resources like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) to find interesting dimensions. Look up your subject, then start looking for linked terms on the page.
+You can use resources like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) to find interesting dimensions. Look up your subject, then start looking for linked terms on the page. You can use [Word Associations Network](https://wordassociations.net/en) to find associated terms for any word.
 
 ## Drifting Words
 

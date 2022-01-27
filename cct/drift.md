@@ -2,7 +2,7 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T18:27:26.144Z
+date: 2022-01-27T18:36:19.762Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
@@ -25,14 +25,17 @@ What is a dimension? It's any kind of connection. Every Bit has many dimensions.
 * Examples of a Bit that's already a class or category ("cars, like an Audi")
 * Things the Bit associates with ("doctors work with nurses and patients")
 * Synonyms ("another word for sword is blade")
+* Rhymes ("pray and play") or soundalikes ("chopper and copper")
 
 ## Drifting Words
 
 Which dimension should you use to Drift?
 
-Drift "up" (to a category or classification) when you want to be vague, generic, or inclusive. Drift "down" (to something specific) when you want to ground your thing in a specific time, place, or mood.
+Drift "up" (to a category or classification) when you want to be vague, generic, or inclusive. Drift "down" (to something specific) when you want to ground your thing in a specific time, place, or mood. You can use resources like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) to find such terms.
 
-Drift "sideways" to give yourself a new feeling or aesthetic. For example, suppose you are working with "laser swords". Synonyms for "sword" include "cutlass", "rapier", and "scimitar". But if you conjure up thoughts of those three weapons, the feeling you get may be very different from each one.
+Drift "sideways" to give yourself a new feeling or aesthetic. For example, suppose you are working with "laser swords". Synonyms for "sword" include "cutlass", "rapier", and "scimitar". But if you conjure up thoughts of those three weapons, the feeling you get may be very different from each one. You can use resources like [thesaurus.com](https://www.thesaurus.com/) to look up common synonyms.
+
+You can Drift along unusual dimensions, such as puns of a word. For example, perhaps Wizards in your world don't cast "spells", but "spills". You decide this means that Wizards splash enchanted ink onto something, then draw magical effects out of it. You can use resources like [punpedia](https://punpedia.org/) to find interesting word variations like this.
 
 You can Drift to an unusual synonym, or a translation into another language. For example, fantasy wizards often cast lightning spells. The Middle English word "levin" also means lightning, but sounds mystical. Fiction often uses Latin instead of English to mark the presence of magic.
 

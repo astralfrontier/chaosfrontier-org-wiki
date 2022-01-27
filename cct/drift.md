@@ -2,7 +2,7 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T20:00:44.874Z
+date: 2022-01-27T20:25:22.091Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
@@ -27,11 +27,13 @@ What is a dimension? It's any kind of connection. Every Bit has many dimensions.
 * Synonyms ("another word for sword is blade")
 * Rhymes ("pray and play") or soundalikes ("chopper and copper")
 
+You can use resources like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) to find interesting dimensions. Look up your subject, then start looking for linked terms on the page.
+
 ## Drifting Words
 
 Which dimension should you use to Drift?
 
-Drift "up" (to a category or classification) when you want to be vague, generic, or inclusive. Drift "down" (to something specific) when you want to ground your thing in a specific time, place, or mood. You can use resources like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) to find such terms.
+Drift "up" (to a category or classification) when you want to be vague, generic, or inclusive. Drift "down" (to something specific) when you want to ground your thing in a specific time, place, or mood.
 
 Drift "sideways" to give yourself a new feeling or aesthetic. For example, suppose you are working with "laser swords". Synonyms for "sword" include "cutlass", "rapier", and "scimitar". But if you conjure up thoughts of those three weapons, the feeling you get may be very different from each one. You can use resources like [thesaurus.com](https://www.thesaurus.com/) to look up common synonyms.
 

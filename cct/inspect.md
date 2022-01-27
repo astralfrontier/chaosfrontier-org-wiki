@@ -2,7 +2,7 @@
 title: Inspect
 description: Seeing if your draft is ready to release!
 published: true
-date: 2022-01-27T20:04:34.473Z
+date: 2022-01-27T22:17:51.558Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:54:07.681Z

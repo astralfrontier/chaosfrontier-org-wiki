@@ -2,13 +2,13 @@
 title: Inventory
 description: Coming up with your raw creative materials
 published: true
-date: 2022-01-27T18:54:39.764Z
+date: 2022-01-27T18:55:17.866Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:49:37.646Z
 ---
 
-JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
+JUMP TO: [Home](/cct) | **Inventory** | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
 
 # The Process
 

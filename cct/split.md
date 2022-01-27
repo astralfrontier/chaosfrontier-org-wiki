@@ -2,13 +2,13 @@
 title: Split
 description: Dividing your inventory into usable pieces, called Bits
 published: true
-date: 2022-01-27T18:54:29.662Z
+date: 2022-01-27T18:55:35.591Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:52:58.881Z
 ---
 
-JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
+JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | **Split** | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
 
 # The Process
 

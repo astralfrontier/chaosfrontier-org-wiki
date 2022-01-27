@@ -2,7 +2,7 @@
 title: Creative Cooking Toolkit
 description: A process to create characters, situations, themes, and anything else, just from a few starting points
 published: true
-date: 2022-01-27T18:54:59.314Z
+date: 2022-01-27T19:09:37.920Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:15:26.505Z
@@ -29,8 +29,9 @@ It's like cooking stew. You choose ingredients, put the best ones in the pot, st
 
 The most important part of the process is not to let yourself stall out. Follow these principles to keep going:
 
-* If you get to a point that doesn't feel like it goes anywhere, back up to an earlier step and try something else
+* List your options, and listen to your feelings about each one
 * If you can't choose between alternatives, roll dice or pick at random
+* If you get to a point that doesn't feel like it goes anywhere, back up to an earlier step and try something else
 * No decision is permanent - if you hate something later on, you can change it!
 
 # Examples

@@ -2,7 +2,7 @@
 title: Inventory
 description: Coming up with your raw creative materials
 published: true
-date: 2022-01-27T18:36:59.558Z
+date: 2022-01-27T18:44:33.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:49:37.646Z
@@ -30,6 +30,10 @@ Example pitches:
 
 > **Don't** try to write your _ending_ pitch! The process you're going through will help you get there. Only write the parts you're already sure of.
 {.is-warning}
+
+If you are writing the plot of your story, the Pitch is also called a "logline". There is an excellent Twitter thread on how to write these:
+
+https://twitter.com/juliayorks/status/1371872855173050370?s=20&t=OKx9Bj1sRlZrRDD4JU_9Rw
 
 ## The Menu
 

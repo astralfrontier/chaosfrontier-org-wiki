@@ -2,11 +2,13 @@
 title: Creative Cooking Toolkit
 description: A process to create characters, situations, themes, and anything else, just from a few starting points
 published: true
-date: 2022-01-27T16:15:26.505Z
+date: 2022-01-27T16:18:00.805Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:15:26.505Z
 ---
+
+JUMP TO: [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
 
 # Introduction
 "I have to come up with something but I don't have any ideas!"
@@ -27,10 +29,12 @@ It's like cooking stew. You choose ingredients, put the best ones in the pot, st
 
 # Examples
 
-Have you noticed that the setting for the "Dragon Age" video game series is Thedas? [THE Dragon Age Setting](https://www.gamespot.com/articles/dragon-age-thedas-just-stands-for-the-dragon-age-setting/1100-6499396/)?
-
-Did you know that "Star Trek Beyond" included a character named [Jaylah](https://www.usatoday.com/story/life/entertainthis/2016/07/14/jennifer-lawrence-jlaw-jaylah-star-trek-beyond/87088456/), because the writers' room kept referring back to Jennifer Lawrence - J-Law?
-
 The video game series "Legacy of Kain" is set in a world called "[Nosgoth](https://legacyofkain.fandom.com/wiki/Nosgoth)". How could we arrive at that? Let's write our premise: "This is a game about moody vampires". Through Drift, we can restate that as "this is a game about Gothic Nosferatu". By Splitting and Remixing, we can get GOTHic NOSferatu, and eventually "Nosgoth".
+
+> Have you noticed that the setting for the "Dragon Age" video game series is Thedas? [THE Dragon Age Setting](https://www.gamespot.com/articles/dragon-age-thedas-just-stands-for-the-dragon-age-setting/1100-6499396/)?
+{.is-info}
+
+> Did you know that "Star Trek Beyond" included a character named [Jaylah](https://www.usatoday.com/story/life/entertainthis/2016/07/14/jennifer-lawrence-jlaw-jaylah-star-trek-beyond/87088456/), because the writers' room kept referring back to Jennifer Lawrence - J-Law?
+{.is-info}
 
 Experienced, professional writers use methods like this all the time. It's okay for you to do the same thing.

@@ -2,7 +2,7 @@
 title: Creative Cooking Toolkit
 description: A process to create characters, situations, themes, and anything else, just from a few starting points
 published: true
-date: 2022-01-27T16:53:11.584Z
+date: 2022-01-27T17:14:46.114Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:15:26.505Z
@@ -29,7 +29,7 @@ It's like cooking stew. You choose ingredients, put the best ones in the pot, st
 
 # Examples
 
-The video game series "Legacy of Kain" is set in a world called "[Nosgoth](https://legacyofkain.fandom.com/wiki/Nosgoth)". How could we arrive at that? Let's write our premise: "This is a game about moody vampires". Through Drift, we can restate that as "this is a game about Gothic Nosferatu". By Splitting and Remixing, we can get GOTHic NOSferatu, and eventually "Nosgoth".
+The video game series "Legacy of Kain" is set in a world called "[Nosgoth](https://legacyofkain.fandom.com/wiki/Nosgoth)". How could we arrive at that? Let's write our premise: "This is a game about moody vampires". Through Drift, we can restate that as "this is a game about Gothic Nosferatu". By Splitting and Shuffling, we can get GOTHic NOSferatu, and eventually "Nosgoth".
 
 Have you noticed that the setting for the "Dragon Age" video game series is Thedas? [THE Dragon Age Setting](https://www.gamespot.com/articles/dragon-age-thedas-just-stands-for-the-dragon-age-setting/1100-6499396/)?
 

@@ -2,7 +2,7 @@
 title: Inventory
 description: Coming up with your raw creative materials
 published: true
-date: 2022-01-27T18:44:33.064Z
+date: 2022-01-27T18:54:39.764Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:49:37.646Z

@@ -2,13 +2,13 @@
 title: Creative Cooking Toolkit
 description: A process to create characters, situations, themes, and anything else, just from a few starting points
 published: true
-date: 2022-01-27T16:51:49.859Z
+date: 2022-01-27T16:53:11.584Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:15:26.505Z
 ---
 
-JUMP TO: [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
+JUMP TO: [Home](/cct) | [Inventory](/cct/inventory) | [Split](/cct/split) | [Flip](/cct/flip) | [Drift](/cct/drift) | [Shuffle](/cct/shuffle) | [Remix](/cct/remix) | [Inspect](/cct/inspect)
 
 # Introduction
 "I have to come up with something but I don't have any ideas!"

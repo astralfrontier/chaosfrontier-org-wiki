@@ -2,7 +2,7 @@
 title: Split
 description: Dividing your inventory into usable pieces, called Bits
 published: true
-date: 2022-01-27T18:55:35.591Z
+date: 2022-01-27T19:32:19.287Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T16:52:58.881Z

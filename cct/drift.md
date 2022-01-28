@@ -2,7 +2,7 @@
 title: Drift
 description: Replacing a Bit with another similar Bit
 published: true
-date: 2022-01-27T22:17:30.363Z
+date: 2022-01-28T03:29:54.745Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T18:27:26.144Z
@@ -59,3 +59,9 @@ You can inject an element of mystery or strangeness by replacing a more common B
 You can randomly replace syllables by rolling 1d100 and looking at the table in the link above. For example, you are creating an underwater realm in a fantasy world. You Split "Atlantis" into "at", "lan", and "tis" as syllables. Rolling 1d100 gives you 97, or "gou". You give your new realm the name "Goulantis", or just "Goulant".
 
 You can also create original starting points by searching for anagrams of words, using tools like this: https://wordsmith.org/anagram/
+
+## Drifting Names
+
+If you're naming something based on an existing TV or movie character, you can Drift to the name of their actor, and vice versa. For example, World of Warcraft features an archaeologist character named Harrison Jones, taken from "Indiana Jones" (the archaeologist character) and "Harrison Ford" (the actor who played him).
+
+If you want to make your influences obvious, you can stop here. Otherwise, you can use other tools. For example, we want to create a character similar to Honey Lemon, from "Big Hero 6". Her voice actress is named Genesis Rodriguez. One of Honey Lemon's teammates is named Gogo Tomago. We drift in two directions (to another character and to an actress) to get Gogo Rodriguez, and finally drift letters. Our final character name is Nono Rodriguez.

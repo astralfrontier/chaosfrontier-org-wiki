@@ -2,7 +2,7 @@
 title: Final Fantasy Fusion Jobs
 description: 
 published: true
-date: 2022-02-03T21:13:37.378Z
+date: 2022-02-03T21:14:56.150Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-03T21:13:37.378Z
@@ -25,7 +25,7 @@ dateCreated: 2022-02-03T21:13:37.378Z
 
 - Wardancer (WAR/DNC) - an athletic tank whose inner beast is more like a feline predator
 - White Summoner (WHM/SMN) - a conjurer of healing-type primals
-- Gun Monk (MCH/MNK) - a mixture of martial arts and gunplay, focusing on CQC
+- Gun Monk (GNB/MNK) - a mixture of martial arts and gunplay, focusing on CQC
 -  Dark Archer (DRK/BRD) - draws on inner grief to sing dirges & rain down ghostly arrows
 - Shinobi Scholar (NIN/SCH) - uses faerie magic and a fae companion to deceive and ensorcel enemies
 - Black Sage (BLM/SGE) -alternate between harmful fire attacks & protective ice barriers for allies

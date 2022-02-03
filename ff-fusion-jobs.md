@@ -2,7 +2,7 @@
 title: Final Fantasy Fusion Jobs
 description: 
 published: true
-date: 2022-02-03T21:14:56.150Z
+date: 2022-02-03T21:16:06.981Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-03T21:13:37.378Z
@@ -32,3 +32,4 @@ dateCreated: 2022-02-03T21:13:37.378Z
 - Gunlancer (GNB/DRG) - rocket into a pack of enemies and tank them with sweeping spear moves + explosive charges
 - Fated Blade (AST/SAM) - discern your enemy’s destiny, then enact it with your katana
 - Red Knight (RDM/PLD) - build up dual mana via Sword & Shield Oath, unleash it in a storm of blades!
+- Beast Reaper (BLU/RPR) - defeat powerful monsters, then bind their spirits to yours as an avatar and unleash their attacks via your scythe

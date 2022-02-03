@@ -2,7 +2,7 @@
 title: Final Fantasy Fusion Jobs
 description: 
 published: true
-date: 2022-02-03T21:29:42.547Z
+date: 2022-02-03T21:38:06.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-02-03T21:13:37.378Z
@@ -48,5 +48,5 @@ dateCreated: 2022-02-03T21:13:37.378Z
 - Kishin (MNK/DNC) - wear rings around your forearms that can either enhance your unarmed strikes, or be thrown to strike enemies at range
 
 ## Caster DPS
-- Shinobi Scholar (NIN/SCH) - uses faerie magic and a fae companion to deceive and ensorcel enemies
+- Shinobi Mystic (NIN/SCH) - uses faerie magic and a fae companion to deceive and ensorcel enemies
 - Sixshot (GNB/RDM) - cycle through elemental ammunition to build up an aetheric charge in your gunblade, then explosively release it with a critical strike!

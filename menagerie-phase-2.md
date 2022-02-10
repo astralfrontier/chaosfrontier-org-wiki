@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-02-10T12:00:20.711Z
+date: 2022-02-10T12:00:39.066Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -34,6 +34,8 @@ https://en.wikipedia.org/wiki/History_of_Iceland#Iceland_under_Norwegian_and_Dan
 https://en.wikipedia.org/wiki/Laki#Consequences_in_Iceland
 
 ## Space
+
+* Concord is off doing space stuff, but comes back to do.. what?
 
 ## Finale
 

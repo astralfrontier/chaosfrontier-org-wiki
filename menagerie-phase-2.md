@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-02-10T11:50:26.669Z
+date: 2022-02-10T12:00:20.711Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -18,6 +18,7 @@ Site: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 
 * Dr. Chin occupies an old Quill compound (where?)
 * A spider-bot that looks like Alycia will attack the team
+* Alycia meets Amir
 
 ## The Hidden Family
 

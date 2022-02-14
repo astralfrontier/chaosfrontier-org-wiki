@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T12:54:50.547Z
+date: 2022-02-14T13:00:44.743Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -58,9 +58,9 @@ TBD
 
 ## Janus Moves
 
-- The Mask (embodies Savior)
-- Game Face
-- Mild-Mannered
+- **The Mask (embodies Savior)**: "My brother wouldn't want me using this, but he isn't, so...!"
+- **Game Face**: "Z-Gun, charged. Jet pack, full throttle!"
+- **Mild-Mannered**: "Golly gee, Mister, I'm just a kid!"
 
 ## Secret Identity
 

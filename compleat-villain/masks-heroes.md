@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2021-09-11T10:52:00.757Z
+date: 2022-02-14T03:48:05.762Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -21,6 +21,7 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Janus
 
 * [Gogo](gogo) - a fluid hero with galago powers
+* [Spitfire](spitfire) - a Golden Age hero with a jetpack
 
 ## Legacy
 

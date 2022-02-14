@@ -2,29 +2,19 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T05:09:59.260Z
+date: 2022-02-14T11:52:41.572Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
 ---
 
-# GM Summary
-
-* Vic Venture, delivery boy and kid brother to a war hero
-* Based on The Rocketeer, complete with jet pack and energy-draining ray gun
-* NPCs: Andrew Davis Venture (big brother), Doctor Zap (friendly scientist)
-* Moods:
-  * idolize his big brother
-  * stand up for his friends and those in need
-  * keep his word, obey authority, but do what's right first and foremost
-  * fight crime with a cool jet pack
-  * be a clean cut All American boy
+![r91045.jpg](/r91045.jpg)
 
 # Background
 
 ## When did you first put on the mask? Why?
 
-Vic's big brother Andrew Davis Venture, known as "Andy" to his family, was a member of the elite Rocket Rangers. His "Z-Factor" gene gave him heightened abilities and a three-dimensional orienteering sense. When Andy came home from the war, he hung up his jet pack and Z-Gun to become a shoe salesman, and married his high school sweetheart and singer Dinah Holiday.
+Vic's big brother Andrew Davis "Andy" Venture was a member of the elite Rocket Rangers. Andy's "Z-Factor" gene gave him heightened abilities and a three-dimensional orienteering sense. When Andy came home from the war, he hung up his jet pack and Z-Gun to become a shoe salesman, and married his high school sweetheart and singer Dinah Holiday.
 
 Vic had been a "scrapper" during the war, collecting recyclables and salvaging discarded materials for the war effort. In that time, he'd seen the crime on the streets of Halcyon. The war might have ended, but crime hadn't. What was Andy doing, just giving up? Vic took his jet pack in secret, strapped it on, and adopted the nickname "Spitfire". Sure, he might not have the training. But he has the Z-Factor too, and the determination to save people!
 
@@ -35,7 +25,7 @@ The Rocket Rangers were, of course, super duper top secret. Andy can't talk abou
 Of course, his big brother's smart. That's why Vic built a replacement jet pack out of scrap he'd collected, and left it where he'd taken the original pack. As long as Andy doesn't try to fly, he'll never know!
 
 ## Who, outside of the team, knows about your dual identity?
-Doctor Zap, the discoverer of the Z-Factor, and inventor of the jet pack and Z-Gun. When Vic jetted up to the Zappelin, the floating former base of the Rocket Rangers, the good Doctor was still there. 
+Doctor Zap, the discoverer of the Z-Factor, and inventor of the jet pack and Z-Gun. When Vic flew out to the Zappelin, the former base of the Rocket Rangers, the good Doctor was still there. 
 
 He taught Vic how the Z-Gun can absorb energy, which is fed into the jet pack to generate thrust. Vic still isn't sure why the Doctor hasn't told anyone. Or maybe he has? Either way, he's been supportive.
 
@@ -80,4 +70,29 @@ Obligations:
 - School (track team - he's always been good at running)
 - Social (his brother Andy needs Vic's help around the house and at his job, of course)
 
-![r91045.jpg](/r91045.jpg)
+# GM Summary
+
+* Vic Venture, delivery boy and kid brother to a war hero
+* Based on The Rocketeer, complete with jet pack and energy-draining ray gun
+* NPCs:
+  * Andrew Davis Venture (big brother, retired Rocket Ranger)
+  * Doctor Zap (friendly scientist, inventor of the Ranger tech)
+  * Aldous Ashton (writer, journalist, opposes superheroes for war purposes)
+* Places:
+  * The Zappelin (a dirigible, once the Rangers' base, now crashed and wedged between two canyon walls)
+  * Lancaster Flower Shop (where Vic works)
+* What does Vic care about?
+  * idolizing his big brother
+  * standing up for his friends and those in need
+  * keeping his word, obeying authority, but doing what's right first and foremost
+  * being a clean cut All American boy
+* Where does it all go wrong?
+  * Andy finds out
+  * Another Ranger (or another WW2 hero who worked with the Rangers) shows up
+  * An old enemy of the Rangers attacks
+  * Vic briefly loses access to the jet pack
+  * Someone in authority orders Spitfire to stand down or deliver the rocket pack
+* Where do lives cross over?
+  * Aldous Ashton shows up at Mr. Venture's house on regular social calls
+  * Andy knows everything about Rangers & their tech
+  * Vic delivers flowers to someone in the hero community

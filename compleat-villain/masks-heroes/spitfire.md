@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T13:00:44.743Z
+date: 2022-02-14T13:07:40.301Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -22,7 +22,7 @@ Vic had been a "scrapper" during the war, collecting recyclables and salvaging d
 
 The Rocket Rangers were, of course, super duper top secret. Andy can't talk about it (except with a few war buddies that come to visit him now and again). Plus, Andy would be upset if he knew Vic was using the jet pack. That's why it's extra important that it doesn't come out. He'd be compromising a United States military secret. But more importantly, he'd be letting Andy down.
 
-Of course, his big brother's smart. That's why Vic built a replacement jet pack out of scrap he'd collected, and left it where he'd taken the original pack. As long as Andy doesn't try to fly, he'll never know!
+Of course, his big brother's smart. That's why Vic built a fake jet pack out of scrap he'd collected, and left it where he'd taken the original pack. As long as Andy doesn't try to fly, he'll never know!
 
 ## Who, outside of the team, knows about your dual identity?
 Doctor Zap, the discoverer of the Z-Factor, and inventor of the jet pack and Z-Gun. When Vic flew out to the Zappelin, the former base of the Rocket Rangers, the good Doctor was still there. 

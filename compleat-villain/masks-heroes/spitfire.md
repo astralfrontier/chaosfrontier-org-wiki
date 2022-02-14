@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T11:52:41.572Z
+date: 2022-02-14T11:54:16.651Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -89,9 +89,11 @@ Obligations:
 * Where does it all go wrong?
   * Andy finds out
   * Another Ranger (or another WW2 hero who worked with the Rangers) shows up
-  * An old enemy of the Rangers attacks
+  * An old enemy of the Rangers attacks Spitfire
   * Vic briefly loses access to the jet pack
   * Someone in authority orders Spitfire to stand down or deliver the rocket pack
+  * What if Andy or the Rangers did something dark?
+  * What if Ashton is more than he seems? What if he's got a point?
 * Where do lives cross over?
   * Aldous Ashton shows up at Mr. Venture's house on regular social calls
   * Andy knows everything about Rangers & their tech

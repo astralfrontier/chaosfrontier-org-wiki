@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T13:07:40.301Z
+date: 2022-02-14T23:02:15.546Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -33,7 +33,7 @@ He taught Vic how the Z-Gun can absorb energy, which is fed into the jet pack to
 Aldous Ashton, a writer and journalist, who condemned the role of superheroes in the War. His firebrand columns denounce the Rocket Rangers, including Spitfire, calling for civilian law enforcement and peacekeeping efforts to take over. Ashton knows Mr. Venture (Vic's father) socially, and has visited their house on occasion, but Vic doesn't know how they're connected.
 
 ## Why do you care about the team?
-TBD
+Well, all these people seem to have something to do with the war, somehow or other. Maybe they can give me some pointers on how to go about doing this hero thing!
 
 # The Janus
 **Hero Name**: Spitfire

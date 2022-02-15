@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-14T23:02:15.546Z
+date: 2022-02-15T15:30:38.900Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -51,6 +51,9 @@ TBD
 **Relationships**:
 - TBD knew you from your civilian life first.
 - You refused to tell TBD your secret identity when they asked.
+
+Incoming:
+- Spitfire is awesome, and Glass takes every chance she gets to hang out with him.
 
 **Influence**: You look up to your teammates; they seem to have this superhero thing figured out. Give two of them Influence over you
 

@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-16T14:16:35.974Z
+date: 2022-02-16T14:17:13.442Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -78,11 +78,12 @@ Obligations:
 * Vic Venture, delivery boy and kid brother to a war hero
 * Based on The Rocketeer, complete with jet pack and energy-draining ray gun
 * NPCs:
-  * Charles and Clara Venture (father and mother, businessman and housewife)
   * Andrew Davis Venture (big brother, retired Rocket Ranger, inspired by the original Rocketeer Cliff Secord)
   * Dinah Holiday Venture (Andy's wife, jazz singer, inspired by Billie Holiday & Dinah Washington)
   * Doctor Daedalus (friendly scientist, inventor of the Ranger tech)
   * Aldous Ashton (writer, journalist, opposes superheroes for war purposes, inspired by Aldous Huxley and other anti-war writers)
+  * Charles and Clara Venture (father and mother, businessman and housewife)
+  * Mr. Lancaster (owner of flower ship where Vic works)
 * Places:
   * Zeppelin Zero (a dirigible, once the Rangers' base, now crashed and wedged between two canyon walls)
   * Lancaster Flower Shop (where Vic works)

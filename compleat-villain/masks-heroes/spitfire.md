@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-16T14:17:13.442Z
+date: 2022-02-17T02:25:36.765Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -81,7 +81,7 @@ Obligations:
   * Andrew Davis Venture (big brother, retired Rocket Ranger, inspired by the original Rocketeer Cliff Secord)
   * Dinah Holiday Venture (Andy's wife, jazz singer, inspired by Billie Holiday & Dinah Washington)
   * Doctor Daedalus (friendly scientist, inventor of the Ranger tech)
-  * Aldous Ashton (writer, journalist, opposes superheroes for war purposes, inspired by Aldous Huxley and other anti-war writers)
+  * Aldous Ashton (writer, journalist, opposes superheroes for war purposes, inspired by Aldous Huxley and other anti-war writers, writes for the Patriot's Paragon)
   * Charles and Clara Venture (father and mother, businessman and housewife)
   * Mr. Lancaster (owner of flower ship where Vic works)
 * Places:

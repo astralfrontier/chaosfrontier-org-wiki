@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-02-10T13:23:28.205Z
+date: 2022-02-19T20:02:39.694Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -20,14 +20,9 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 
 ## Atlantis
 
-* Ji-a gives herself up, carries the broadcast device
-* Trace, Fuko, and Leo have to fight their way out
-
 ## King Paimon
 
 ## The Void Shadow Collective
-
-* Concord is off doing space stuff, but comes back to do.. what?
 
 ## Finale
 

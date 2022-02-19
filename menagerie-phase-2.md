@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-02-19T20:02:39.694Z
+date: 2022-02-19T20:10:27.789Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -39,7 +39,6 @@ Link: https://forum.menagerie.team/t/the-hidden-family-of-the-throne/1079?u=garr
 * Members have an extra [cervical rib](https://en.wikipedia.org/wiki/Cervical_rib)
 * They're using ghosts to partially possess people, to maintain knowledge over time
 * Ties to the [royal family](https://en.wikipedia.org/wiki/History_of_Iceland#Iceland_under_Norwegian_and_Danish_kings_(1262%E2%80%931944))
-* The [Mist Times](https://en.wikipedia.org/wiki/Laki#Consequences_in_Iceland)
 
 # Plot Crossovers
 

@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-02-14T11:44:13.116Z
+date: 2022-02-26T18:00:08.565Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -34,6 +34,10 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Reformed
 
 * [Rivet](rivet) - a cheerful not-so-ex-villain
+
+## Transformed
+
+* [Xenocryst](xenocryst) - an archaeologist's kid who made a hard choice
 
 # Premade Teams
 

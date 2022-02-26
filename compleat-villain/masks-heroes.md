@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-02-26T18:00:08.565Z
+date: 2022-02-26T18:00:40.588Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -29,6 +29,7 @@ dateCreated: 2021-09-11T08:33:06.258Z
 
 ## Nova
 
+* [Archive](archive) - a character with an alien civilization's memories in their head
 * [Nick Knack](nick-knack) - a psychic powered by memories and emotions
 
 ## Reformed

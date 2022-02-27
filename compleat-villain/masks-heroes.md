@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-02-26T18:00:40.588Z
+date: 2022-02-27T18:13:01.659Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -39,6 +39,14 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Transformed
 
 * [Xenocryst](xenocryst) - an archaeologist's kid who made a hard choice
+
+# Unsorted
+
+Starhawk (Legacy). Young Starhawks are sent from the stars of their birth to pair with mortals, gaining experience about the universe and granting power in trade. You are the first to receive one still in the egg. Until it hatches, you must both protect the gem-like plasma egg you bear and use its nascent powers for good.
+
+Archive (Nova). Your visit to an experimental observatory ended when you were struck by a cosmic beam that encoded a dying civilization's collective wisdom. Now you've got all this knowledge and all this power, and it's threatening to burn its way out of your skull unless you do something with it.
+
+Breakthrough (Transformed). The Hybrians found you in the house fire and saved your life by turning you into this technopathic machine eater aboard their UFO. You're chosen, they say. Chosen for what? That, they won't say, only that they're coming back for you in time. Until then, you can read every email and every text on the planet thanks to your powers. You know what people think of you here. Maybe it won't be so bad somewhere else.
 
 # Premade Teams
 

@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:22:56.072Z
+date: 2022-02-28T06:24:27.244Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -49,7 +49,7 @@ The rest of this team feels like it kinda needs some support too, honestly.
   - Make Finn responsible for the actions of the last Starhawk who rolled into town, caused a ruckus while fixing a problem, and bailed.
   - Have another Starhawk show up and criticize or mock him. 
   - Kick off a romance or rivalry plot with an alien who has ties to the Starhawks.
-  - Have the chick (or another starbird) reveal some portentouos cosmic truth through dreams or prophecy
+  - Have the chick (or another starbird) reveal some portentous cosmic truth through dreams or prophecy
 
 # The Legacy
 **Hero Name**: Starhawk ("the Starhawk of Sol")

@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-02-27T18:13:01.659Z
+date: 2022-02-28T05:17:15.828Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -26,6 +26,7 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Legacy
 
 * [Armiger](armiger) - wielder of Excalibur
+* [Starhawk](starhawk) - a substitute mama bird for a cosmic creature
 
 ## Nova
 

@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:37:50.256Z
+date: 2022-02-28T06:50:08.721Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -15,7 +15,7 @@ I take care of this baby bird. It's going to hatch into something amazing someda
 
 The dreams led Finn to the mountains behind his family home. He found a crater where a meteor had fallen, and a gemstone at the center of it. He could feel something alive in it, so he took it home and did his best to make it feel comfortable.
 
-A week later, the alien descended from the sky in a fiery blaze. The gem held a cosmic creature known as a Starhawk, they explained. Normally a Starhawk would take up residence in a star, then emerge and bond with someone. This one had been knocked off course.
+A week later, the alien descended from the sky in a fiery blaze. The gem held a cosmic creature known as a Starhawk, they explained. Normally a Starhawk would take up residence in a star, hatch, then emerge and bond with someone. This one had been knocked off course.
 
 The alien tried to take the gem. The gem didn't want to go.
 

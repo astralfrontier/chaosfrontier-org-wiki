@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:37:32.148Z
+date: 2022-02-28T06:37:50.256Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -83,6 +83,6 @@ Your legacy is an important part of Halcyon City. Name the different members of 
 
 # Media
 
-![finnlund.jpg](/finnlund.jpg =50%x50%)
+![finnlund.jpg](/finnlund.jpg =25%x25%)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUh-BAe0DwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

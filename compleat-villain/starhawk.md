@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:24:27.244Z
+date: 2022-02-28T06:32:12.872Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -81,6 +81,8 @@ Your legacy is an important part of Halcyon City. Name the different members of 
 - Blaze Nova (the Starhawk of Arcturus) is still active and prominent in the galaxy
 - Stellar Shroud (the Starhawk of Procyon) is retired and quite judgemental
 
-----
+# Media
+
+![finnlund.jpg](/finnlund.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oUh-BAe0DwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

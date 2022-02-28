@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-02-28T06:35:01.096Z
+date: 2022-02-28T06:35:21.322Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -42,8 +42,6 @@ dateCreated: 2021-09-11T08:33:06.258Z
 * [Xenocryst](xenocryst) - an archaeologist's kid who made a hard choice
 
 # Unsorted
-
-Starhawk (Legacy). Young Starhawks are sent from the stars of their birth to pair with mortals, gaining experience about the universe and granting power in trade. You are the first to receive one still in the egg. Until it hatches, you must both protect the gem-like plasma egg you bear and use its nascent powers for good.
 
 Archive (Nova). Your visit to an experimental observatory ended when you were struck by a cosmic beam that encoded a dying civilization's collective wisdom. Now you've got all this knowledge and all this power, and it's threatening to burn its way out of your skull unless you do something with it.
 

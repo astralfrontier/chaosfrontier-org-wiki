@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:19:57.555Z
+date: 2022-02-28T06:22:03.936Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -40,7 +40,10 @@ The rest of this team feels like it kinda needs some support too, honestly.
 # Notes for the GM
 
 - **What's Finn's core Condition?** He'll probably mark Insecure or Hopeless often, because he's taking on a lot of responsibility.
-- **How do I relate to the Starhawk legacy as a comic book fan?** They're the Green Lantern Corps if the Lanterns were Old West sheriffs or cowboys instead of Space Cops. Watch "The Dragon Prince" and "The Mandalorian".
+- **How do I relate to the Starhawk legacy as a comic book fan?**
+  - Watch "The Dragon Prince" and "The Mandalorian".
+  - They're the Green Lantern Corps if the Lanterns were Old West sheriffs or cowboys instead of Space Cops
+  - There's a resemblance to the Phoenix Force, but it's not that powerful and won't drive the wielder bananas
 - **How soon should the egg hatch?** It should probably be an early milestone, with Finn's responsibilities now expanded to keeping an eye on a chick that can wander off or get into trouble.
 - **How do I keep the Legacy relevant?**
   - Make Finn responsible for the actions of the last Starhawk who rolled into town, caused a ruckus while fixing a problem, and bailed.

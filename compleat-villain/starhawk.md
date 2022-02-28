@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:22:03.936Z
+date: 2022-02-28T06:22:56.072Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -27,7 +27,7 @@ On Earth, Starhawks intervened to stop an alien invasion. More than just their r
 
 ## How does the public perceive your legacy?
 
-The Starhawks have been around for thousands of years, and have intervened on many planets. Their deeds are uncountable. At the same time, they're not an organized group and have no central leadership. Any planet you visit will say _something_ notable about a Starhawk, always memorable but not always good.
+The Starhawks have been around for thousands of years, and have intervened on many planets. Their deeds are uncountable. At the same time, they're not an organized group and have no central leadership. Any planet you visit will know _something_ about a Starhawk, always memorable but not always good.
 
 ## How does your legacy tie into your reasons for being a hero?
 

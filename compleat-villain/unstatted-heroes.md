@@ -2,7 +2,7 @@
 title: Unstatted Heroes
 description: 
 published: true
-date: 2021-09-11T12:36:50.086Z
+date: 2022-03-01T19:11:21.904Z
 tags: character
 editor: markdown
 dateCreated: 2021-09-11T11:10:07.880Z
@@ -12,7 +12,7 @@ dateCreated: 2021-09-11T11:10:07.880Z
 
 A fierce Norse warrior is denied entry into Valhalla by the Valkyries: "you fight well, it's true, but you do not care a whit for your fellows. You thirst for battle, but you have no place at the table in celebration afterward." So they curse this person with three things: immortality, regeneration, and always-on empathy, to feel the pain and joy of everyone around them. You can add a little offensive power by adding tattooed runes of lightning and stone or the like, to let their body manifest elemental weapons. The result should be a hard-drinking, hard-fighting warrior who'll inevitably be drawn into the emotional lives of those around them. Could be whatever gender you like.
 
-Inspired by Marvel's Wolverline.
+Inspired by Marvel's Wolverine.
 
 ## Breakthrough
 

@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-02-28T06:50:08.721Z
+date: 2022-03-01T19:18:00.981Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -50,6 +50,10 @@ The rest of this team feels like it kinda needs some support too, honestly.
   - Have another Starhawk show up and criticize or mock him. 
   - Kick off a romance or rivalry plot with an alien who has ties to the Starhawks.
   - Have the chick (or another starbird) reveal some portentous cosmic truth through dreams or prophecy
+- **How do players answer the time-passes move questions?**
+  - The traditions of the Starhawk legacy are: use restraint, inspire respect, solve your own problems
+  - The image of the legacy is: space gunslingers who save the farm from the robber barons
+  - What makes legacy members proud: giving a memorable, worthwhile experience to your partner, and using its gift of power well
 
 # The Legacy
 **Hero Name**: Starhawk ("the Starhawk of Sol")

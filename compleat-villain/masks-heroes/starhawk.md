@@ -2,7 +2,7 @@
 title: Starhawk
 description: 
 published: true
-date: 2022-03-01T19:18:00.981Z
+date: 2022-03-01T22:08:25.669Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-28T06:15:13.411Z
@@ -50,6 +50,7 @@ The rest of this team feels like it kinda needs some support too, honestly.
   - Have another Starhawk show up and criticize or mock him. 
   - Kick off a romance or rivalry plot with an alien who has ties to the Starhawks.
   - Have the chick (or another starbird) reveal some portentous cosmic truth through dreams or prophecy
+  - Have someone try to steal the gemstone for its power
 - **How do players answer the time-passes move questions?**
   - The traditions of the Starhawk legacy are: use restraint, inspire respect, solve your own problems
   - The image of the legacy is: space gunslingers who save the farm from the robber barons

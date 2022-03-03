@@ -2,13 +2,13 @@
 title: Issue 2
 description: 2022-03-02
 published: true
-date: 2022-03-03T02:43:10.361Z
+date: 2022-03-03T02:43:53.933Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-03T02:43:10.361Z
 ---
 
-# Issue 2
+# Recap
 
 INT. Pariah's family home (2 weeks ago)
 
@@ -185,3 +185,8 @@ Fiddler is ranting about being locked up
 In a more secure cell, the Grand Wizard is pretty miserable
 Fake Guard: (opening door) Herr Wizard
 (Cue escape)
+
+# Notes
+
+* We fought the Fiddler
+* The Grand Wizard is escaping prison

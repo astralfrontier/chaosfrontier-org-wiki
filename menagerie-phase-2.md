@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-03-03T19:40:25.500Z
+date: 2022-03-03T19:46:03.576Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -20,6 +20,8 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 * Alycia meets Amir
 
 ## Atlantis
+
+* Squid ninjas attack the Extension
 
 ## King Paimon
 

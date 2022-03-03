@@ -2,7 +2,7 @@
 title: Issue 2
 description: 2022-03-02
 published: true
-date: 2022-03-03T02:43:53.933Z
+date: 2022-03-03T02:49:41.256Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-03T02:43:10.361Z
@@ -38,7 +38,7 @@ Pariah: once I'm settled, I'll get back to you guys
 Soju: I was going back to my place, lots of room
 Pariah: I'll find a way to pay my way
 
-INT. abandoned building under construction)
+INT. abandoned building under construction
 
 Soju: check out this hidden carved-out squatter space I got
 Pariah: this is your place?

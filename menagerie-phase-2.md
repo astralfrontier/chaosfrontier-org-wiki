@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-03-03T19:46:03.576Z
+date: 2022-03-03T19:48:11.722Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -31,6 +31,8 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 * Ghostheart betrays Rook - how?
 
 ## The Void Shadow Collective
+
+* Peri uses Perfect Purification on Sablestar at the house - "no powers in the house!"
 
 ## Finale
 

@@ -2,7 +2,7 @@
 title: Issue 2
 description: 2022-03-02
 published: true
-date: 2022-03-03T02:52:36.101Z
+date: 2022-03-03T05:19:23.539Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-03T02:43:10.361Z
@@ -186,7 +186,8 @@ In a more secure cell, the Grand Wizard is pretty miserable
 Fake Guard: (opening door) Herr Wizard
 (Cue escape)
 
-# Notes
+# Updates
 
-* We fought the Fiddler
-* The Grand Wizard is escaping prison
+* Pariah is staying with Soju
+* We fought a new villain, the Fiddler
+* The Grand Wizard escapes prison

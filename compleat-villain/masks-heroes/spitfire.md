@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-02-17T02:25:36.765Z
+date: 2022-03-03T05:22:54.470Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -104,3 +104,8 @@ Obligations:
   * Aldous Ashton shows up at Mr. Venture's house on regular social calls
   * Andy knows everything about Rangers & their tech
   * Vic delivers flowers to someone in the hero community
+  
+# Recaps
+
+
+* [Issue 2](/compleat-villain/masks-heroes/spitfire/issue-2)

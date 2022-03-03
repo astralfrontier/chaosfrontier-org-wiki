@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-03-03T19:39:06.611Z
+date: 2022-03-03T19:40:25.500Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -22,6 +22,11 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 ## Atlantis
 
 ## King Paimon
+
+* Ghost Girl gets captured by Rook
+* She's a natural receptor for ghosts - the seed of a god
+* That's why she's Pandemonium
+* Ghostheart betrays Rook - how?
 
 ## The Void Shadow Collective
 

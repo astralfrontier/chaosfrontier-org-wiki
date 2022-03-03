@@ -2,7 +2,7 @@
 title: Issue 2
 description: 2022-03-02
 published: true
-date: 2022-03-03T05:19:23.539Z
+date: 2022-03-03T06:02:55.537Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-03T02:43:10.361Z
@@ -96,7 +96,7 @@ Glass: there's a Pied Piper on the loose!
 Vic runs away to get his jet pack
 Glass turns invisible and tries to sneak into bank basement
 Glass wants Farrah to crack stone, enough to let her look into the room
-Random dude: hey what are you dong?
+Random dude: hey what are you doing?
 Glass: hero business
 Random dude: looks like you're trying to break into a bank
 Glass: I need to see what's going on in there

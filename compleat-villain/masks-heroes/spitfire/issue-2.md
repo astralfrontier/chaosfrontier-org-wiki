@@ -2,7 +2,7 @@
 title: Issue 2
 description: 2022-03-02
 published: true
-date: 2022-03-03T02:49:41.256Z
+date: 2022-03-03T02:52:36.101Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-03T02:43:10.361Z
@@ -56,7 +56,7 @@ Glass: you saw me & Soju at the church? I think we did pretty well
 Rattlesnake: how about patrols?
 Glass: every chance I get, when I'm not at school or helping mom
 Rattlesnake: can't imagine being a kid balancing school and superheroics
-(Every Janus in the world: -_-)
+(Every Janus in the world: 😒)
 Rattlesnake: How's your dad?
 Glass: he's gotten used to fighting without Farrah, but he didn't need her
 Rattlesnake: how's Farrah working with you?
@@ -66,7 +66,7 @@ Rattlesnake: I want to keep you safe, but it's not all fun & games. The hero wor
 Glass: and I disappear!
 Glass: I don't know how I could do this if I didn't have this power
 Rattlesnake: Without powers, it's a lot harder than it looks
-(Every Beacon in the world: -_-)
+(Every Beacon in the world: 😒)
 Glass: a purse snatcher grabs the edge of my costume & sends me tumbling! Hate the costume
 Rattlesnake: you may want to rework it a bit, even if your dad is gung-ho about it. I'll talk to him.
 Glass: it's okay, I'll work it out myself

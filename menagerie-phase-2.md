@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-02-19T20:10:27.789Z
+date: 2022-03-03T19:39:06.611Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -14,6 +14,7 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 
 ## Agents of AEGIS
 
+* Alycia as hero in a deathtrap - "he's gloating"
 * Dr. Chin occupies an old Quill compound (where?)
 * A spider-bot that looks like Alycia will attack the team
 * Alycia meets Amir

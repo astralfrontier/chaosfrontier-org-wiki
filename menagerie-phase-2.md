@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-03-04T07:03:11.485Z
+date: 2022-03-06T09:54:42.465Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -14,9 +14,9 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 
 ## Agents of AEGIS
 
-* Alycia as hero in a deathtrap - "he's gloating"
 * Dr. Chin occupies an old Quill compound (where?)
-* A spider-bot that looks like Alycia will attack the team
+* Pyrrhus wants to steal Jason's nanobots and take over his life
+* Lee Yan interviews Kid Kelvin
 * Alycia meets Amir
 * Pyrrhus is leftover Quill nanobots that came from the Sepiaverse purging of Quill and Chin
 

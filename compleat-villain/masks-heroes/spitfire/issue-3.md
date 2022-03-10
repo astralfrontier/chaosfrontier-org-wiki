@@ -2,7 +2,7 @@
 title: Issue 3
 description: 
 published: true
-date: 2022-03-10T03:10:51.699Z
+date: 2022-03-10T03:13:21.541Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-10T03:10:51.699Z
@@ -123,3 +123,7 @@ Glass vanishes, goes to leave
 Soju: she's getting away!
 Provoke => 11
 Soju opens the door into the prison...
+
+# Updates
+
+* Pariah has been captured by the Feds and is probably in AEGIS custody

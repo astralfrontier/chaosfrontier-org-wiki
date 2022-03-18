@@ -2,7 +2,7 @@
 title: Archive
 description: 
 published: true
-date: 2022-03-18T03:38:37.954Z
+date: 2022-03-18T03:40:44.818Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-03-18T00:48:34.314Z
@@ -30,7 +30,7 @@ Maybe they can help me control this. If they can't, maybe they can survive me.
 **Hero Name**: Archive
 **Real Name**: Lewis Carter
 **Look**: Man, White, marked skin, fashionable clothing, 
-**Abilities**: Cosmic energies (a civilization's collected technological knowledge)
+**Abilities**: Cosmic energies (a civilization's collected knowledge encoded in cosmic radiation)
 
 **Labels**: Danger +1, Freak +2, Savior +0, Superior +1, Mundane -1
 

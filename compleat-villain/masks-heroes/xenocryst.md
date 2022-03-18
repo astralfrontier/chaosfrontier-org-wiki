@@ -2,7 +2,7 @@
 title: Xenocryst
 description: 
 published: true
-date: 2022-03-17T23:36:58.909Z
+date: 2022-03-18T00:40:50.861Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-03-17T23:36:58.909Z
@@ -26,7 +26,7 @@ My parents are doing everything they can to learn the lore of Xuzotl, so we can 
 Xuzotl won't let me. The earth-god has an agenda, but won't tell me what it is. They just keep pushing me into new and weird situations as part of this pact I made. Plus, every so often, they suspend the curse and turn me human again. But only for their own purposes. Plus, they'll restore the transformation without any warning, at any time.
 
 ## Why do you care about the team? 
-I don't know anyone else who has so many problems, so hopefully they'll accept me because they know a little bit of what it's like?
+Sometimes, I get so angry, and I start breaking things. And maybe they'll help me understand if that's Xuzotl affecting my behavior... or if that's just me.
 
 # The Transformed
 **Hero Name**: Xenocryst

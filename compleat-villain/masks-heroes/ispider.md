@@ -2,7 +2,7 @@
 title: iSpider
 description: 
 published: true
-date: 2022-03-19T05:04:53.444Z
+date: 2022-03-19T05:05:43.332Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-03-19T05:04:53.444Z
@@ -22,7 +22,7 @@ Plus, he's _terrible_ at applying his inventions to practical use. So the whole 
 Well, I tell them I stole the suit from the Herkimer Gang and have been fighting the good fight, of course! That's not true, I'm just able to use the suit at more than like 5% of its capacity, _unlike_ those fools.
 
 ## Who, outside of the team, supports your burgeoning star in every way possible?
-Well they love me back in the neighborhood! Word's spreading to more distinguished zones of our fair city, I'm proud to say. But anyone who's been approached to take part in a shady deal? I make sure that not only do those villains get their comeuppance, but that my folks get paid from the stolen proceeds. All of which are insured by the FDIC, I'm told.
+Well they love me back in the neighborhood! Word's spreading to more distinguished zones of our fair city, I'm proud to say. But anyone who's been approached to take part in a shady deal? I make sure that not only do those villains get their comeuppance, but that needy people get paid from the stolen proceeds. All of which are insured by the FDIC, I'm told.
 
 ## Who, outside of the team, loathes what you represent?
 Well the cops hate me, because some detective figured out I'd actually been part of the gang for a bit, but they keep their mouth shut because they were sitting on us instead of actually, y'know, _doing_ something about the problem! So I just get static whenever the cops show up, no big deal, price of fame and all.

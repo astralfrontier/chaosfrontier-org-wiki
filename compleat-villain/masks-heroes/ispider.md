@@ -2,7 +2,7 @@
 title: iSpider
 description: 
 published: true
-date: 2022-03-19T05:05:43.332Z
+date: 2022-03-19T05:06:25.816Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-03-19T05:04:53.444Z
@@ -34,7 +34,7 @@ Well it's a nice change, this whole "being legit" thing, hanging out with heroes
 **Hero Name**: iSpider
 **Real Name**: Craig Gardener
 **Look**: man, White, warm smile, casual clothing, flashy costume
-**Abilities**: body plasticity and stretching (agility, webbing)
+**Abilities**: body plasticity and stretching (agility and webbing provided by a super-suit)
 
 **Labels**: Danger +0, Freak +1, Savior +1, Superior +2, Mundane -1
 

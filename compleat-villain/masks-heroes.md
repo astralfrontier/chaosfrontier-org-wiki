@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-03-18T00:42:48.937Z
+date: 2022-03-19T04:47:44.335Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -36,6 +36,10 @@ dateCreated: 2021-09-11T08:33:06.258Z
 ## Reformed
 
 * [Rivet](rivet) - a cheerful not-so-ex-villain
+
+## Star
+
+* [iSpider](ispider) - a sassy spider-themed henchman turned hero
 
 ## Transformed
 

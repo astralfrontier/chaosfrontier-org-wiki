@@ -2,7 +2,7 @@
 title: Project 9
 description: 
 published: true
-date: 2022-03-20T09:15:14.129Z
+date: 2022-03-20T12:04:31.356Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-03-20T09:15:14.129Z
@@ -29,6 +29,10 @@ Well, this is a whole new place. This whole "planet" thing is a novelty to me, a
 ## Why do your people want you to come home?
 
 They're _so_ worried. You see, we're entertainers, not first contact specialists. The important ones back home say I'm supposed to leave this up to the experts. But I'm a performer! If making close connections with people isn't my job, what is?
+
+Plus they've kept the lens focused on me and now my life here is a reality show so I'm mega popular or something.
+
+So is the team, by the way.
 
 ## Why do you care about the team?
 

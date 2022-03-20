@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-03-19T04:47:44.335Z
+date: 2022-03-20T08:58:46.600Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -32,6 +32,10 @@ dateCreated: 2021-09-11T08:33:06.258Z
 
 * [Archive](archive) - a character with an alien civilization's memories in their head
 * [Nick Knack](nick-knack) - a psychic powered by memories and emotions
+
+## Outsider
+
+* [Project 9](project-9) - an entertainer from another star system, beamed here by accident
 
 ## Reformed
 

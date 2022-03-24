@@ -2,7 +2,7 @@
 title: Issue 4
 description: 
 published: true
-date: 2022-03-24T02:14:35.594Z
+date: 2022-03-24T04:25:15.319Z
 tags: recap
 editor: markdown
 dateCreated: 2022-03-24T02:14:35.594Z
@@ -166,6 +166,9 @@ Agent: listen here, don't worry about who we're looking for. Just go along, help
 Paul stabs his way into the conversation, is going to Moment of Truth the Bromance.
 Spitfire: everyone today has told me not to trust you. If you tell me I can, I'll believe you
 (Discussion about hero morality - Pariah took a bullet, but didn't kill the agents)
+Pariah felt trapped by agents, Spitfire lets him know team was looking for him.
+Spitfire will carry Pariah back to town.
+
 # Updates
 * Pariah is now wanted by AEGIS for resisting arrest
 * Soju found his father (and became an NPC)

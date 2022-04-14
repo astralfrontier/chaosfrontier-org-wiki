@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-03-22T01:36:43.228Z
+date: 2022-04-14T09:06:12.755Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -14,9 +14,27 @@ dateCreated: 2021-09-11T08:33:06.258Z
 
 * [Happy Phantom](happy-phantom) - a self-described ghost
 
+## Brain
+
+TODO
+
 ## Bull
 
 * [Reckoner](reckoner) - a human kaiju
+
+## Delinquent
+
+TODO
+
+## Doomed
+
+TODO
+
+## Harbinger
+
+## Innocent
+
+TODO
 
 ## Janus
 
@@ -28,6 +46,14 @@ dateCreated: 2021-09-11T08:33:06.258Z
 * [Armiger](armiger) - wielder of Excalibur
 * [Starhawk](starhawk) - a substitute mama bird for a cosmic creature
 
+## Newborn
+
+TODO
+
+## Nomad
+
+TODO
+
 ## Nova
 
 * [Archive](archive) - a character with an alien civilization's memories in their head
@@ -37,9 +63,21 @@ dateCreated: 2021-09-11T08:33:06.258Z
 
 * [Project 9](project-9) - an entertainer from another star system, beamed here by accident
 
+## Protege
+
+TODO
+
 ## Reformed
 
 * [Rivet](rivet) - a cheerful not-so-ex-villain
+
+## Scion
+
+TODO
+
+## Soldier
+
+TODO
 
 ## Star
 

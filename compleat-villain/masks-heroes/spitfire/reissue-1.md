@@ -2,7 +2,7 @@
 title: Reissue 1
 description: 
 published: true
-date: 2022-04-14T02:07:32.367Z
+date: 2022-04-14T08:52:36.610Z
 tags: recap
 editor: markdown
 dateCreated: 2022-04-14T02:07:32.367Z
@@ -33,6 +33,8 @@ Spitfire: hey Hellstorm, can you trap werewolves?
 Hellstorm: I haven't tried this spell before
 (rope bondage spell traps Beastman)
 Commie calls Dr. Reeves for a base. Can we keep secrets? Yes.
+
+## EXT. away from the others
 
 As we're walking, Glass talks to Spitfire
 G: I have to tell them about this guy
@@ -116,7 +118,7 @@ SH: we gotta figure it out
 KQ: I can punch him again
 (They go back into the hideout)
 
-## INT: secret lair
+## INT. secret lair
 
 Beastman has revealed unsettling details of his plan so far
 Glass: let's turn him over to AEGIS

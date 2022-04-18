@@ -2,11 +2,13 @@
 title: Reissue 1
 description: 
 published: true
-date: 2022-04-14T08:52:36.610Z
+date: 2022-04-18T08:13:53.242Z
 tags: recap
 editor: markdown
 dateCreated: 2022-04-14T02:07:32.367Z
 ---
+
+![5479_196525b.jpg](/5479_196525b.jpg)
 
 # Recap
 
@@ -25,7 +27,7 @@ SH: every mortal carries their sins with them, I can bring them to life
 Commie: how exactly do you do that?
 SH: uhh hard work & exercise
 (Discussions about Doom track and power use - dark visions appear in book, and are based on memory)
-SH wants to read his sins => 4
+SH wants to read Beastman's sins => 4
 He's not house trained but nothing more definite
 Commie: we should question him
 Glass: nobody's going to believe us! He's an adult hero!

@@ -1,8 +1,8 @@
 ---
 title: Reissue 1
-description: 
+description: Team vs. Nazi werewolves
 published: true
-date: 2022-04-18T08:13:53.242Z
+date: 2022-04-21T02:42:46.877Z
 tags: recap
 editor: markdown
 dateCreated: 2022-04-14T02:07:32.367Z

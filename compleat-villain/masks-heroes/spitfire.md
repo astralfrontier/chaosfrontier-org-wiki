@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-04-21T02:37:15.104Z
+date: 2022-04-21T02:43:02.000Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z

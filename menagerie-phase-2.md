@@ -2,7 +2,7 @@
 title: Menagerie Phase 2
 description: Planning for the writing project
 published: true
-date: 2022-03-06T09:54:42.465Z
+date: 2022-04-25T23:22:20.967Z
 tags: menagerie
 editor: markdown
 dateCreated: 2022-02-10T11:50:26.669Z
@@ -22,14 +22,7 @@ Link: https://forum.menagerie.team/c/fiction/menagerie-phase-2/21
 
 ## Atlantis
 
-* Squid ninjas attack the Extension
-
 ## King Paimon
-
-* Ghost Girl gets captured by Rook
-* She's a natural receptor for ghosts - the seed of a god
-* That's why she's Pandemonium
-* Ghostheart betrays Rook - how?
 
 ## The Void Shadow Collective
 
@@ -52,5 +45,3 @@ Link: https://forum.menagerie.team/t/the-hidden-family-of-the-throne/1079?u=garr
 * Ties to the [royal family](https://en.wikipedia.org/wiki/History_of_Iceland#Iceland_under_Norwegian_and_Danish_kings_(1262%E2%80%931944))
 
 # Plot Crossovers
-
-* The Hidden Family is working with Rook and Ghostheart on the ghost-fishing project

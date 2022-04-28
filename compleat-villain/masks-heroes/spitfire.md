@@ -2,7 +2,7 @@
 title: Spitfire
 description: A Golden Age hero with a jetpack
 published: true
-date: 2022-04-21T02:43:02.000Z
+date: 2022-04-28T01:52:16.788Z
 tags: masks, character
 editor: markdown
 dateCreated: 2022-02-14T04:56:36.892Z
@@ -115,6 +115,7 @@ Obligations:
 
 * [Reissue 1](/compleat-villain/masks-heroes/spitfire/reissue-1)
 * [Reissue 2](/compleat-villain/masks-heroes/spitfire/reissue-2)
+* [Reissue 3](/compleat-villain/masks-heroes/spitfire/reissue-3)
 
 # Advancement Options
 

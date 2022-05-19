@@ -2,7 +2,7 @@
 title: Masks Heroes
 description: 
 published: true
-date: 2022-04-14T09:06:36.388Z
+date: 2022-05-19T03:25:17.976Z
 tags: masks
 editor: markdown
 dateCreated: 2021-09-11T08:33:06.258Z
@@ -28,7 +28,7 @@ TODO
 
 ## Doomed
 
-TODO
+* [Red Hugh](red-hugh) - a vampire
 
 ## Harbinger
 
